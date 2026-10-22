@@ -1,0 +1,97 @@
+{
+ "name": "Stiffler's Electric Service",
+ "short_name": "Stiffler's Electric",
+ "tagline": "Licensed electrician serving Elkridge, MD since 1979",
+ "meta_description": "Stiffler's Electric Service, Elkridge, MD: electrical repairs, wiring, panel upgrades and installations since 1979. Rated 5.0 from 98 HomeAdvisor reviews.",
+ "phone": "(443) 745-9735",
+ "email": "stifflerselectricservice@gmail.com",
+ "address": "7802 Marioak, Elkridge, MD 21075",
+ "headline": "Electrical repairs, wiring and panel upgrades in Elkridge since 1979.",
+ "subhead": "Electrical installation, repairs and wiring, including panel upgrades, outlets and switches, thermostats and electrical for additions and remodels, serving Elkridge and the surrounding area. In business since 1979. Free estimates, emergency service and warranties offered.",
+ "rating": "5.0",
+ "review_count": "98",
+ "review_source": "HomeAdvisor",
+ "years": "47",
+ "area_short": "Howard County",
+ "trust3_big": "Licensed",
+ "trust3_small": "MD license #3711",
+ "services_lead": "Residential electrical work for Howard County homes.",
+ "services": [
+  {
+   "name": "Electrical repairs",
+   "blurb": "Troubleshooting and repair of outlets, switches, fixtures and outdoor lighting."
+  },
+  {
+   "name": "Electrical wiring and panel upgrades",
+   "blurb": "Wiring work and electrical panel upgrades."
+  },
+  {
+   "name": "Electrical installation",
+   "blurb": "Installation of electrical switches, outlets and fixtures."
+  },
+  {
+   "name": "Remodel and addition wiring",
+   "blurb": "Electrical for home additions and remodels."
+  },
+  {
+   "name": "Thermostats",
+   "blurb": "Thermostat installation and replacement, including smart thermostats."
+  },
+  {
+   "name": "Telephone jacks and wiring",
+   "blurb": "Telephone jack and low-voltage wiring."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Honest and knowledgeable",
+   "text": "Reviewers call David honest, a master electrician, and knowledgeable about both small and large jobs."
+  },
+  {
+   "title": "Reasonable pricing",
+   "text": "Customers describe the work as reasonably priced, with good pricing and well-priced parts."
+  },
+  {
+   "title": "Repeat customers",
+   "text": "Several reviewers say they have used Dave for years, across multiple projects, and would call him again."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "David Stiffler was awesome. Found the source of the problem, fixed it in a timely manner, was reasonably priced, and just an overall great guy.",
+   "author": "Tiffany A.",
+   "when": "May 2024"
+  },
+  {
+   "text": "We have been using Dave since we moved to Maryland nine years ago . He is knowledgeable, efficient, reasonable and friendly. …",
+   "author": "Eden W.",
+   "when": "May 2022"
+  },
+  {
+   "text": "David isGreat. He is capable of doing small and large jobs. He is honest and has integrity. …",
+   "author": "Carolyn M.",
+   "when": "November 2018"
+  }
+ ],
+ "area_lead": "Serving Elkridge and nearby Howard County communities.",
+ "areas": [
+  "Elkridge",
+  "Glenwood"
+ ],
+ "hours": [
+  [
+   "Monday to Friday",
+   "6:00 AM to 8:00 PM"
+  ],
+  [
+   "Saturday and Sunday",
+   "8:00 AM to 4:00 PM"
+  ]
+ ],
+ "year": "2026",
+ "license_line": "MD electrical license #3711",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

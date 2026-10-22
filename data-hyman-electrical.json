@@ -1,0 +1,46 @@
+{
+  "name": "William G. Hyman Electrical Contracting",
+  "short_name": "Hyman Electric",
+  "tagline": "The old house wiring specialists, Silver Spring, since 1967",
+  "meta_description": "William G. Hyman Electrical Contracting, Silver Spring MD. Old house wiring, panel upgrades, heavy-ups, lighting and repairs. Licensed in MD and DC since 1967.",
+  "phone": "(301) 622-1777",
+  "email": "service@hymanelectric.com",
+  "address": "712 Notley Road, Silver Spring, MD 20904",
+  "headline": "Old house wiring specialists serving Silver Spring and Montgomery County.",
+  "subhead": "William G. Hyman Electrical Contracting has handled electrical service, repair and whole-house wiring since 1967. Licensed in Maryland and Washington, D.C.",
+  "rating": "4.9",
+  "review_count": "397",
+  "review_source": "Angi",
+  "years": "59",
+  "area_short": "Montgomery County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD license #668",
+  "services_lead": "Electrical service and repair for older homes, from a single outlet to a full panel upgrade.",
+  "services": [
+    {"name": "Old house electrical wiring", "blurb": "Repair, rewiring and restoration of older homes and historic properties."},
+    {"name": "Panel replacement and heavy-ups", "blurb": "Electrical service panel replacement and upgrades, including heavy-up service upgrades."},
+    {"name": "Electrical repairs", "blurb": "Troubleshooting and repair of electrical systems and problems."},
+    {"name": "Lighting and recessed lighting", "blurb": "Recessed lighting, kitchen lighting, ceiling fans and outdoor security lighting."},
+    {"name": "Outlets, switches and controls", "blurb": "Outlets, GFCI, switches, dimmers and controls."},
+    {"name": "HVAC wiring", "blurb": "Electrical wiring for heating and cooling equipment."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Professional, efficient crews", "text": "Reviewers describe electricians who are professional, efficient and respectful of the home."},
+    {"title": "Bill and his team", "text": "Bill Hyman, Jeremy and Kevin are named repeatedly as courteous, competent and good at what they do."},
+    {"title": "Problems solved, to code", "text": "Customers mention causes found quickly and outlets brought into conformity with current codes."}
+  ],
+  "reviews": [
+    {"text": "Great electricians! Would recommend them without hesitation!", "author": "marvin S.", "when": "August 2026"},
+    {"text": "I was very satisfied with the service provided by the William Hyman Electrical Contractor team. The electricians were very professional and efficient. They resolved the electrical issues in a timely manner. Very respectful of home and family members. I would highly recommend this company.", "author": "zetta L.", "when": "August 2025"},
+    {"text": "Very well. Cause quickly identified and corrections made, along with bringing several outlets into conformity with current codes. Scheduling was easy. Price seemed reasonable.", "author": "John M.", "when": "June 2025"}
+  ],
+  "area_lead": "Based in Silver Spring, serving Montgomery County.",
+  "areas": ["Silver Spring", "Bethesda", "Chevy Chase", "Rockville", "Kensington", "Cloverly", "Burtonsville", "Fairland", "Spencerville", "Ashton", "Takoma Park"],
+  "hours": [["Monday to Thursday", "7:00 AM to 5:00 PM"], ["Friday", "7:00 AM to 4:00 PM"], ["Saturday and Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MD license #668 · DC license #711/900",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

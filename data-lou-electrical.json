@@ -1,0 +1,50 @@
+{
+  "name": "Lou Electrical Contracting LLC",
+  "short_name": "Lou Electrical",
+  "tagline": "Licensed residential and commercial electrician in Gaithersburg",
+  "meta_description": "Licensed, insured electrician in Gaithersburg, MD since 2006. Repairs, panel upgrades, EV chargers, lighting, generators. 101 Google reviews, 4.5 stars.",
+  "phone": "(301) 367-7491",
+  "email": "louelectrical@gmail.com",
+  "address": "Gaithersburg, MD 20879",
+  "headline": "Licensed electrician for homes and businesses in Gaithersburg.",
+  "subhead": "Electrical repairs, installations, upgrades and troubleshooting for residential and commercial properties since 2006. Licensed and insured, BBB A+ accredited.",
+  "rating": "4.5",
+  "review_count": "101",
+  "review_source": "Google",
+  "years": "20",
+  "area_short": "Montgomery County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD license #4025",
+  "services_lead": "From a single light fixture to a full service upgrade, one licensed electrician handles the job and the permit.",
+  "services": [
+    {"name": "Electrical repair", "blurb": "Flickering or dimming lights, tripping breakers, troubleshooting, and new outlets and switches."},
+    {"name": "Panel changes and heavy-ups", "blurb": "Service upgrades, panel changes, dedicated circuits and surge protection."},
+    {"name": "EV charger installation", "blurb": "Electric vehicle charger installation, with the permit taken care of."},
+    {"name": "Lighting", "blurb": "Recessed, track, landscape and security lighting, ceiling fans and fixture installation."},
+    {"name": "Standby generators", "blurb": "Standby generator installation for homes and businesses."},
+    {"name": "Commercial electrical", "blurb": "Installations and repairs for commercial properties, from small wiring jobs to larger contracts."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Fast and easy to schedule", "text": "Reviewers say Lou installed quickly and worked around a convenient time."},
+    {"title": "Fair, reasonable pricing", "text": "Several recent reviews call the price fair or reasonable for the work done."},
+    {"title": "Honest and thorough", "text": "Customers describe Lou as honest, polite and clear about what the job involves, including making sure the permit is in order."}
+  ],
+  "reviews": [
+    {"text": "Just needed a new kitchen light installed. Lou installed the light fast, and he was easy to work with to schedule a convenient time for the install. I would definitely recommend him for any electrical work you might need.", "author": "KJS", "when": "October 2026"},
+    {"text": "Lou was a great choice to instal our EV charger! Honest, fast, and thorough! And he made sure the permit was good to go!", "author": "Jaimee Freeman", "when": "September 2026"},
+    {"text": "Lou was great. Quick, explained the task well, and all at a fair price. Id reccomend him anytime", "author": "Andrew Sauer", "when": "September 2026"}
+  ],
+  "area_lead": "Based in Gaithersburg, serving residential and commercial customers in Montgomery County.",
+  "areas": ["Gaithersburg"],
+  "hours": [
+    ["Monday to Friday", "8:00 AM to 5:00 PM"],
+    ["Saturday", "8:00 AM to 3:00 PM"],
+    ["Sunday", "Closed"]
+  ],
+  "year": "2026",
+  "license_line": "MD DLLR license #4025 and #15647",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

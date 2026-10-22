@@ -1,0 +1,92 @@
+{
+ "name": "George P. Mills Inc.",
+ "short_name": "George P. Mills",
+ "tagline": "Heating, HVAC and custom sheet metal in Rockville since 1982",
+ "meta_description": "George P. Mills Inc., Rockville MD: residential and commercial heating, HVAC and custom sheet metal work since 1982. Same-day service available. (301) 251-9888.",
+ "phone": "(301) 251-9888",
+ "email": "",
+ "address": "1027 Taft St, Rockville, MD 20850",
+ "headline": "Heating, HVAC and sheet metal work in Rockville, Maryland.",
+ "subhead": "Serving residential and commercial customers since 1982. Same-day service is available.",
+ "rating": "5.0",
+ "review_count": "49",
+ "review_source": "Google",
+ "years": "44",
+ "area_short": "Rockville, MD",
+ "trust3_big": "Same day",
+ "trust3_small": "service available",
+ "services_lead": "Heating, air conditioning and custom sheet metal for homes and businesses.",
+ "services": [
+  {
+   "name": "Heating",
+   "blurb": "Heating contractor for residential and commercial customers."
+  },
+  {
+   "name": "HVAC service",
+   "blurb": "Heating and air conditioning service, with same-day service available."
+  },
+  {
+   "name": "Custom sheet metal work",
+   "blurb": "Custom HVAC sheet metal fabrication for residential and commercial jobs."
+  },
+  {
+   "name": "Duct and vent cleaning",
+   "blurb": "Duct and vent cleaning to cut dust and improve airflow."
+  },
+  {
+   "name": "Commercial HVAC",
+   "blurb": "Heating and ventilating work for commercial buildings."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Attentive techs",
+   "text": "Reviewers describe a crew that explains what it is doing and answers concerns."
+  },
+  {
+   "title": "Careful work",
+   "text": "Customers note jobs done thoroughly and without damage to surrounding components."
+  },
+  {
+   "title": "Noticeable results",
+   "text": "Vent and duct cleanings are credited with reduced dust and better air."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "I was concerned about the heating system upkeep but the crew was more attentive this time than they used to be. The tech explained what he was doing and answered all my concerns, which helped me feel more comfortable with the process.",
+   "author": "Oscar Zuniga",
+   "when": "October 2026"
+  },
+  {
+   "text": "The dismantlement of the A/C system took about three hours, which seemed appropriate given the complexity of the job and the meticulous care needed. Despite my past frustrations with contractors, this time everything was disassembled carefully without causing any damage to surrounding components.",
+   "author": "Ryan Walker",
+   "when": "September 2026"
+  },
+  {
+   "text": "Thorough duct clean, dust noticeably reduced.",
+   "author": "Neal Rowe",
+   "when": "September 2026"
+  }
+ ],
+ "area_lead": "Based on Taft Street in Rockville, serving residential and commercial customers in Maryland.",
+ "areas": [
+  "Rockville"
+ ],
+ "hours": [
+  [
+   "Monday to Friday",
+   "7:30 AM to 4:00 PM"
+  ],
+  [
+   "Saturday and Sunday",
+   "Closed"
+  ]
+ ],
+ "year": "2026",
+ "license_line": "",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

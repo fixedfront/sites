@@ -1,0 +1,92 @@
+{
+ "name": "Elmer L Slack Sheet Metal HVAC",
+ "short_name": "Elmer L Slack HVAC",
+ "tagline": "Heating, air conditioning and custom sheet metal in Gaithersburg",
+ "meta_description": "Heating, air conditioning, heat pump and custom sheet metal work in Gaithersburg, MD. 50 Google reviews, 4.8 stars. Call (301) 721-2665.",
+ "phone": "(301) 721-2665",
+ "email": "",
+ "address": "Gaithersburg, MD 20878",
+ "headline": "Heating, cooling and sheet metal work in Gaithersburg.",
+ "subhead": "Residential and commercial heating and cooling sales, maintenance and repairs, plus custom sheet metal fabrication. Rated 4.8 from 50 Google reviews.",
+ "rating": "4.8",
+ "review_count": "50",
+ "review_source": "Google",
+ "years": "",
+ "area_short": "Montgomery County",
+ "trust3_big": "",
+ "trust3_small": "",
+ "services_lead": "Heating and cooling service for homes and businesses, plus the sheet metal work most HVAC companies send out.",
+ "services": [
+  {
+   "name": "Air conditioning",
+   "blurb": "Sales, maintenance and repair of residential and commercial air conditioning systems."
+  },
+  {
+   "name": "Heating",
+   "blurb": "Heating system sales, maintenance and repair."
+  },
+  {
+   "name": "Heat pumps",
+   "blurb": "Heat pump service and repair, including air handler parts."
+  },
+  {
+   "name": "HVAC maintenance",
+   "blurb": "System cleaning, filter replacement and thermostat calibration."
+  },
+  {
+   "name": "Custom sheet metal",
+   "blurb": "Custom sheet metal fabrication for heating and cooling systems."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Thorough",
+   "text": "Reviewers describe technicians who find problems a previous visit missed and stay until the job is finished."
+  },
+  {
+   "title": "Quick, clean servicing",
+   "text": "Maintenance and repairs are done promptly once the visit is scheduled."
+  },
+  {
+   "title": "Works with building management",
+   "text": "Customers in managed buildings say the team coordinated the approvals and schedules needed to get the work done."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "After waiting a few days, I can confirm that the technician who visited us last Thursday for HVAC maintenance thoroughly cleaned our system components and replaced a worn-out filter, which noticeably improved efficiency. He took his time, stayed an extra half hour to ensure the thermostat was correctly calibrated, and so far everything is running smoothly.",
+   "author": "George Cruz",
+   "when": "September 2026"
+  },
+  {
+   "text": "The second opinion showed that the A/C system had to be dismantled to find a concealed problem the first expert failed to spot. When you look at both experiences I liked the thoroughness of this visit.",
+   "author": "Yesenia Shannon",
+   "when": "October 2026"
+  },
+  {
+   "text": "I had to get the building management to OK it before I could do any maintenance on my HVAC system. Having acquired the approvals, the technicians did the necessary servicing in a crisp fashion.",
+   "author": "Ralph Powell",
+   "when": "October 2026"
+  }
+ ],
+ "area_lead": "Based in Gaithersburg, serving Montgomery County.",
+ "areas": [
+  "Gaithersburg"
+ ],
+ "hours": [
+  [
+   "Monday to Friday",
+   "9:00 AM to 6:00 PM"
+  ],
+  [
+   "Saturday and Sunday",
+   "Closed"
+  ]
+ ],
+ "year": "2026",
+ "license_line": "",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

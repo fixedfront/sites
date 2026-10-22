@@ -1,0 +1,46 @@
+{
+  "name": "Western Electric LLC",
+  "short_name": "Western Electric",
+  "tagline": "Licensed master electrician serving Baltimore, open 24/7",
+  "meta_description": "Western Electric LLC, Baltimore MD: licensed master electrician for troubleshooting, panel upgrades, lighting and EV chargers. 4.9 stars on Google. (410) 805-6551.",
+  "phone": "(410) 805-6551",
+  "email": "",
+  "address": "Baltimore, MD 21202",
+  "headline": "Residential and light commercial electrical work in Baltimore.",
+  "subhead": "Family-owned, locally operated electrical business serving the area since 2018. Licensed and insured, with flat-rate pricing.",
+  "rating": "4.9",
+  "review_count": "64",
+  "review_source": "Google",
+  "years": "8",
+  "area_short": "Baltimore",
+  "trust3_big": "Licensed",
+  "trust3_small": "Maryland master electrician",
+  "services_lead": "Troubleshooting, repairs and upgrades for homes and small businesses.",
+  "services": [
+    {"name": "Troubleshooting and repairs", "blurb": "Service calls with upfront repair options for outlets, wiring, breakers and appliance circuits."},
+    {"name": "Panel upgrades", "blurb": "Panel repair, circuit breaker replacement and dedicated circuits."},
+    {"name": "Lighting and outlets", "blurb": "Lighting installation including under-cabinet lighting, plus outlets, switches and smart home upgrades."},
+    {"name": "EV charger installation", "blurb": "EV charger installs, rebate eligible in Maryland."},
+    {"name": "Surge protection and inspections", "blurb": "Whole-home surge protection and electrical safety inspections."},
+    {"name": "Backup power", "blurb": "Generator interlock kits and backup power solutions."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Clear communication", "text": "Reviewers say Anthony explains the work in plain terms and answers questions, even over the phone."},
+    {"title": "Fast response", "text": "Same-day visits and quick replies come up repeatedly."},
+    {"title": "Fair pricing", "text": "Customers describe reasonable quotes and cost-friendly service."}
+  ],
+  "reviews": [
+    {"text": "We had an electrical issue, and when we called Western Electric, the service was very friendly. Great job, and helped us over the phone.", "author": "Shannon Bhandu", "when": "May 2026"},
+    {"text": "Communicated quickly and clearly via text. Quoted me a very reasonable price, and he took extra time to explain everything he was doing in terms I could understand.", "author": "Michael Hall", "when": "February 2026"},
+    {"text": "Answered my question and I now know what I need to do to move forward with my issue. Even offered to come earlier in the week than I requested. Thank you!", "author": "Olivia Haslup", "when": "February 2026"}
+  ],
+  "area_lead": "Serving Baltimore, Howard County and surrounding Maryland communities.",
+  "areas": ["Baltimore", "Howard County"],
+  "hours": [["Every day", "Open 24 hours"]],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

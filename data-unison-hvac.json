@@ -1,0 +1,44 @@
+{
+  "name": "Unison Cooling & Heating",
+  "short_name": "Unison",
+  "tagline": "Heating and air conditioning in Parkville since 1990",
+  "meta_description": "Unison Cooling & Heating, Parkville MD. Heating and cooling service, installation and maintenance since 1990. Rated 4.9 on Google. Call (410) 882-2800.",
+  "phone": "(410) 882-2800",
+  "email": "unisonhvac@verizon.net",
+  "address": "9801 Hilltop Dr, Parkville, MD 21234",
+  "headline": "Heating and cooling service for Parkville homes since 1990.",
+  "subhead": "An air conditioning and heating contractor at 9801 Hilltop Dr, Parkville, serving the Baltimore area for over thirty years. Rated 4.9 out of 5 from 45 Google reviews.",
+  "rating": "4.9",
+  "review_count": "45",
+  "review_source": "Google",
+  "years": "36",
+  "area_short": "Baltimore County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD HVACR license #8373",
+  "services_lead": "Service, installation and maintenance for heating and cooling systems.",
+  "services": [
+    {"name": "Air conditioning service", "blurb": "Repair and service for central air conditioning systems."},
+    {"name": "Heating repair", "blurb": "Furnace and heating system repairs."},
+    {"name": "System installation", "blurb": "New heating and cooling systems installed, including ductwork and sheet metal."},
+    {"name": "Maintenance", "blurb": "Routine maintenance to keep systems running."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Friendly technicians", "text": "Reviewers describe a friendly crew that explains the work clearly."},
+    {"title": "Thorough", "text": "Customers mention technicians who try to save a system before recommending a replacement and test everything before leaving."},
+    {"title": "Quick response", "text": "Reviews mention prompt arrival and smooth, efficient repairs."}
+  ],
+  "reviews": [
+    {"text": "Absolutely the best guys!!! Matt and Scott were thorough in trying to save my HVAC before determining it was not salvageable. … Recommend highly. Friendly and responsive and a great value.", "author": "Christina R.", "when": "August 2026"},
+    {"text": "Seamless thermostat setup took about 40 minutes. The technician was friendly and explained everything clearly. Highly recommend!", "author": "Mariela Janae", "when": "March 2026"},
+    {"text": "The team transformed our airflow remarkably, arriving promptly within the hour. Their attention to detail and friendly demeanor made the process seamless. It's a rare pleasure to find such professionalism and efficiency, leaving us with noticeably improved comfort at home.", "author": "Armani Cedric", "when": "March 2026"}
+  ],
+  "area_lead": "Based in Parkville and serving the Baltimore area.",
+  "areas": ["Parkville", "Baltimore", "Baltimore County", "Harford County"],
+  "hours": [["Monday to Friday", "9:00 AM to 5:00 PM"], ["Saturday and Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MD HVACR License #8373",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

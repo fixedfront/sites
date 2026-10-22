@@ -1,0 +1,104 @@
+{
+ "name": "Melecio Landscaping",
+ "short_name": "Melecio",
+ "tagline": "Lawn care, yard clean-up, gutters and snow removal in College Park, MD",
+ "meta_description": "Melecio Landscaping, College Park, MD: lawn mowing and maintenance, fall/spring clean-up, gutter cleaning and snow removal for homes and businesses. 4.4 stars on HomeAdvisor.",
+ "phone": "(301) 556-8257",
+ "email": "",
+ "address": "9628 51st Place, College Park, MD 20740",
+ "headline": "Lawn care, yard clean-up, gutter cleaning and snow removal in College Park.",
+ "subhead": "Melecio Landscaping has 16 years of experience and offers free estimates. Spanish spoken.",
+ "rating": "4.4",
+ "review_count": "136",
+ "review_source": "HomeAdvisor",
+ "years": "16",
+ "area_short": "College Park",
+ "trust3_big": "Free estimates",
+ "trust3_small": "Spanish spoken",
+ "services_lead": "Year-round yard work for homes and businesses in Prince George's County.",
+ "services": [
+  {
+   "name": "Lawn mowing and maintenance",
+   "blurb": "Regular lawn care, mowing and maintenance for residential and commercial properties."
+  },
+  {
+   "name": "Fall and spring clean-up",
+   "blurb": "Seasonal lawn clean-up for homes and businesses."
+  },
+  {
+   "name": "Lawn and yard waste clean-up",
+   "blurb": "Removal of lawn and yard waste."
+  },
+  {
+   "name": "Gutter and downspout cleaning",
+   "blurb": "Gutter and downspout cleaning service."
+  },
+  {
+   "name": "Snow removal",
+   "blurb": "Snow removal, including for businesses."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Fast response",
+   "text": "Reviewers describe getting a call back within minutes and work done the same day."
+  },
+  {
+   "title": "On time and polite",
+   "text": "Reviews mention punctuality, politeness and quick work."
+  },
+  {
+   "title": "Thorough results",
+   "text": "Customers describe a thorough job on overgrown grass and clean-ups."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "Called me within minutes of me submitting my request for quote. Came that same day to quote and get the work done. Amazing!",
+   "author": "Danielle C.",
+   "when": "July 2026"
+  },
+  {
+   "text": "He did a great job and was on time, polite, and quick. Would hire again.",
+   "author": "Jason B.",
+   "when": "July 2026"
+  },
+  {
+   "text": "Melecio Landscaping did a thorough job of mowing our overgrown grass and provided exceptional services!",
+   "author": "Ayo O.",
+   "when": "September 2025"
+  }
+ ],
+ "area_lead": "Based in College Park, serving Prince George's County and nearby communities.",
+ "areas": [
+  "College Park",
+  "Laurel",
+  "Crofton",
+  "Greenbelt",
+  "Fulton",
+  "Beltsville",
+  "Hyattsville",
+  "University Park",
+  "Glenn Dale"
+ ],
+ "hours": [
+  [
+   "Monday",
+   "7:00 AM to 6:00 PM"
+  ],
+  [
+   "Tuesday to Saturday",
+   "8:00 AM to 6:00 PM"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "year": "2026",
+ "license_line": "",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

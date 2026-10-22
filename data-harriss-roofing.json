@@ -1,0 +1,50 @@
+{
+  "name": "Harriss Roofing Inc",
+  "short_name": "Harriss Roofing",
+  "tagline": "Family-owned roofing in Glen Burnie for over 35 years",
+  "meta_description": "Family-owned roofing, siding, gutters and skylights in Glen Burnie, MD for over 35 years. MHIC #14129. 70 Google reviews, 4.9 stars. Call 410-760-7400.",
+  "phone": "410-760-7400",
+  "email": "",
+  "address": "1203 Dorsey Rd, Glen Burnie, MD 21061",
+  "headline": "Residential and commercial roofing in Glen Burnie and Anne Arundel County.",
+  "subhead": "Family owned and operated, licensed, bonded and insured, serving Anne Arundel County and surrounding areas for over 35 years. Rated 4.9 from 70 Google reviews.",
+  "rating": "4.9",
+  "review_count": "70",
+  "review_source": "Google",
+  "years": "35",
+  "area_short": "Anne Arundel County",
+  "trust3_big": "Family owned",
+  "trust3_small": "Over 35 years in Glen Burnie",
+  "services_lead": "Roof repairs and full replacements, plus the siding, gutters and skylights that go with them, with a free in-depth estimate.",
+  "services": [
+    {"name": "Roof repair", "blurb": "Repairs on all roof types: shingles, slate, leaks, flashing, ridge vents, chimneys and flat roofs, with a free in-depth estimate."},
+    {"name": "Residential roofing", "blurb": "Asphalt shingle installation and standing seam metal roofing for homes."},
+    {"name": "Commercial roofing", "blurb": "Roofing installation and repair for commercial properties."},
+    {"name": "Siding, fascia and soffit", "blurb": "Siding inspection, repair and replacement, including fascia and soffit."},
+    {"name": "Gutters", "blurb": "Gutter and downspout replacement and repair, including storm damage."},
+    {"name": "Skylights and windows", "blurb": "Skylight installation and repair, and window replacement."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "They show up when they say they will", "text": "Reviewers say Harriss calls when promised, arrives when promised and finishes fast, even after storm damage."},
+    {"title": "Quality work at a fair price", "text": "Customers describe the work as impeccable and the pricing as reasonable, and come back for later jobs."},
+    {"title": "A family team that explains the work", "text": "Reviews mention photos of what was repaired, a knowledgeable Harriss family and an accommodating office."}
+  ],
+  "reviews": [
+    {"text": "If only other companies could emulate what Harriss Roofing does: they call when they say they will, arrive when they say they will, and do the job (even better) than they say they will. The quality of the work is impeccable; the costs are very reasonable … 5 stars without hesitation!", "author": "Debbie Hughes", "when": "September 2026"},
+    {"text": "I'm very pleased with the excellent quality of work and fair pricing we've received from Harriss Roofing. Over the past 3 years, they have installed a standing seam metal roof on a new addition, repaired storm damage to our rain gutters, and inspected and repaired our siding. The Harriss family/team has been very knowledgeable and supportive …", "author": "Paul Musante", "when": "September 2026"},
+    {"text": "Had a large branch come down and damaged the roof. Harriss fixed the problem very fast, highly recommend. Have used them several times in the past, and always had excellent results", "author": "Donald Graney", "when": "August 2026"}
+  ],
+  "area_lead": "Based in Glen Burnie, serving Anne Arundel County and the surrounding area.",
+  "areas": ["Glen Burnie", "Severn", "Odenton", "Severna Park", "Davidsonville", "Bowie", "Columbia", "Ellicott City"],
+  "hours": [
+    ["Monday to Friday", "7:00 AM to 5:00 PM"],
+    ["Saturday", "7:00 AM to 12:00 PM"],
+    ["Sunday", "Closed"]
+  ],
+  "year": "2026",
+  "license_line": "MHIC #14129",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

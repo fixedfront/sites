@@ -1,0 +1,45 @@
+{
+  "name": "Climate Pro Mechanical, LLC",
+  "short_name": "Climate Pro",
+  "tagline": "Veteran-owned HVAC contractor in Ellicott City, Howard County",
+  "meta_description": "Climate Pro Mechanical, Ellicott City MD. Heating, air conditioning, heat pump and furnace installation, repair and maintenance in Howard County.",
+  "phone": "(301) 205-0109",
+  "email": "kevincreel@climatepro.net",
+  "address": "3717 Ligon Road, Ellicott City, MD 21042",
+  "headline": "Heating and cooling installation and repair in Howard County.",
+  "subhead": "Climate Pro Mechanical is a small, veteran-owned HVAC contractor in Ellicott City with a Master HVAC licensed technician on every job. Free estimates on new equipment.",
+  "rating": "4.9",
+  "review_count": "80",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Howard County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD license #11518",
+  "services_lead": "Installation, repair and maintenance for heating and cooling systems in homes and businesses.",
+  "services": [
+    {"name": "HVAC installation", "blurb": "Heat pumps, A/C, furnaces, ductless systems, high velocity units and ductwork. Free estimates on replacement."},
+    {"name": "HVAC repair", "blurb": "Heat pump, A/C, furnace and boiler repair for all brands, plus thermostats, radiators and ducts."},
+    {"name": "Maintenance and service contracts", "blurb": "Tailored maintenance plans with priority service and a 10% repair discount for members."},
+    {"name": "Water heaters", "blurb": "Water heater installation and repair, including heat pump water heaters."},
+    {"name": "Financing and rebates", "blurb": "Flexible financing with no down payment and rebates on qualifying new systems."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Kevin, the owner, on the job", "text": "Reviewers name Kevin again and again as responsive, knowledgeable and pleasant to deal with."},
+    {"title": "Fast response", "text": "Customers describe call-backs within minutes and same-day or next-day visits, including on a Sunday."},
+    {"title": "Fair pricing", "text": "Reviews describe pricing as more than fair and the team as professional and tidy."}
+  ],
+  "reviews": [
+    {"text": "I recently had my HVAC unit replaced by Climate Pro Mechanical, and I couldn't be happier with the entire experience. From the very beginning, Kevin (the owner) was extremely helpful—knowledgeable, responsive, and truly committed to making sure I was comfortable and informed throughout the process. …", "author": "Thomas", "when": "October 2025"},
+    {"text": "I am pleased to post a second review for this business. We have been using Climate Pro for over 6 years now. Kevin is pleasant, professional, extremely knowledgeable and pricing is more than fair. …", "author": "Betty D.", "when": "September 2023"},
+    {"text": "Kevin was great! I called him on a Sunday afternoon because my air conditioner unit was not working. He got back to me in less than 15 minutes and arranged to come on Monday. …", "author": "Arlene M.", "when": "May 2021"}
+  ],
+  "area_lead": "Based in Ellicott City, serving Howard County and surrounding areas.",
+  "areas": ["Ellicott City", "Columbia", "Clarksville", "Elkridge", "Fulton", "Highland", "Jessup", "Marriottsville", "North Laurel", "Savage", "West Friendship", "Woodstock"],
+  "hours": [["Monday to Friday", "7:00 AM to 5:00 PM"], ["Saturday", "8:00 AM to 4:00 PM"], ["Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MD license #11518",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

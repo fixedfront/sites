@@ -1,0 +1,46 @@
+{
+  "name": "Winn Electric Contracting Inc.",
+  "short_name": "Winn Electric",
+  "tagline": "Residential and commercial electricians in Timonium since 1986",
+  "meta_description": "Winn Electric Contracting, Timonium MD. Residential and commercial electrical work, EV chargers, generators and lighting since 1986. Free estimates.",
+  "phone": "(410) 484-5544",
+  "email": "",
+  "address": "15 W Aylesbury Road, Timonium, MD 21093",
+  "headline": "Electricians serving Timonium and Baltimore County since 1986.",
+  "subhead": "Winn Electric Contracting handles residential and commercial electrical work, from repairs and lighting to EV chargers and generators. Free estimates, licensed, bonded and insured.",
+  "rating": "4.8",
+  "review_count": "81",
+  "review_source": "Google",
+  "years": "39",
+  "area_short": "Baltimore County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD license #2997",
+  "services_lead": "Electrical work for homes and businesses, from a single outlet to a whole-house rewire.",
+  "services": [
+    {"name": "Electric car chargers", "blurb": "Home EV charger installation, including Tesla charging equipment, GE and Leviton chargers."},
+    {"name": "Generators", "blurb": "Generac generator sales and installation to keep power on during outages."},
+    {"name": "Indoor and outdoor lighting", "blurb": "Installation of indoor and outdoor lighting systems and new fixtures."},
+    {"name": "Residential repairs and rewiring", "blurb": "Electrical repairs, troubleshooting, residential rewiring, circuits, fuses and switches."},
+    {"name": "Remodeling and additions", "blurb": "Wiring for remodels and additions, hot tubs, RV outlets, telephone and computer lines."},
+    {"name": "TV installation and smart home", "blurb": "TV installation and smart home devices such as Ring doorbells."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "On time and quick", "text": "Reviewers describe technicians who show up on time and get the work done fast."},
+    {"title": "Friendly, professional crews", "text": "Electricians such as Eric, Mike and Arnold are named and praised for being courteous and professional."},
+    {"title": "Repeat customers", "text": "Several reviewers say Winn is their go-to electrician for projects big and small."}
+  ],
+  "reviews": [
+    {"text": "Winn Electric has been to my house several times for projects big and small. they are always friendly, professional and excellent value for the work done. They are a pleasure to work with.", "author": "Jerry P.", "when": "April 2025"},
+    {"text": "Amazing technicians who showed up on time and discuss the process with me. They made sure my EV home charger was set in my desired place.", "author": "Katrina R.", "when": "April 2025"},
+    {"text": "Eric and Garret were competent, efficient, and courteous. The work was done perfectly.", "author": "Warren G.", "when": "April 2025"}
+  ],
+  "area_lead": "Based in Timonium, serving Baltimore County and nearby.",
+  "areas": ["Timonium", "Lutherville-Timonium", "Towson", "Cockeysville", "Hunt Valley", "Parkville", "Pikesville", "Owings Mills", "Catonsville", "Randallstown", "Reisterstown", "Essex", "Middle River", "White Marsh"],
+  "hours": [["Monday to Friday", "8:00 AM to 5:00 PM"], ["Saturday and Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MD license #2997",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

@@ -1,0 +1,98 @@
+{
+ "name": "Milton Roofing, LLC",
+ "short_name": "Milton Roofing",
+ "tagline": "Roofing, gutter, siding and window work in Catonsville, MD",
+ "meta_description": "Milton Roofing, LLC in Catonsville, MD: roof repair and installation, gutters, siding and windows. Rated 4.9 from 38 HomeAdvisor reviews. Free estimates.",
+ "phone": "(240) 375-9083",
+ "email": "",
+ "address": "5920 Moorehead Rd, Catonsville, MD 21228",
+ "headline": "Roof repairs, new roofs, gutters and siding for Catonsville homes.",
+ "subhead": "Roofing installations and repairs, plus gutter, siding and window work, for homeowners in Catonsville and the surrounding Baltimore County area. In business since 2019. Free estimates, emergency service and warranties offered; English and Spanish spoken.",
+ "rating": "4.9",
+ "review_count": "38",
+ "review_source": "HomeAdvisor",
+ "years": "7",
+ "area_short": "Baltimore County",
+ "trust3_big": "Licensed",
+ "trust3_small": "MD license #117953",
+ "services_lead": "Roofing and exterior work for Baltimore County homes.",
+ "services": [
+  {
+   "name": "Roof repair",
+   "blurb": "Leak repairs, flashing, nail pops and flat-roof repairs."
+  },
+  {
+   "name": "Roof replacement and installation",
+   "blurb": "Full roof installations, including asphalt shingle roofing."
+  },
+  {
+   "name": "Roof inspection and certification",
+   "blurb": "Roof inspections and roof certifications."
+  },
+  {
+   "name": "Gutters",
+   "blurb": "Gutter installation, replacement, repair and cleaning."
+  },
+  {
+   "name": "Siding",
+   "blurb": "Siding installation, replacement and repair."
+  },
+  {
+   "name": "Windows",
+   "blurb": "Window installation and replacement."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Fair, reasonable pricing",
+   "text": "Reviewers repeatedly describe the price as very reasonable and fair for the work done."
+  },
+  {
+   "title": "Professional and on time",
+   "text": "Customers mention professional crews who showed up on time for both the estimate and the job."
+  },
+  {
+   "title": "Clean, quality work",
+   "text": "Several reviews call out excellent clean-up and high-quality work they would hire again."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "Great customer service The project was done on time My flat roof repair turned out great and very reasonable",
+   "author": "Inna F.",
+   "when": "March 2022"
+  },
+  {
+   "text": "They do high quality work at a very reasonable price. You will not be disappointed.",
+   "author": "James A.",
+   "when": "November 2021"
+  },
+  {
+   "text": "Very professional on time for estimate and for work. Clean up excellent.",
+   "author": "Debbie S.",
+   "when": "October 2021"
+  }
+ ],
+ "area_lead": "Serving Catonsville and nearby Baltimore County communities.",
+ "areas": [
+  "Catonsville",
+  "Woodlawn",
+  "Halethorpe"
+ ],
+ "hours": [
+  [
+   "Monday to Saturday",
+   "8:00 AM to 6:00 PM"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "year": "2026",
+ "license_line": "MD Home Improvement license #117953",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

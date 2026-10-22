@@ -1,0 +1,46 @@
+{
+  "name": "Turlington Heating & Air Conditioning",
+  "short_name": "Turlington",
+  "tagline": "Family-owned heating and air conditioning in Towson since 2004",
+  "meta_description": "Turlington Heating & Air Conditioning, Towson MD. Family-owned HVAC repair, installation and duct work since 2004. Rated 4.9 on Google. Call (410) 825-5200.",
+  "phone": "(410) 825-5200",
+  "email": "",
+  "address": "72 Cedar Ave, Towson, MD 21286",
+  "headline": "Heating and cooling repairs for Towson homes since 2004.",
+  "subhead": "A family-owned and operated HVAC company at 72 Cedar Ave, Towson, serving residential, commercial and industrial customers. Rated 4.9 out of 5 from 48 Google reviews.",
+  "rating": "4.9",
+  "review_count": "48",
+  "review_source": "Google",
+  "years": "22",
+  "area_short": "Baltimore County",
+  "trust3_big": "Family owned",
+  "trust3_small": "Owner William Turlington",
+  "services_lead": "Repairs, replacements and tune-ups for the systems that keep your home comfortable.",
+  "services": [
+    {"name": "Central air conditioning", "blurb": "Installation and repair of central A/C systems."},
+    {"name": "Furnaces, boilers and radiators", "blurb": "Gas, oil and electric heating systems serviced and replaced."},
+    {"name": "Heat pumps and ductless mini-splits", "blurb": "Heat pump and ductless mini-split installation and repair."},
+    {"name": "Ducts and vents", "blurb": "Duct cleaning and vent work to improve airflow."},
+    {"name": "Humidifiers and air cleaners", "blurb": "Indoor air quality equipment installed and serviced."},
+    {"name": "Radiant and geothermal", "blurb": "Radiant floor and panel heating and geothermal systems."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Shows up on time", "text": "Reviewers describe technicians who arrive promptly and explain the process before they start."},
+    {"title": "Thorough diagnosis", "text": "Customers mention leaks and problems found that other contractors had missed."},
+    {"title": "Fair pricing", "text": "Several reviews call the prices reasonable and the assessments honest."}
+  ],
+  "reviews": [
+    {"text": "I was really happy when they showed up on time, explained the process and cleaned the ducts in less than 2 hours after a bad experience with another contractor! The tech also pointed out a few minor things to watch for, which was good to know for maintenance down the road.", "author": "Shirley Ballard", "when": "August 2026"},
+    {"text": "So incredibly grateful to team Turlington! Very responsive, professional, and beyond fairly priced.", "author": "Nancy D.", "when": "December 2024"},
+    {"text": "Came home from work on one of the hottest day of the summer to a not functioning AC unit!! Called Turlington, someone came out within the hour. Repaired it in less time than it took for him to arrive at my house. Super nice and explained everything that was wrong and what was done to repair it. Very reasonable price too!!", "author": "Rob B.", "when": "August 2018"}
+  ],
+  "area_lead": "Based in Towson and working across Baltimore County and nearby communities.",
+  "areas": ["Towson", "Baltimore County", "Ellicott City"],
+  "hours": [["Monday to Friday", "8:00 AM to 4:30 PM"], ["Saturday and Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MD HVACR License #6933",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

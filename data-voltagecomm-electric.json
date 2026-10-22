@@ -1,0 +1,87 @@
+{
+ "name": "VoltageComm Electric",
+ "short_name": "VoltageComm",
+ "tagline": "Licensed electrician in Baltimore, MD: repairs, panels, lighting, EV chargers",
+ "meta_description": "VoltageComm Electric, Baltimore, MD 21214. Licensed electrical repairs, installs, troubleshooting, lighting, panel upgrades, ceiling fans and EV charging stations. 5.0 stars on HomeAdvisor.",
+ "phone": "(202) 743-4801",
+ "email": "",
+ "address": "6600 Marietta Avenue, Baltimore, MD 21214",
+ "headline": "Electrical repairs, troubleshooting and panel upgrades in Baltimore.",
+ "subhead": "VoltageComm Electric is a Maryland-licensed electrical contractor with 8 years of experience, free estimates and emergency service.",
+ "rating": "5.0",
+ "review_count": "15",
+ "review_source": "HomeAdvisor",
+ "years": "",
+ "area_short": "Baltimore",
+ "trust3_big": "Licensed",
+ "trust3_small": "MD license #13681",
+ "services_lead": "Residential and commercial electrical work in Baltimore.",
+ "services": [
+  {
+   "name": "Electrical repairs and troubleshooting",
+   "blurb": "Diagnosing and fixing electrical problems in homes and businesses."
+  },
+  {
+   "name": "Switches, outlets and fixtures",
+   "blurb": "Installation and repair of electrical switches, outlets and light fixtures."
+  },
+  {
+   "name": "Panel upgrades and wiring",
+   "blurb": "Electrical panel upgrades, circuit breaker panels, branch circuits and wiring for additions or remodels."
+  },
+  {
+   "name": "Lighting and ceiling fans",
+   "blurb": "Lighting installation and ceiling fan installation."
+  },
+  {
+   "name": "EV charging stations",
+   "blurb": "Installation of electric vehicle charging stations."
+  },
+  {
+   "name": "TV wall mounting and low-voltage wiring",
+   "blurb": "TV mounting, computer network wiring and telecommunication wiring."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "On time, often early",
+   "text": "Reviewers repeatedly say the electrician arrived on time or ahead of schedule, including on a Saturday."
+  },
+  {
+   "title": "Explains the work",
+   "text": "Customers describe clear explanations in plain terms and patient answers to questions."
+  },
+  {
+   "title": "Fair, upfront pricing",
+   "text": "Reviews mention good prices and competitive value."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "Fast, knowledgeable, friendly service from a VERY professional electrician. Miles from VoltageComm showed up BEFORE time, diagnosed the electrical problem, and fixed it quickly and efficiently. All while offering the most competitive value. Great service from a very capable and professional company!",
+   "author": "Alfred I.",
+   "when": "February 2025"
+  },
+  {
+   "text": "Miles was great and communication was easy. Super fast to come out, but did the job with time and care.",
+   "author": "Nick C.",
+   "when": "February 2025"
+  },
+  {
+   "text": "Fantastic. Miles was punctual and got the job done. I appreciated that he came here on a Saturday. Highly recommend him.",
+   "author": "Steven M.",
+   "when": "January 2025"
+  }
+ ],
+ "area_lead": "Based in northeast Baltimore, serving the city and nearby Baltimore County.",
+ "areas": [
+  "Baltimore"
+ ],
+ "hours": [],
+ "year": "2026",
+ "license_line": "Maryland license #13681",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}

@@ -1,0 +1,88 @@
+{
+ "name": "J A Electric LLC",
+ "short_name": "J A Electric",
+ "tagline": "Residential electrical work in Middle River, MD",
+ "meta_description": "J A Electric LLC, Middle River, MD: panel upgrades, EV chargers, outlets, lighting, ceiling fans and remodel wiring. Rated 4.9 from 49 HomeAdvisor reviews.",
+ "phone": "(410) 699-0860",
+ "email": "",
+ "address": "Middle River, MD 21220",
+ "headline": "Panel upgrades, EV chargers, outlets and lighting for Middle River homes.",
+ "subhead": "Panel upgrades, EV charging stations, outlets and switches, light fixtures, ceiling fans, security cameras and electrical for additions and remodels, serving Middle River and the surrounding area. Free estimates, emergency service and warranties offered; Spanish spoken.",
+ "rating": "4.9",
+ "review_count": "49",
+ "review_source": "HomeAdvisor",
+ "years": "11",
+ "area_short": "Baltimore County",
+ "trust3_big": "",
+ "trust3_small": "",
+ "services_lead": "Residential electrical work, from a single outlet to a new panel.",
+ "services": [
+  {
+   "name": "Electrical panel upgrades",
+   "blurb": "Electrical wiring and panel upgrades."
+  },
+  {
+   "name": "EV charging stations",
+   "blurb": "Electric vehicle charging station installation."
+  },
+  {
+   "name": "Outlets, switches and fixtures",
+   "blurb": "Installation and repair of electrical switches, outlets and light fixtures."
+  },
+  {
+   "name": "Ceiling fans",
+   "blurb": "Ceiling and attic fan installation and repair."
+  },
+  {
+   "name": "Remodel and addition wiring",
+   "blurb": "Electrical for home additions and remodels."
+  },
+  {
+   "name": "Security and surveillance",
+   "blurb": "Surveillance camera and alarm/security system installation."
+  }
+ ],
+ "why_lead": "Three things customers mention again and again.",
+ "why": [
+  {
+   "title": "Fast response and quick work",
+   "text": "Reviewers describe next-day visits, prompt arrival and jobs finished quickly, sometimes in under an hour."
+  },
+  {
+   "title": "Fair pricing",
+   "text": "Several customers call the price fair, a great price or cost-effective for the work done."
+  },
+  {
+   "title": "Professional and friendly",
+   "text": "Customers repeatedly describe Antonio as friendly, professional and personable, and many say they would recommend him."
+  }
+ ],
+ "reviews": [
+  {
+   "text": "I called J A Electric and a man came out the next day. He worked quickly and solved my problem in less than an hour. …",
+   "author": "John O.",
+   "when": "August 2026"
+  },
+  {
+   "text": "Antonio was fast and professional - he made the experience a breeze!",
+   "author": "Gabrielle E.",
+   "when": "July 2026"
+  },
+  {
+   "text": "Was great from providing the quote to installation. Antonio was quick and efficient and very personable.",
+   "author": "Russell T.",
+   "when": "March 2026"
+  }
+ ],
+ "area_lead": "Serving Middle River and nearby eastern Baltimore County.",
+ "areas": [
+  "Middle River",
+  "Rosedale"
+ ],
+ "hours": [],
+ "year": "2026",
+ "license_line": "",
+ "checkout_url": "#checkout",
+ "call_url": "https://calendly.com/deductback/website",
+ "form_endpoint": "#"
+}
