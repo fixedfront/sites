@@ -1,0 +1,48 @@
+{
+  "name": "Shemtov Systems",
+  "short_name": "Shemtov Systems",
+  "tagline": "Family-owned heating and air conditioning in Montgomery County since 1981",
+  "meta_description": "Shemtov Systems, Olney MD. Heating, air conditioning, heat pump, ductless and light-commercial HVAC repair and installation across Montgomery County. Same-day service, 24/7 emergency line.",
+  "phone": "(240) 355-3333",
+  "email": "shemtovsystems@gmail.com",
+  "address": "16501 Batchellors Forest Rd, Olney, MD 20832",
+  "headline": "Heating and cooling repair the same day you call, across Montgomery County.",
+  "subhead": "Shemtov Systems is a family-owned HVAC contractor serving Silver Spring, Olney, Rockville, Bethesda, Gaithersburg, Wheaton and Takoma Park since 1981. Licensed and insured in Maryland and DC, NATE certified, with a 24-hour emergency line.",
+  "rating": "4.9",
+  "review_count": "86",
+  "review_source": "Google",
+  "years": "45",
+  "area_short": "Montgomery County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD HVACR #5150 · NATE certified",
+  "services_lead": "Repair, replacement and maintenance for homes and light-commercial buildings, most brands and models.",
+  "services": [
+    {"name": "Heating", "blurb": "Furnaces, heat pumps, boilers and humidifiers repaired and installed."},
+    {"name": "Air conditioning", "blurb": "Central, ductless and light-commercial AC repair and installation, including rooftop units."},
+    {"name": "Maintenance plans", "blurb": "Seasonal service agreements so the spring and fall visits never slip."},
+    {"name": "Indoor air quality", "blurb": "Thermostats, air cleaners and purifiers, humidifiers and zoning."},
+    {"name": "Duct systems", "blurb": "Duct design and installation, pressure testing and zoning."},
+    {"name": "Water heaters and boilers", "blurb": "Water heater and boiler repair and replacement."},
+    {"name": "Whole-house generators", "blurb": "Backup power for the whole house."},
+    {"name": "24/7 emergency service", "blurb": "After-hours and weekend emergencies answered around the clock."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Same-day response", "text": "Reviewers describe calls answered immediately and technicians out the same day, in the middle of summer and in the cold."},
+    {"title": "Honest pricing, no overselling", "text": "Customers say they are told what is actually needed, at fair and reasonable prices, and sometimes talked out of a replacement they did not need."},
+    {"title": "Technicians who explain", "text": "Reviews name Yariv and the team as knowledgeable, prompt and clear about what the problem is and what fixing it involves."}
+  ],
+  "reviews": [
+    {"text": "Provide great service at a reasonable price. Have come out same day when I had issues with heat or air conditioner. Very honest about what is needed, but don’t try to oversell. Highly recommend.", "author": "Jeff N.", "when": "September 2026"},
+    {"text": "I highly recommend Shemtov Systems for any HVAC needs. When my AC stopped working in the middle of a hot summer, they responded immediately and provided same-day service. The technician was extremely knowledgeable and resolved the issue quickly. They charge very fair, affordable prices and offer fantastic customer service from start to finish.", "author": "Vinicius M.", "when": "September 2026"},
+    {"text": "I have been doing business with Shemtov Systems for a number of years. They are consummate professionals. They are responsive, prompt, friendly and explain the situation in detail. They are also quite reasonable in their charges. I have recommended them to friends all of whom share my positive views. If you need highly skilled professionals, call Shemtov. They're the best in the business.", "author": "Deno S.", "when": "July 2026"}
+  ],
+  "area_lead": "Based in Olney, serving Montgomery County and the Washington metro area.",
+  "areas": ["Olney", "Silver Spring", "Wheaton", "Rockville", "Bethesda", "Gaithersburg", "Takoma Park", "Washington, DC"],
+  "hours": [["Emergency service", "24 hours, 7 days"], ["Regular appointments", "Call (240) 355-3333"]],
+  "year": "2026",
+  "license_line": "MD HVACR license #5150 · Licensed and insured in Maryland and DC",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Shemtov%20Systems",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

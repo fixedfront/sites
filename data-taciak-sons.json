@@ -1,0 +1,102 @@
+{
+  "name": "C.A. Taciak & Sons",
+  "short_name": "Taciak & Sons",
+  "tagline": "Sewer, water, septic and drain contractor in Towson since 1940",
+  "meta_description": "C.A. Taciak & Sons, Towson MD. Sewer line and water line repair and replacement, septic systems, drain cleaning, camera inspection and trenchless repair across Baltimore City and Baltimore County since 1940.",
+  "phone": "(410) 960-2667",
+  "email": "sam@baltimoredrain.com",
+  "address": "9 Edgeview Rd, Towson, MD 21286",
+  "headline": "Sewer, water and septic work in Baltimore, by the family that has done it since 1940.",
+  "subhead": "C.A. Taciak & Sons is a three-generation Towson contractor. Frank and Sam Taciak find the problem with a camera, explain the options, and repair sewer lines, water lines, septic systems and drains with as little digging as possible, across Baltimore City and Baltimore County.",
+  "rating": "5.0",
+  "review_count": "52",
+  "review_source": "Angi",
+  "reviews_lead": "5.0 stars across 52 Angi reviews, and 5.0 on Google. Three recent ones:",
+  "years": "86",
+  "area_short": "Baltimore",
+  "trust3_big": "Licensed",
+  "trust3_small": "MHIC 112097 · Master Plumber 90285",
+  "services_lead": "Underground work from start to finish: find it with a camera, fix it with the least digging.",
+  "services": [
+    {
+      "name": "Camera inspection",
+      "blurb": "A camera through the sewer, septic, drain or rain-leader pipe shows exactly what is wrong before anyone digs."
+    },
+    {
+      "name": "Sewer line repair and replacement",
+      "blurb": "Repair or full replacement of underground sewer lines, with trenchless options where the pipe allows."
+    },
+    {
+      "name": "Water line repair and replacement",
+      "blurb": "The main water line from the street to the house, repaired or replaced."
+    },
+    {
+      "name": "Septic systems",
+      "blurb": "Septic system repair and new installation, by a licensed septic installer."
+    },
+    {
+      "name": "Drain cleaning",
+      "blurb": "Blocked sewers, drains and rain leaders cleared."
+    },
+    {
+      "name": "Trenchless repair",
+      "blurb": "Sewer lines, water lines and rain leaders repaired without open excavation across the yard."
+    },
+    {
+      "name": "Rain leaders and storm water",
+      "blurb": "Rain-leader repair and storm water management so water goes where it should."
+    },
+    {
+      "name": "Sinkhole repair",
+      "blurb": "Sinkhole remediation when a failed pipe has washed out the ground."
+    }
+  ],
+  "why_lead": "What customers say, again and again.",
+  "why": [
+    {
+      "title": "Fair, upfront pricing",
+      "text": "Reviewers describe estimates that came in thousands below a major company's quote, and costs explained before the work starts."
+    },
+    {
+      "title": "They explain everything",
+      "text": "Customers say Frank and Sam walk them through what is being done and why, and keep them informed through the whole repair."
+    },
+    {
+      "title": "Frank and Sam on the job",
+      "text": "The owners do the work themselves: professional, careful with your home, and clean."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "My sewer line collapsed. C.A. Taciak & Sons came out and assessed the problem and walked me through the solution step-by-step. Their estimate came in $3,000 less than a major company who wanted to tear up my basement. When it came time for the repair, they walked me through everything they were doing and why. I really appreciated it because my father works in construction and asked me detailed questions. Also, as a single woman, I felt safe having them in my home, which is extremely important.",
+      "author": "Caroline J.",
+      "when": "June 2026",
+      "source": "Angi"
+    },
+    {
+      "text": "Frank and Sam were very professional (and particularly clean/careful with the space--maybe one of the best experiences I've had with a contractor in my house). Job was priced fairly. I highly recommend C.A. Taciak & Sons.",
+      "author": "Sayer N.",
+      "when": "August 2024",
+      "source": "Google"
+    },
+    {
+      "text": "Our main water line from the street to the house cracked. Frank and Sam were amazing! They did a great inspection and were totally upfront with the cost. They communicated with us through the whole repair process. I highly recommend them.",
+      "author": "Sarah D.",
+      "when": "March 2024",
+      "source": "Google"
+    }
+  ],
+  "area_lead": "Based in Towson, serving Baltimore City and Baltimore County.",
+  "areas": [
+    "Towson",
+    "Baltimore City",
+    "Baltimore County",
+    "Greater Baltimore"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "MHIC 112097 · Master Plumber 90285 · Septic installer DC9007",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20C.A.%20Taciak%20%26%20Sons",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

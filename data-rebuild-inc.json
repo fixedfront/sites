@@ -1,0 +1,48 @@
+{
+  "name": "ReBuild Inc",
+  "short_name": "ReBuild",
+  "tagline": "Roofing, siding, gutters and windows across Maryland since 2002",
+  "meta_description": "ReBuild Inc, Columbia MD. Roof replacement with lifetime-warranty materials, roof inspections, storm damage and insurance claims, siding, seamless gutters and replacement windows. CertainTeed ShingleMaster Premier, GAF Certified Plus, BBB A+ since 2004.",
+  "phone": "410-381-4380",
+  "email": "contact@rebuildinc.com",
+  "address": "9520 Berger Road, Suite 201, Columbia, MD 21046",
+  "headline": "Roofs inspected every day, replaced with lifetime-warranty materials, insurance claims handled with you.",
+  "subhead": "ReBuild Inc is a family-owned exterior contractor in Columbia, founded by Mack Strickler in 2002. CertainTeed ShingleMaster Premier and GAF Certified Plus, HAAG-certified inspectors, BBB A+ accredited since 2004, licensed in Maryland and Virginia.",
+  "rating": "4.6",
+  "review_count": "50",
+  "review_source": "Google",
+  "years": "24",
+  "area_short": "Maryland",
+  "trust3_big": "BBB A+",
+  "trust3_small": "Accredited since 2004",
+  "services_lead": "The whole exterior, with a photo report before any work and manufacturer warranties after it.",
+  "services": [
+    {"name": "Roof replacement", "blurb": "New roofs for aging homes and new construction, with manufacturer lifetime warranties on materials."},
+    {"name": "Roof inspections", "blurb": "A photo report on every component, maintenance suggestions and the roof's remaining life. Routine repairs often done the same visit."},
+    {"name": "Roof tune-up", "blurb": "Sealant renewed at transitions, loose shingles nailed down, exposed nail heads sealed, with photos."},
+    {"name": "Storm damage and insurance claims", "blurb": "Storm, leak and sudden-loss inspections, and help with the claim: an accepted vendor for Erie, Farmers, Nationwide, Travelers, The Philadelphia Contributionship and USAA."},
+    {"name": "Siding", "blurb": "Vinyl, wood and fiber-cement siding, plus repair of storm damage, leaks, soffit, fascia and missing panels."},
+    {"name": "Seamless gutters", "blurb": "5-inch and 6-inch seamless aluminum gutters with gutter guards in good, better and best options."},
+    {"name": "Replacement windows", "blurb": "Custom-measured double and triple-pane windows in double hung, casement, sliding, picture, bay and bow styles."},
+    {"name": "Remodeling and maintenance", "blurb": "Renovation work and the small repairs that stop a small problem becoming a large restoration."}
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {"title": "Every step explained", "text": "Reviewers describe inspectors and crews who take the time to make the process clear and keep them in the loop throughout."},
+    {"title": "Randy and the crew, by name", "text": "Customers name Randy, Scott and John as responsive, knowledgeable and professional."},
+    {"title": "The insurance side handled", "text": "Reviews mention claims processed with the insurer and dates kept, even after a big storm when other roofers were booked out."}
+  ],
+  "reviews": [
+    {"text": "Mr. John inspected my home after the recent storms in Pasadena. My wife and I were extremely pleased with the professionalism and the time he took to make us understand each step of the process. I highly recommend this company.", "author": "Ed B.", "when": "October 2026"},
+    {"text": "Randy and the Rebuild Team did an exceptional job taking care of us for our new roof. They were very professional, took their time, and ensured we felt comfortable and kept in the loop with every part of the process. We are thrilled with our new roof and have lots of peace of mind now. Highly recommend this company to meet any needs.", "author": "Kathryn S.", "when": "September 2026"},
+    {"text": "Rebuild Inc. replaced my roof. The process went smoothly since the beginning till the end. Randy and Scott, their know-how level is very high and that reflects on what they are doing. They explain and take care all with friendly and professional way. Also,they processed the work with my insurance company and provided good service. I am happy that I worked with them. I recommend Rebuild with real experience.", "author": "Mehmet Y.", "when": "April 2026"}
+  ],
+  "area_lead": "Based in Columbia, serving all of Maryland and parts of Northern Virginia.",
+  "areas": ["Columbia", "Howard County", "All of Maryland", "Washington, DC", "Northern Virginia"],
+  "hours": [["Monday to Friday", "9:00 AM to 5:00 PM"], ["Saturday and Sunday", "Closed"]],
+  "year": "2026",
+  "license_line": "MHIC #85506 · Licensed in Maryland and Virginia",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20ReBuild%20Inc",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

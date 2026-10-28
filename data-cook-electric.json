@@ -1,0 +1,119 @@
+{
+  "name": "Cook Electric",
+  "short_name": "Cook Electric",
+  "tagline": "Annapolis electrical contractor since 1988",
+  "meta_description": "Cook Electric, Annapolis MD. Residential and commercial electrical service and repair, generators, pier and marina wiring, pool and spa wiring, landscape lighting and new construction wiring since 1988.",
+  "phone": "410-266-9040",
+  "email": "larry@cookelectric.biz",
+  "address": "2130 Renard Court, Annapolis, MD 21401",
+  "headline": "Licensed electricians for Annapolis homes, businesses, piers and marinas.",
+  "subhead": "Cook Electric has wired Annapolis-area homes, stores, hotels and marinas since 1988. Trucks are stocked to fix most problems in one trip, and the same company handles new construction, renovations and additions across Central Maryland.",
+  "rating": "4.7",
+  "review_count": "93",
+  "review_source": "online",
+  "reviews_lead": "4.7 stars across 93 reviews on Google, Facebook and Yelp. Three of them:",
+  "years": "38",
+  "area_short": "Annapolis",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD license #475",
+  "services_lead": "Service calls, specialty wiring and full construction, from one licensed contractor.",
+  "services": [
+    {
+      "name": "Residential service and repair",
+      "blurb": "Short circuits, receptacles and switches, new light fixtures, underground line repair, aluminum-wiring pigtailing, smoke detectors and paddle fans. Most jobs done in one trip."
+    },
+    {
+      "name": "Commercial service",
+      "blurb": "Relamping, ballasts, exit and emergency lights, pole lights, dedicated circuits and breaker replacement for stores, restaurants, hotels, marinas, banks and condominiums."
+    },
+    {
+      "name": "Piers and marinas",
+      "blurb": "Pier and marina wiring brought up to current code, by the company that has wired Annapolis-area docks for years."
+    },
+    {
+      "name": "Generators",
+      "blurb": "Portable or permanent, automatic or manual, sized to what you want powered. Customer-supplied or installed complete."
+    },
+    {
+      "name": "Pool and spa wiring",
+      "blurb": "Hot tub, spa and pool wiring to current code by a licensed contractor."
+    },
+    {
+      "name": "Landscape lighting",
+      "blurb": "Design and installation with factory-direct fixture pricing."
+    },
+    {
+      "name": "Dimming and lighting controls",
+      "blurb": "Whole-house control, room scenes, retrofit programmable and remote-control dimmers, recessed and energy-efficient lighting."
+    },
+    {
+      "name": "Structured wiring",
+      "blurb": "Telephone, network and video pre-wiring to one central panel for homes and offices."
+    },
+    {
+      "name": "New construction and renovations",
+      "blurb": "Custom homes, project homes, additions, and commercial builds including warehouse and retail complexes."
+    }
+  ],
+  "why_lead": "What customers say.",
+  "why": [
+    {
+      "title": "Technicians named in the reviews",
+      "text": "Leonard, Jason, Chris, Alex: reviewers name the electrician who came and call them thorough, courteous and professional."
+    },
+    {
+      "title": "Customers come back",
+      "text": "Reviews describe second and third jobs with the same company over the years."
+    },
+    {
+      "title": "On time, tidy, one trip",
+      "text": "Called ahead, showed up promptly, drop cloth down, cleaned up, and tracked down the tricky fault."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Came on time. Very thorough and professional. One of the best contractors we've ever dealt with. Highly recommended. …",
+      "author": "Richards S.",
+      "when": "July 2026",
+      "source": "Yelp"
+    },
+    {
+      "text": "Great customer service. Jason came to install a chandelier in our kitchen and figure out why our outside outlets were not functioning. …",
+      "author": "Sandra B.",
+      "when": "March 2023",
+      "source": "Yelp"
+    },
+    {
+      "text": "Great job. Chris Handy and Alex Smith did a great job. They are very nice. I had them disconnect electric from my back yard so I could have a shed taken down. Very reasonable. I would use Cook Electric again",
+      "author": "Debbie C.",
+      "when": "2022",
+      "source": "Birdeye"
+    }
+  ],
+  "area_lead": "Service and repair around Annapolis; construction work throughout Central Maryland.",
+  "areas": [
+    "Annapolis",
+    "Anne Arundel County",
+    "Severna Park",
+    "Crofton",
+    "Edgewater",
+    "Glen Burnie",
+    "Kent Island",
+    "Stevensville"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "7:00 AM to 4:00 PM"
+    ],
+    [
+      "Saturday and Sunday",
+      "Closed"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "MD electrical license #475",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Cook%20Electric",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}
