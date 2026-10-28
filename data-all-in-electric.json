@@ -1,0 +1,113 @@
+{
+  "name": "All In Electric",
+  "short_name": "All In Electric",
+  "tagline": "Residential, commercial and marine electricians in Anne Arundel County since 2011",
+  "meta_description": "All In Electric, Curtis Bay MD. Service upgrades, EV chargers, generators, pier and marine wiring, remodel wiring and commercial electrical across Anne Arundel County, Howard County and Baltimore since 2011. 24-hour emergency service.",
+  "phone": "(443) 271-8072",
+  "email": "office@allinelectricinc.com",
+  "address": "Curtis Bay, MD 21226",
+  "headline": "Panels, EV chargers and pier wiring, done fast and well priced since 2011.",
+  "subhead": "All In Electric has provided electrical services in Maryland since 2011, with electricians who bring over 50 years of combined experience to homes, businesses and waterfront properties. 24-hour emergency service for residential and commercial customers.",
+  "rating": "4.7",
+  "review_count": "46",
+  "review_source": "Google",
+  "years": "15",
+  "area_short": "Anne Arundel",
+  "trust3_big": "24/7",
+  "trust3_small": "Emergency electrical service",
+  "services_lead": "From a ceiling fan to a service upgrade, and the pier at the end of the yard.",
+  "services": [
+    {
+      "name": "Service upgrades",
+      "blurb": "Service upgrades, mast repairs, new grounding systems, whole-house surge protection and sub panels."
+    },
+    {
+      "name": "EV chargers",
+      "blurb": "Home charger installation, including Tesla chargers and panel relocations."
+    },
+    {
+      "name": "Generators",
+      "blurb": "Standby and portable generator systems."
+    },
+    {
+      "name": "Marine and pier",
+      "blurb": "Electrical work for piers and waterfront properties."
+    },
+    {
+      "name": "Residential wiring",
+      "blurb": "New wiring, remodels, kitchens and baths, interior and exterior lighting, dedicated circuits, fans and smart-home wiring."
+    },
+    {
+      "name": "Remodel wiring",
+      "blurb": "Kitchens, basements, theater rooms, bathrooms, sun decks, additions and garages."
+    },
+    {
+      "name": "Commercial",
+      "blurb": "Office wiring, renovations, parking-lot lighting, repairs, signs and display lighting."
+    },
+    {
+      "name": "24-hour emergency service",
+      "blurb": "Emergency service for residential and commercial needs, around the clock."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Fast and efficient",
+      "text": "Reviewers describe a response in under 24 hours and crews that are friendly, fast and efficient."
+    },
+    {
+      "title": "Well priced",
+      "text": "Customers say the price was far more reasonable than the other quotes they received."
+    },
+    {
+      "title": "EV and panel specialists",
+      "text": "Review after review is a Tesla charger, a panel relocation or a second charger at a second home."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "I've used All In 3 or 4 times in the past few years. Always fast, well priced and they do a great job. Only company I'll use at this point",
+      "author": "David G.",
+      "when": "October 2026"
+    },
+    {
+      "text": "Installed Tesla charger in front of my townhome. Very professional and the best to work with.",
+      "author": "Robert R.",
+      "when": "June 2026"
+    },
+    {
+      "text": "Keith and the team did a great job (quick and efficient) in relocating my electrical panel and also installing my EV charger. Great work. Highly recommend.",
+      "author": "Darrell D.",
+      "when": "August 2025",
+      "source": "Angi"
+    }
+  ],
+  "reviews_lead": "4.7 stars across 46 Google reviews, 5.0 on Angi. Three recent ones:",
+  "area_lead": "Based in Curtis Bay, serving Anne Arundel County, Howard County and Baltimore.",
+  "areas": [
+    "Curtis Bay",
+    "Pasadena",
+    "Glen Burnie",
+    "Severna Park",
+    "Arnold",
+    "Annapolis",
+    "Columbia",
+    "Baltimore"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "7:00 AM to 5:00 PM"
+    ],
+    [
+      "Emergency service",
+      "24 hours, 7 days"
+    ]
+  ],
+  "license_line": "Licensed and insured · Serving Maryland since 2011",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20All%20In%20Electric"
+}

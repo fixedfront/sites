@@ -1,0 +1,106 @@
+{
+  "name": "Edwin's Air Conditioning, Heating & Plumbing",
+  "short_name": "Edwin's",
+  "tagline": "HVAC and plumbing in Laurel, serving Maryland, DC and Virginia",
+  "meta_description": "Edwin's Air Conditioning, Heating & Plumbing, Laurel MD. AC repair and installation, furnaces and heat pumps, water heaters, drain cleaning and plumbing repairs for homes and businesses across the DMV. Free estimates, financing available.",
+  "phone": "(240) 956-8839",
+  "email": "edwinsacandheatingllc@gmail.com",
+  "address": "333 Talbott Ave, Laurel, MD 20707",
+  "headline": "Same-day heating, cooling and plumbing, diagnosed right the first time.",
+  "subhead": "Edwin's is a licensed HVAC and plumbing company in Laurel serving homes and businesses across Maryland, Washington DC and Virginia. Free estimates on installations, financing available, and customers who have called the same technician for over ten years.",
+  "rating": "5.0",
+  "review_count": "36",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Laurel",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD 66457 · WSSC PFG-80199 · DC 902564",
+  "services_lead": "One licensed company for the furnace, the AC and the water heater.",
+  "services": [
+    {
+      "name": "Air conditioning",
+      "blurb": "AC repair, installation, maintenance and refrigerant leak detection, with emergency cooling for homes and businesses."
+    },
+    {
+      "name": "Heating",
+      "blurb": "Furnace, heat pump and heating-system repair and installation."
+    },
+    {
+      "name": "Plumbing",
+      "blurb": "Leak and pipe repairs, drain cleaning, toilets, faucets, garbage disposals, sump pumps and sewer lines."
+    },
+    {
+      "name": "Water heaters",
+      "blurb": "Water heater repair, replacement and installation."
+    },
+    {
+      "name": "Maintenance and service contracts",
+      "blurb": "Seasonal maintenance, inspections and priority-service plans."
+    },
+    {
+      "name": "Emergency service",
+      "blurb": "Fast response to heating, cooling or plumbing emergencies."
+    },
+    {
+      "name": "Free estimates and financing",
+      "blurb": "Free estimates on HVAC and plumbing installations, with financing for new systems and major repairs."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Same-day response",
+      "text": "Reviewers describe a visit the day they called and a fix in no time."
+    },
+    {
+      "title": "Thorough diagnosis",
+      "text": "Customers say the problem other companies couldn't find was diagnosed precisely, by someone very knowledgeable."
+    },
+    {
+      "title": "Honesty that keeps customers for years",
+      "text": "One reviewer has used Edwin's for over ten years and names professionalism, honesty and deep knowledge."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Edwin's HVAC Service provided excellent service from start to finish. They came out the very same day I called, quickly diagnosed the issue, and had everything fixed in no time. The technician was professional, knowledgeable, and worked efficiently while explaining what needed to be done. I really appreciated the fast response and quality workmanship. If you're looking for reliable HVAC service, I highly recommend Edwin's HVAC Service!",
+      "author": "Mariah S.",
+      "when": "July 2026"
+    },
+    {
+      "text": "We've been using Edwin's service for over 10 years. We appreciate his professionalism, honesty, and deep knowledge. We recommend his service to anyone who needs it!",
+      "author": "Brhan B.",
+      "when": "July 2026"
+    },
+    {
+      "text": "Edwin was very diligent and precise in diagnosing my AC issues. I went to other companies and they were not helpful at all. He is very knowledgeable and does a thorough job.",
+      "author": "Vinny K.",
+      "when": "July 2026"
+    }
+  ],
+  "area_lead": "Based in Laurel, serving Maryland, Washington DC and Virginia.",
+  "areas": [
+    "Laurel",
+    "Silver Spring",
+    "College Park",
+    "Rockville",
+    "Bethesda",
+    "Washington, DC",
+    "Northern Virginia"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "7:00 AM to 5:00 PM"
+    ],
+    [
+      "Emergencies",
+      "Call (240) 599-5013"
+    ]
+  ],
+  "license_line": "Licensed and insured · MD 66457 · WSSC PFG-80199 · DC 902564 · DC PGM1002149",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Edwin%27s%20Air%20Conditioning%2C%20Heating%20%26%20Plumbing"
+}

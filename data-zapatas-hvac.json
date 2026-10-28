@@ -1,0 +1,105 @@
+{
+  "name": "Zapata's HVAC Systems",
+  "short_name": "Zapata's",
+  "tagline": "Heating, cooling and climate control in Silver Spring",
+  "meta_description": "Zapata's HVAC Systems, Silver Spring MD. HVAC repair, installation and maintenance for homeowners and small businesses, with annual maintenance plans and emergency service after hours.",
+  "phone": "(202) 480-7527",
+  "email": "Appliancesrepair59@gmail.com",
+  "address": "Silver Spring, MD",
+  "headline": "An owner-technician who comes out immediately and fixes it right.",
+  "subhead": "Zapata's HVAC Systems has helped Silver Spring homeowners and small businesses keep their indoor climate comfortable for over a decade. Certified technicians trained on all major brands, routine calls booked within 48 hours, and emergency slots held every day.",
+  "rating": "4.9",
+  "review_count": "124",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Silver Spring",
+  "trust3_big": "48 hours",
+  "trust3_small": "Routine calls booked within two days",
+  "services_lead": "Repair, installation and maintenance, with the visit fee stated up front.",
+  "services": [
+    {
+      "name": "HVAC repair",
+      "blurb": "Heating and cooling systems diagnosed and repaired, all major brands."
+    },
+    {
+      "name": "HVAC installation",
+      "blurb": "Energy-efficient equipment installed for homes and small businesses."
+    },
+    {
+      "name": "Annual maintenance plans",
+      "blurb": "Two seasonal tune-ups, priority scheduling and discounted parts."
+    },
+    {
+      "name": "Indoor air",
+      "blurb": "Climate control and indoor-air systems kept at optimal comfort."
+    },
+    {
+      "name": "Diagnostic visit",
+      "blurb": "$125 service call, Monday to Saturday 7:00 AM to 4:00 PM, applied toward the repair."
+    },
+    {
+      "name": "Emergency call",
+      "blurb": "$225 after hours, on holidays and Sundays, with slots reserved every day."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Fast response",
+      "text": "Reviewers describe an immediate reply and a visit the very next morning."
+    },
+    {
+      "title": "Good price",
+      "text": "Customers call the work excellent and not too expensive, quality workmanship at a great price."
+    },
+    {
+      "title": "Honest advice from the owner",
+      "text": "Reviews describe an owner-technician who tells you when something is worth fixing, and explains the work when it's done."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Pablo, did my ac repair and now my house is very comfortable. He also performed quality workmanship and not too expensive!",
+      "author": "Kathryn R.",
+      "when": "June 2026",
+      "source": "Yelp"
+    },
+    {
+      "text": "Absolutely excellent work and great price. Pablo came out immediately and solved my problem. Leaking hot water heater valve changed it and we had water again. Thank you !",
+      "author": "L. A.",
+      "when": "May 2026",
+      "source": "Yelp"
+    },
+    {
+      "text": "I reached out through Yelp about a leaking dishwasher, and Pablo, the owner and technician, responded incredibly quickly. …",
+      "author": "Nicole K.",
+      "when": "August 2026",
+      "source": "Yelp"
+    }
+  ],
+  "reviews_lead": "4.9 stars across 124 Google reviews, and 4.5 on Yelp. Three recent ones:",
+  "area_lead": "Based in Silver Spring, serving Montgomery County and Washington, DC.",
+  "areas": [
+    "Silver Spring",
+    "Takoma Park",
+    "Wheaton",
+    "Bethesda",
+    "Rockville",
+    "Washington, DC"
+  ],
+  "hours": [
+    [
+      "Monday to Saturday",
+      "7:00 AM to 4:00 PM"
+    ],
+    [
+      "After hours, Sundays and holidays",
+      "Emergency calls"
+    ]
+  ],
+  "license_line": "Free consultation · Emergency slots reserved daily",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Zapata%27s%20HVAC%20Systems"
+}

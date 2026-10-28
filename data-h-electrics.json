@@ -1,0 +1,110 @@
+{
+  "name": "H Electrics",
+  "short_name": "H Electrics",
+  "tagline": "Residential and commercial electrician in Columbia, 24/7",
+  "meta_description": "H Electrics, Columbia MD. Panel upgrades, rewiring, EV charger installation, lighting, security equipment and emergency electrical service for homes and businesses in Howard County. Free estimates.",
+  "phone": "(301) 326-3926",
+  "email": "contact@helectrics.us",
+  "address": "5972 Turnabout Ln #4, Columbia, MD 21044",
+  "headline": "Panels, EV chargers and rewiring in Howard County, permits handled, inspection passed.",
+  "subhead": "H Electrics is a licensed electrical contractor in Columbia with over ten years in the trade, specializing in wiring, rewiring and panel upgrades for homes and businesses. Free estimates, free inspections within 20 miles, and a 24/7 line for emergencies.",
+  "rating": "5.0",
+  "review_count": "103",
+  "review_source": "Google",
+  "years": "10+",
+  "area_short": "Howard County",
+  "trust3_big": "Free",
+  "trust3_small": "Estimates, and inspections within 20 miles",
+  "services_lead": "From a damaged outlet to a full panel, with the county inspection handled for you.",
+  "services": [
+    {
+      "name": "Panel upgrades",
+      "blurb": "Main panels and breakers upgraded for safety and capacity."
+    },
+    {
+      "name": "EV charger installation",
+      "blurb": "Hardwired home charging stations, including underground runs, permits and the Howard County inspection."
+    },
+    {
+      "name": "Wiring and rewiring",
+      "blurb": "New circuits, transformers, outlets and whole-house rewiring."
+    },
+    {
+      "name": "Lighting",
+      "blurb": "Indoor lighting design through outdoor security lighting."
+    },
+    {
+      "name": "Commercial electrical",
+      "blurb": "Electrical work for business premises."
+    },
+    {
+      "name": "Security equipment",
+      "blurb": "Security equipment installed and wired."
+    },
+    {
+      "name": "24/7 emergency service",
+      "blurb": "Available around the clock for urgent electrical problems."
+    },
+    {
+      "name": "Free estimate",
+      "blurb": "Contact for a free estimate on any job."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Quick to respond",
+      "text": "Reviewers say texts and calls get a fast answer and the technician shows up on time."
+    },
+    {
+      "title": "Careful, professional work",
+      "text": "Customers describe an EV installation handled end to end, permits and inspection included."
+    },
+    {
+      "title": "Reasonable price, no overcharging",
+      "text": "Reviews mention reasonable prices and no extra charge for coming out on a Sunday."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "H Electric did a really good job installing a new transformer and replacing a damaged outlet. Quick, courteous, and professional. Highly recommend.",
+      "author": "Jonathan G.",
+      "when": "October 2026"
+    },
+    {
+      "text": "Great professionalism and customer service! My technician took great care to make sure my EV installation was seamless. He handled the Howard County inspection ( pulling permits and scheduling appointments), cable and cable protection (my EV charger is in front of my home therefore my cabling is underground). And of course, he attached the cabling to my electrical panel/ breaker box . He also installed a hardwired charging station along with the pedestal. His price is reasonable and he works efficiently. …",
+      "author": "Crys R.",
+      "when": "October 2026"
+    },
+    {
+      "text": "I'm glad to find H Electrics to work on my condo main panels/breakers and checked electric fireplace. They responded quickly to text message and call. The technician showed up on time. They provided professional great service and reasonable price. I would recommend their services to friends and family. And I will reach out to them again, if I will need help in the near future.",
+      "author": "Hieu D.",
+      "when": "September 2026"
+    }
+  ],
+  "area_lead": "Based in Columbia, serving Howard County and 20 miles around.",
+  "areas": [
+    "Columbia",
+    "Ellicott City",
+    "Clarksville",
+    "Elkridge",
+    "Laurel",
+    "Fulton",
+    "Savage"
+  ],
+  "hours": [
+    [
+      "Emergency service",
+      "24 hours, 7 days"
+    ],
+    [
+      "Appointments",
+      "Call or text (301) 326-3926"
+    ]
+  ],
+  "license_line": "Licensed electricians · Free estimates",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20H%20Electrics"
+}

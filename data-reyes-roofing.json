@@ -1,0 +1,108 @@
+{
+  "name": "Reyes Roofing",
+  "short_name": "Reyes Roofing",
+  "tagline": "Roof repair, replacement and 24/7 emergency roofing across the DMV",
+  "meta_description": "Reyes Roofing, Hyattsville MD. Roof repair, new roofs, inspections, gutters, siding and storm damage repair for homes and businesses in Maryland, DC and Virginia. 24/7 emergency service, free estimates.",
+  "phone": "(240) 706-6160",
+  "email": "roofingrepairservices@gmail.com",
+  "address": "Hyattsville, MD",
+  "headline": "A hole in the roof before the storm, fixed the same day.",
+  "subhead": "Reyes Roofing brings over two decades of hands-on roofing experience to homes and businesses across Maryland, DC and Virginia. Repairs, new roofs, gutters, siding and storm damage, with a crew that answers at night and on weekends.",
+  "rating": "4.8",
+  "review_count": "149",
+  "review_source": "Google",
+  "years": "20+",
+  "area_short": "the DMV",
+  "trust3_big": "24/7",
+  "trust3_small": "Emergency roofing, night and day",
+  "services_lead": "Everything on the roof and the edges of it, from a patched hole to a full replacement.",
+  "services": [
+    {
+      "name": "Roof repair",
+      "blurb": "Damaged or missing shingles, holes and leaks, including same-day emergency fixes."
+    },
+    {
+      "name": "New roofs and replacement",
+      "blurb": "New roofs for homes and commercial buildings, with help choosing asphalt shingle, metal or wood."
+    },
+    {
+      "name": "Roof inspection and maintenance",
+      "blurb": "A look before a problem becomes a leak, and upkeep that keeps the roof in warranty."
+    },
+    {
+      "name": "24/7 emergency roofing",
+      "blurb": "Round-the-clock response when the weather doesn't wait."
+    },
+    {
+      "name": "Gutters",
+      "blurb": "Gutter repair and fast gutter replacement."
+    },
+    {
+      "name": "Siding and waterproofing",
+      "blurb": "Siding repair and waterproofing to keep water out of the walls."
+    },
+    {
+      "name": "Storm damage restoration",
+      "blurb": "Repairs after storm damage and leaks."
+    },
+    {
+      "name": "Skylights and chimney work",
+      "blurb": "Skylight installation and chimney flashing and repair."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Fast, on time",
+      "text": "Reviewers describe next-day estimates, same-day completion and work finished in an exceptional time frame."
+    },
+    {
+      "title": "A courteous crew that cleans up",
+      "text": "Customers call the crew reliable, friendly and professional, with a clean and safe work area throughout."
+    },
+    {
+      "title": "Quality work at a reasonable price",
+      "text": "Reviews praise excellent workmanship and a company that works within the budget."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "The roofing work was completed professionally and on time. The crew was reliable, courteous, and maintained a clean and safe work area throughout the project. The quality of the workmanship was excellent, and the finished roof looks great. I would gladly recommend their roofing services to anyone looking for dependable and professional work.",
+      "author": "Janet A.",
+      "when": "October 2026"
+    },
+    {
+      "text": "Reyes Roofing did an amazing job! The team was friendly, efficient, and the quality of the work was excellent. Highly recommend!",
+      "author": "Manuela",
+      "when": "October 2026"
+    },
+    {
+      "text": "Very helpful with my gutter repair and etc! Fixed every problem i had with GREAT COMMUNICATION and in a timely fashion! Will be returning!!",
+      "author": "Deitric W.",
+      "when": "September 2026"
+    }
+  ],
+  "area_lead": "Based in Hyattsville, serving Maryland, Washington DC and Virginia.",
+  "areas": [
+    "Hyattsville",
+    "Prince George's County",
+    "Montgomery County",
+    "Washington, DC",
+    "Northern Virginia"
+  ],
+  "hours": [
+    [
+      "Emergency service",
+      "24 hours, 7 days"
+    ],
+    [
+      "Free estimates",
+      "Call (240) 706-6061"
+    ]
+  ],
+  "license_line": "Bonded and insured · Free estimates",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Reyes%20Roofing"
+}

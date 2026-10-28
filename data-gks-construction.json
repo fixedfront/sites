@@ -1,0 +1,75 @@
+{
+  "name": "GK's Construction",
+  "short_name": "GK's",
+  "tagline": "Roofing and siding contractor in Gaithersburg, 35 years of experience",
+  "meta_description": "GK's Construction, Gaithersburg MD. Roof replacement, installation, repair and storm response, James Hardie certified siding, fencing, decks, patios and drywall across Montgomery, Prince George's and Frederick counties.",
+  "phone": "(240) 601-0919",
+  "email": "georgek@gkconstructionllc.com",
+  "address": "19625 Ridge Heights Dr, Gaithersburg, MD 20879",
+  "headline": "Roofs and siding in Montgomery County, with 35 years behind the crew.",
+  "subhead": "GK's Construction is a licensed and insured roofing and exterior contractor in Gaithersburg. James Hardie certified siding installers, GAF and CertainTeed roofing systems, free inspections, and emergency storm response across Montgomery, Prince George's and Frederick counties.",
+  "rating": "5.0",
+  "review_count": "34",
+  "review_source": "Google",
+  "years": "35",
+  "area_short": "the trade",
+  "trust3_big": "Certified",
+  "trust3_small": "James Hardie siding installer",
+  "services_lead": "Roofing first, then the rest of the exterior.",
+  "services": [
+    {
+      "name": "Roof replacement",
+      "blurb": "Full tear-off of aging roofs with decking inspection and plywood replaced where needed."
+    },
+    {
+      "name": "Roof installation",
+      "blurb": "New roofs in the material you choose, with underlayment, ice barrier and ridge vents; most homes done in one to three days."
+    },
+    {
+      "name": "Roof repair and storm response",
+      "blurb": "Routine repairs plus rapid assessment and temporary weatherproofing after a storm."
+    },
+    {
+      "name": "Free roof inspections",
+      "blurb": "Free inspection and consultation; annual checks advised for roofs over 20 years old."
+    },
+    {
+      "name": "Siding",
+      "blurb": "Vinyl, James Hardie fiber cement, wood and insulated siding installed, replaced or repaired, permits handled, financing offered."
+    },
+    {
+      "name": "Fencing and decks",
+      "blurb": "Fence installation and outdoor decks."
+    },
+    {
+      "name": "Patios and drywall",
+      "blurb": "Patio construction and drywall work."
+    },
+    {
+      "name": "Interior remodeling",
+      "blurb": "Kitchens, bathrooms, basements and interior upgrades."
+    }
+  ],
+  "why_lead": "",
+  "why": [],
+  "reviews": [],
+  "reviews_lead": "",
+  "area_lead": "Based in Gaithersburg, serving Montgomery, Prince George's and Frederick counties.",
+  "areas": [
+    "Gaithersburg",
+    "Rockville",
+    "Germantown",
+    "Potomac",
+    "Bethesda",
+    "Silver Spring",
+    "Olney",
+    "Clarksburg",
+    "Damascus"
+  ],
+  "hours": [],
+  "license_line": "Licensed and insured · James Hardie certified installer",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20GK%27s%20Construction"
+}

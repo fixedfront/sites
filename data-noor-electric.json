@@ -1,0 +1,110 @@
+{
+  "name": "Noor Electric",
+  "short_name": "Noor Electric",
+  "tagline": "Residential and commercial electricians in Towson, 24-hour emergency service",
+  "meta_description": "Noor Electric, Towson MD. Panel upgrades, EV chargers, lighting, pier and pool wiring, emergency electrical service and commercial electrical work across the Baltimore area. Licensed and insured, 24/7.",
+  "phone": "(443) 469-5100",
+  "email": "Support@NoorElectrical.com",
+  "address": "Towson, MD",
+  "headline": "Electricians who show up on time and charge what they quoted.",
+  "subhead": "Noor Electric is a licensed and insured electrical contractor in Towson serving homes and businesses across the Baltimore area, from a new outlet to a full commercial fit-out. Same-day service when it matters, and a 24-hour emergency line.",
+  "rating": "4.9",
+  "review_count": "177",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Baltimore",
+  "trust3_big": "24/7",
+  "trust3_small": "Emergency electrical service",
+  "services_lead": "Residential, commercial and EV, with the same crew start to finish.",
+  "services": [
+    {
+      "name": "Panel upgrades and new circuits",
+      "blurb": "Capacity, safety and future-proofing for the whole house."
+    },
+    {
+      "name": "EV charger installation",
+      "blurb": "Home and garage charging, standalone or network-ready, plus commercial charging stations."
+    },
+    {
+      "name": "Lighting",
+      "blurb": "Interior and exterior fixtures, outdoor and landscape lighting, LED upgrades."
+    },
+    {
+      "name": "Pool, hot tub and pier wiring",
+      "blurb": "Code-compliant power and safety systems, including marine-grade pier lighting and power pedestals."
+    },
+    {
+      "name": "Appliance and low-voltage wiring",
+      "blurb": "Ovens, ranges, HVAC, plus data, security and smart-home integration."
+    },
+    {
+      "name": "Commercial electrical",
+      "blurb": "Tenant fit-outs, service upgrades, pole and site lighting, code repairs and power quality testing."
+    },
+    {
+      "name": "24-hour emergency service",
+      "blurb": "Urgent response with the diagnostics and tools to restore power safely."
+    },
+    {
+      "name": "Bucket truck service",
+      "blurb": "Safe elevated work and maintenance."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "On time",
+      "text": "Reviewers say the crew showed up when they said they would, every time."
+    },
+    {
+      "title": "Fair pricing, no upcharge",
+      "text": "Customers describe fair, reasonable prices and a technician who didn't try to upcharge once he found the problem."
+    },
+    {
+      "title": "Same-day when it counts",
+      "text": "Reviews mention a call answered right away and five new outdoor fixtures installed the same day."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Had a relatively simple lighting job that I asked them to do. Showed up on time. Discussed the work and did a great job at a fair price. Highly recommended.",
+      "author": "Nicholas M.",
+      "when": "October 2026"
+    },
+    {
+      "text": "Highly recommend Noor Electric. They were professional, courteous, and reasonably priced. It was a great experience from start to finish. I'll definitely be using them again for any future electrical projects or needs. Great company and excellent service!",
+      "author": "Jonathan R.",
+      "when": "September 2026"
+    },
+    {
+      "text": "I had an outdoor pole light installed. Noor removed the old one, installed and tested the new one. Very fair price, showed up on time, thoroughly professional service. Would definitely use again.",
+      "author": "Barry L.",
+      "when": "September 2026"
+    }
+  ],
+  "area_lead": "Based in Towson, serving Baltimore City and Baltimore County.",
+  "areas": [
+    "Towson",
+    "Baltimore City",
+    "Baltimore County",
+    "Lutherville",
+    "Timonium",
+    "Parkville",
+    "Catonsville"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "8:00 AM to 4:00 PM"
+    ],
+    [
+      "Emergency service",
+      "24 hours, 7 days"
+    ]
+  ],
+  "license_line": "Licensed and insured",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Noor%20Electric"
+}

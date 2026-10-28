@@ -1,0 +1,112 @@
+{
+  "name": "SG Heating & Cooling",
+  "short_name": "SG Heating & Cooling",
+  "tagline": "HVAC installation, repair and maintenance in Columbia and Elkridge",
+  "meta_description": "SG Heating & Cooling, Columbia MD. Air conditioner and furnace installation, repair and maintenance for homes and businesses across Howard and Anne Arundel counties. $79 pre-season tune-up.",
+  "phone": "(443) 909-8865",
+  "email": "sgheatac@gmail.com",
+  "address": "Columbia, MD 21045",
+  "headline": "A working system by the weekend, at a price people call fair.",
+  "subhead": "SG Heating & Cooling is a privately owned HVAC company based in Columbia and Elkridge. Licensed and NATE certified, with crews available after hours between 5 and 10 p.m., and up to $3,000 in discounts and rebates on system replacements.",
+  "rating": "5.0",
+  "review_count": "140",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Howard County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD HVAC #87065 · NATE certified",
+  "services_lead": "Four things, done well: install it, fix it, keep it running, and the same for your business.",
+  "services": [
+    {
+      "name": "HVAC installation",
+      "blurb": "A new air conditioner or furnace for the home or office, with help claiming up to $3,000 in discounts and rebates on replacements."
+    },
+    {
+      "name": "HVAC repair",
+      "blurb": "Diagnosis and efficient repair of air conditioners and furnaces, all brands."
+    },
+    {
+      "name": "Maintenance and tune-ups",
+      "blurb": "Pre-season tune-up special at $79, to extend the life of the equipment."
+    },
+    {
+      "name": "Commercial HVAC",
+      "blurb": "Installation, repair and maintenance for light-commercial buildings."
+    },
+    {
+      "name": "After-hours visits",
+      "blurb": "Crews available between 5 and 10 p.m. when the day job gets in the way."
+    },
+    {
+      "name": "Carrier, Goodman and Lennox",
+      "blurb": "Installs and services the major brands."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Fast scheduling, even weekends",
+      "text": "Reviewers describe a Saturday call answered with a Sunday visit, and a system that went out Wednesday replaced by Saturday."
+    },
+    {
+      "title": "Fair, reasonable pricing",
+      "text": "Review after review uses the same words: reasonable, fair, great service and fair pricing."
+    },
+    {
+      "title": "A professional, honest crew",
+      "text": "Customers name Ivan and the team as professional and honest, and say they got the same care on a small job as a full replacement."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "We just had our HVAC replaced by SG heating and cooling. The price was reasonable and Ivan and his team were really professional and did an excellent job. I found them through next door's recommendations and I was glad I gave them a call. Lupi, the secretary was real nice and helpful. Good job team.",
+      "author": "Patrick T.",
+      "when": "2025"
+    },
+    {
+      "text": "SG is excellent! Called Ivan on Saturday and he was out on Sunday. Was honest, timely, and very fairly priced? No reason to call anyone else, SG will be my HVAC company for life!!",
+      "author": "Mike B.",
+      "when": "2025"
+    },
+    {
+      "text": "Great service and fair pricing! Called on Wednesday when our system went out, Ivan came out on Thursday and we had a new working system by Saturday. Very happy with SG Heating & Cooling. Will definitely refer them and use them in the future if needed!",
+      "author": "Ashley P.",
+      "when": "2024"
+    }
+  ],
+  "area_lead": "Based in Columbia and Elkridge, serving Howard and Anne Arundel counties.",
+  "areas": [
+    "Columbia",
+    "Ellicott City",
+    "Clarksville",
+    "Elkridge",
+    "Odenton",
+    "Severn",
+    "Laurel",
+    "Jessup",
+    "Hanover",
+    "Glen Burnie",
+    "Pasadena",
+    "Millersville",
+    "Catonsville"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "8:00 AM to 4:00 PM"
+    ],
+    [
+      "After hours",
+      "Crews available 5:00 to 10:00 PM"
+    ],
+    [
+      "Saturday and Sunday",
+      "Closed"
+    ]
+  ],
+  "license_line": "MD HVAC licenses #87065 and #55590 · NATE #3478360",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20SG%20Heating%20%26%20Cooling"
+}

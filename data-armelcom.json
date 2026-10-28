@@ -1,0 +1,109 @@
+{
+  "name": "Armelcom",
+  "short_name": "Armelcom",
+  "tagline": "Master electrician in Rockville, over 20 years in business",
+  "meta_description": "Armelcom, Rockville MD. Licensed master electrician for panel upgrades, generators and backup power, EV chargers, recessed and landscape lighting, hot tubs, fans, security cameras and smart-home wiring across Montgomery County. Free estimates.",
+  "phone": "(301) 254-8513",
+  "email": "info@armelcom.com",
+  "address": "Rockville, MD 20852",
+  "headline": "A master electrician who answers the phone, quotes fast and doesn't upcharge.",
+  "subhead": "Armelcom is a licensed and insured electrical contractor in Rockville with over 20 years in business in Maryland. Electrical, home security and smart-home wiring from one master electrician, and every estimate is free.",
+  "rating": "5.0",
+  "review_count": "45",
+  "review_source": "Google",
+  "years": "20+",
+  "area_short": "Maryland",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD Master Electrician #13688",
+  "services_lead": "Electrical, home security and smart home, all from the same licensed hands.",
+  "services": [
+    {
+      "name": "Panel upgrades",
+      "blurb": "Electrical service panel upgrades and replacements."
+    },
+    {
+      "name": "Generators and backup power",
+      "blurb": "Backup power and generator installation for homes and businesses."
+    },
+    {
+      "name": "EV charging stations",
+      "blurb": "Home EV charger installation, quoted quickly and installed exactly as asked."
+    },
+    {
+      "name": "Lighting",
+      "blurb": "LED recessed lights, custom indoor lighting design, landscape and security lighting."
+    },
+    {
+      "name": "Hot tubs, fans and appliances",
+      "blurb": "Hot tub and jacuzzi hookups, attic, ceiling and bathroom fans, appliance installation."
+    },
+    {
+      "name": "Home security",
+      "blurb": "Security cameras, intercoms, video doorbells, Ring and Nest devices, smart switches and outlets."
+    },
+    {
+      "name": "Smart home and media",
+      "blurb": "Home theaters, TV mounts, projectors, speakers and surround sound, data and network wiring."
+    },
+    {
+      "name": "Troubleshooting and repairs",
+      "blurb": "Faults found and fixed, smoke detectors installed. All estimates are free."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Responsive and fast",
+      "text": "Reviewers describe a highly responsive electrician who fixes the problem fast."
+    },
+    {
+      "title": "Fair, competitive pricing",
+      "text": "Customers mention competitive prices and a fair quote with no attempt to upcharge."
+    },
+    {
+      "title": "Customers who call Aram back",
+      "text": "Reviews describe second visits, several projects over time, and plans to use Armelcom for every electrical need."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Ive had the pleasure of having Aram to our house twice since we moved in. He's always been very responsive, helpful, and kind. He's been very supportive of answering all my questions, and will be using his services for all my electrical needs.",
+      "author": "Balazs V.",
+      "when": "December 2025"
+    },
+    {
+      "text": "Had a great experience with Armelcom! They fixed my problem FAST. And the price was competitive! Recommend highly.",
+      "author": "V. W.",
+      "when": "November 2025"
+    },
+    {
+      "text": "Used Armelcom for EV charger installation. Was able to get a quote quickly and he installed exactly what I wanted for a fair price without trying to upcharge. Will use again for future electrical issues.",
+      "author": "David D.",
+      "when": "2025"
+    }
+  ],
+  "area_lead": "Based in Rockville, serving Montgomery County and the State of Maryland.",
+  "areas": [
+    "Rockville",
+    "Bethesda",
+    "Potomac",
+    "Gaithersburg",
+    "Silver Spring",
+    "Montgomery County"
+  ],
+  "hours": [
+    [
+      "Monday to Saturday",
+      "8:00 AM to 7:00 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ],
+  "license_line": "MD Master Electrician license #13688 · Licensed and insured · Free estimates",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Armelcom"
+}

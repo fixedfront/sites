@@ -1,0 +1,104 @@
+{
+  "name": "Ayden Construction",
+  "short_name": "Ayden Construction",
+  "tagline": "Roofing, exteriors and remodeling in Gaithersburg, licensed in Maryland and DC",
+  "meta_description": "Ayden Construction, Gaithersburg MD. Roof replacement, commercial roofing, siding, windows, decks, additions and full renovations across Maryland and Washington DC. MHIC #135829, BBB A+ accredited since 2019, financing available.",
+  "phone": "(301) 651-0499",
+  "email": "info@aydenconstructionllc.com",
+  "address": "9426 Stewartown Rd, Suite 3D, Gaithersburg, MD 20879",
+  "headline": "A new roof with the scope in writing, no sales pressure, and a crew that cleans up.",
+  "subhead": "Ayden Construction is a family-run contractor in Gaithersburg founded by Marcial Arias, who brings over 30 years in home remodeling; his son Richard runs project management. Licensed in Maryland (MHIC #135829) and Washington DC, BBB A+ accredited since 2019, financing available.",
+  "rating": "4.9",
+  "review_count": "90",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Maryland",
+  "trust3_big": "BBB A+",
+  "trust3_small": "Accredited since 2019 · MHIC #135829",
+  "services_lead": "The whole exterior first, then everything inside the house too.",
+  "services": [
+    {
+      "name": "Roof replacement",
+      "blurb": "Full replacements plus siding, gutters and exterior work for long-term durability."
+    },
+    {
+      "name": "Commercial roofing",
+      "blurb": "TPO, flat, shingle and coated roofing systems installed and replaced."
+    },
+    {
+      "name": "Siding, windows and doors",
+      "blurb": "Energy-efficient window replacements, siding and façade upgrades for homes and commercial buildings."
+    },
+    {
+      "name": "Decks and outdoor living",
+      "blurb": "Custom decks and exterior builds, including canopy roofs over existing decks."
+    },
+    {
+      "name": "Additions and renovations",
+      "blurb": "Rear and second-story additions, garage conversions and full home renovations."
+    },
+    {
+      "name": "Kitchens, baths and basements",
+      "blurb": "Custom layouts, cabinetry, countertops and tile; basements finished into living or rental space."
+    },
+    {
+      "name": "Masonry and structural",
+      "blurb": "Foundations, walkways, patios, retaining walls, load-bearing changes and framing."
+    },
+    {
+      "name": "Permits and financing",
+      "blurb": "Inspections and permits handled to Maryland and DC code, with financing options available."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Transparent scope and pricing",
+      "text": "Reviewers describe the work detailed up front, competitive pricing, multiple options and no sales pressure."
+    },
+    {
+      "title": "A friendly crew that respects the property",
+      "text": "Customers call the team professional, considerate and respectful, and say they cleaned up when the job was done."
+    },
+    {
+      "title": "Detail-oriented work people come back for",
+      "text": "Reviews mention meticulous work, attention to detail, and plans to use Ayden again."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "The Ayden Construction crew did a great job building our new deck. And it looks great. Everyone with whom we interfaced was friendly, professional, and considerate. I highly recommend them.",
+      "author": "A Gaithersburg homeowner",
+      "when": "November 2024",
+      "source": "Consumers' Checkbook"
+    },
+    {
+      "text": "I contacted a dozen deck builders to extend onto an existing deck and place a canopy roof on it. Marcial was the only person willing to make this happen. He worked closely with me and provided multiple options and price points. The job was done exactly as I wanted at a fair price.",
+      "author": "A Washington, DC homeowner",
+      "when": "January 2022",
+      "source": "Consumers' Checkbook"
+    },
+    {
+      "text": "Thank you, Ayden Construction for my roof replacement. I now have peace-of-mind when it comes to my roof! …",
+      "author": "Elga M.",
+      "when": "November 2025",
+      "source": "BBB"
+    }
+  ],
+  "reviews_lead": "4.9 stars across 90 Google reviews, 5.0 on BBB. Three of them:",
+  "area_lead": "Based in Gaithersburg, serving Maryland and Washington, DC.",
+  "areas": [
+    "Gaithersburg",
+    "Montgomery County",
+    "Rockville",
+    "Germantown",
+    "Silver Spring",
+    "Washington, DC"
+  ],
+  "hours": [],
+  "license_line": "MHIC #135829 · DC GC license 410520000145 · BBB A+ accredited since 2019",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20Ayden%20Construction"
+}

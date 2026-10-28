@@ -1,0 +1,119 @@
+{
+  "name": "No-Frost Air Conditioning & Heating",
+  "short_name": "No-Frost",
+  "tagline": "Family-owned heating and air conditioning in Ellicott City since 1971",
+  "meta_description": "No-Frost Air Conditioning & Heating, Ellicott City MD. AC and furnace repair, replacement, heat pumps, indoor air quality and water heaters across Howard, Baltimore and Carroll counties since 1971. Same- or next-day service.",
+  "phone": "(410) 461-6422",
+  "email": "frost4990@aol.com",
+  "address": "4990 Waterloo Rd, Ellicott City, MD 21043",
+  "headline": "Heating and cooling fixed the same day you call, by the family that has done it since 1971.",
+  "subhead": "No-Frost is a family-owned, veteran-operated, woman-led HVAC company in Ellicott City with over five decades in Howard County. Same- or next-day service and estimates, a two-year labor warranty on installations, and all major brands.",
+  "rating": "4.7",
+  "review_count": "88",
+  "review_source": "Google",
+  "years": "55",
+  "area_short": "Howard County",
+  "trust3_big": "Licensed",
+  "trust3_small": "MD HVACR ACR-01-4662 · MHIC 12699",
+  "services_lead": "Repair, replacement and maintenance for every part of the system, with the offers you already run.",
+  "services": [
+    {
+      "name": "AC repair and replacement",
+      "blurb": "Routine maintenance, repairs and new installations for cooling systems, sized properly for the house."
+    },
+    {
+      "name": "Heating",
+      "blurb": "Furnace and heat pump installation, tune-ups and repair."
+    },
+    {
+      "name": "High-efficiency systems",
+      "blurb": "Help choosing an energy-saving system and installing it right. $50 whole-house air cleaning incentive with a new installation."
+    },
+    {
+      "name": "Indoor air quality",
+      "blurb": "Air purifiers, humidifiers and dehumidifiers."
+    },
+    {
+      "name": "Water heaters",
+      "blurb": "Repair of all types, or replacement with the old unit hauled away. $100 off a new installation."
+    },
+    {
+      "name": "Maintenance plan",
+      "blurb": "A $150 low-cost maintenance plan that keeps the spring and fall visits on the calendar."
+    },
+    {
+      "name": "Gas appliance safety",
+      "blurb": "Gas-fitter licensed checks on gas appliances."
+    },
+    {
+      "name": "New-customer offer",
+      "blurb": "$25 off any HVAC service for new customers, and a two-year labor warranty on installations."
+    }
+  ],
+  "why_lead": "Three things customers mention again and again.",
+  "why": [
+    {
+      "title": "Same-day response",
+      "text": "Reviewers describe calling Friday afternoon and being fixed by 4:30, and a Saturday visit in the middle of a heat wave."
+    },
+    {
+      "title": "Reasonable, fair pricing",
+      "text": "Customers call the pricing very reasonable, and describe a technician driving back to the office for a part to save them money."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Reviews praise clear explanations of the repair and easy fixes suggested instead of upsells."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "No Frost saved the day for us! Our A/C had been broken for several days because a different contractor flaked out on us. We called No Frost, and they were able to see us the same afternoon, and Clint resolved the problem in just over an hour. Everyone we interacted with was polite and friendly. The repair process was explained clearly, and the price was very reasonable.",
+      "author": "Joel S.",
+      "when": "September 2026"
+    },
+    {
+      "text": "I called at 2:30pm on a Friday and my AC was diagnosed and repaired before 4:30. No-Frost has always been our go-to, but this experience was better than ever. Thanks, folks!",
+      "author": "Denise",
+      "when": "September 2026"
+    },
+    {
+      "text": "AC unit broke on Friday night and despite a heat wave coming in a few days, No-Frost was able to send Eric to my house same day on a Saturday. He was able to quickly diagnose the issue and fix it (even drove back to the their office to get a part to save us money). Pricing is very reasonable. Thank you and we will plan to use No-Frost again for any AC/Heating issues!",
+      "author": "David",
+      "when": "September 2026"
+    }
+  ],
+  "area_lead": "Based in Ellicott City, serving Howard, Baltimore and Carroll counties.",
+  "areas": [
+    "Ellicott City",
+    "Columbia",
+    "Clarksville",
+    "Dayton",
+    "Marriottsville",
+    "Sykesville",
+    "West Friendship",
+    "Jessup",
+    "Laurel",
+    "Hanover",
+    "Catonsville",
+    "Arbutus"
+  ],
+  "hours": [
+    [
+      "Monday to Friday",
+      "7:00 AM to 4:00 PM"
+    ],
+    [
+      "Saturday",
+      "7:00 AM to 12:00 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ],
+  "license_line": "MD HVACR ACR-01-4662 · MHIC 12699 · Natural gas fitter 65630 · Trane, Carrier, York, Rheem, Lennox, Mitsubishi and more",
+  "year": "2026",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#",
+  "checkout_url": "mailto:hello@fixedfront.com?subject=Make%20it%20mine%3A%20No-Frost%20Air%20Conditioning%20%26%20Heating"
+}
