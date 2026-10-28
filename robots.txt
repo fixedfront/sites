@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Disallow: /p-
+Disallow: /site-
+Disallow: /data-
+Disallow: /kit-
+Allow: /
+Sitemap: https://fixedfront.com/sitemap.xml
