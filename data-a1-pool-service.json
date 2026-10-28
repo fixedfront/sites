@@ -1,40 +1,64 @@
 {
- "name": "A1 Pool Service",
- "short_name": "A1 Pool Service",
- "tagline": "Pool cleaning and service in Oceanside, CA",
- "meta_description": "A1 Pool Service: weekly pool cleaning, chemical balancing, filter cleaning and equipment service for homes in Oceanside and North County San Diego.",
- "brand_color": "#0b6e8f",
- "accent_color": "#f5b921",
- "phone": "(760) 585-8692",
- "email": "a1poolserviceteam@gmail.com",
- "address": "Oceanside, CA",
- "headline": "Clean, balanced, swim-ready pools in Oceanside.",
- "subhead": "Weekly pool service for Oceanside homes: cleaning, chemicals, filters and equipment, from a local crew that shows up on the same day every week.",
- "rating": "",
- "review_count": "",
- "review_source": "Google",
- "years": "",
- "area_short": "Oceanside",
- "trust3_big": "Local",
- "trust3_small": "Oceanside-based crew",
- "services_lead": "The standard menu for a well-kept pool. Tell us which of these you offer and the page is trimmed to match.",
- "services": [
-  {"name": "Weekly pool cleaning", "blurb": "Skim, brush, vacuum and empty the baskets every week, same day, same tech."},
-  {"name": "Chemical balancing", "blurb": "Chlorine, pH and alkalinity tested and adjusted on every visit."},
-  {"name": "Filter cleaning", "blurb": "Cartridge, DE and sand filters cleaned and inspected on schedule."},
-  {"name": "Equipment repair", "blurb": "Pumps, motors, heaters, timers and automation diagnosed and repaired."},
-  {"name": "Green pool recovery", "blurb": "Neglected or algae-filled pools brought back to clear and swimmable."},
-  {"name": "Tile and acid washing", "blurb": "Calcium lines removed and plaster refreshed when the pool needs it."}
- ],
- "why_lead": "",
- "why": [],
- "reviews": [],
- "area_lead": "Based in Oceanside, serving North County San Diego.",
- "areas": ["Oceanside", "Carlsbad", "Vista", "San Marcos", "Encinitas"],
- "hours": [],
- "year": "2026",
- "license_line": "",
- "checkout_url": "#checkout",
- "call_url": "https://calendly.com/deductback/website",
- "form_endpoint": "#"
+  "name": "A1 Pool Service",
+  "short_name": "A1 Pool Service",
+  "tagline": "Pool cleaning and service in Oceanside, CA",
+  "meta_description": "A1 Pool Service: weekly pool cleaning, chemical balancing, filter cleaning and equipment service for homes in Oceanside and North County San Diego.",
+  "brand_color": "#0b6e8f",
+  "accent_color": "#f5b921",
+  "phone": "(760) 585-8692",
+  "email": "a1poolserviceteam@gmail.com",
+  "address": "Oceanside, CA",
+  "headline": "Clean, balanced, swim-ready pools in Oceanside.",
+  "subhead": "Weekly pool service for Oceanside homes: cleaning, chemicals, filters and equipment, from a local crew that shows up on the same day every week.",
+  "rating": "",
+  "review_count": "",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Oceanside",
+  "trust3_big": "Local",
+  "trust3_small": "Oceanside-based crew",
+  "services_lead": "The standard menu for a well-kept pool. Tell us which of these you offer and the page is trimmed to match.",
+  "services": [
+    {
+      "name": "Weekly pool cleaning",
+      "blurb": "Skim, brush, vacuum and empty the baskets every week, same day, same tech."
+    },
+    {
+      "name": "Chemical balancing",
+      "blurb": "Chlorine, pH and alkalinity tested and adjusted on every visit."
+    },
+    {
+      "name": "Filter cleaning",
+      "blurb": "Cartridge, DE and sand filters cleaned and inspected on schedule."
+    },
+    {
+      "name": "Equipment repair",
+      "blurb": "Pumps, motors, heaters, timers and automation diagnosed and repaired."
+    },
+    {
+      "name": "Green pool recovery",
+      "blurb": "Neglected or algae-filled pools brought back to clear and swimmable."
+    },
+    {
+      "name": "Tile and acid washing",
+      "blurb": "Calcium lines removed and plaster refreshed when the pool needs it."
+    }
+  ],
+  "why_lead": "",
+  "why": [],
+  "reviews": [],
+  "area_lead": "Based in Oceanside, serving North County San Diego.",
+  "areas": [
+    "Oceanside",
+    "Carlsbad",
+    "Vista",
+    "San Marcos",
+    "Encinitas"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "none",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
 }

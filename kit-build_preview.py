@@ -3,15 +3,30 @@
 Usage: python3 build_preview.py data.json out.html
 The data file holds the facts pulled from public listings and the current site (a review may carry its own "source" when it is not from review_source); the copy fields
 (headline, subhead, services_lead, why_lead, why items, area_lead) are written by Claude per business.
+
+"Make it mine" goes to the Fixedfront Stripe Payment Link (PAYMENT_LINK below) with the page slug as
+client_reference_id, so a payment says which business bought. A data file's checkout_url is honoured
+only when it is an explicit https:// URL; "#checkout", "#", a mailto: or a missing key all mean "use
+the Payment Link". Set checkout_url to "none" to keep a mailto button instead (special offers, e.g. A1).
 """
 import json, sys, html, re, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+PAYMENT_LINK = 'https://buy.stripe.com/8x24gza4UeXs84YeHa0Ba00'   # Fixedfront: $990 setup + $149/month
+
+def checkout_url(d, slug):
+    u = (d.get('checkout_url') or '').strip()
+    if u.startswith('https://'):
+        return u
+    if u == 'none':
+        return 'mailto:hello@fixedfront.com?subject=' + html.escape('Make it mine: ' + d['name']).replace(' ', '%20')
+    ref = re.sub(r'[^A-Za-z0-9_-]', '-', slug or d.get('short_name') or d['name'])[:200]
+    return PAYMENT_LINK + '?client_reference_id=' + ref
 
 def esc(s):
     return html.escape(str(s), quote=True)
 
-def render(d):
+def render(d, slug=''):
     t = open(os.path.join(HERE, 'kit-template.html')).read()
     first, _, second = d['name'].partition(' ')
     if not d.get('phone'):
@@ -41,7 +56,7 @@ def render(d):
         'reviews_lead': reviews_lead, 'services_lead': d['services_lead'],
         'why_lead': d['why_lead'], 'area_lead': d['area_lead'], 'address': d['address'], 'email': d['email'],
         'year': d.get('year', '2026'), 'license_line': d.get('license_line', ''),
-        'checkout_url': d.get('checkout_url', '#'), 'call_url': d.get('call_url', '#'),
+        'checkout_url': checkout_url(d, slug), 'call_url': d.get('call_url', '#'),
         'form_endpoint': d.get('form_endpoint', '#'), 'brand': d.get('brand', 'Fixedfront'),
     }
     out = t
@@ -63,5 +78,6 @@ def render(d):
 
 if __name__ == '__main__':
     data = json.load(open(sys.argv[1]))
-    open(sys.argv[2], 'w').write(render(data))
+    slug = re.sub(r'^p-|\.html$', '', os.path.basename(sys.argv[2]))
+    open(sys.argv[2], 'w').write(render(data, slug))
     print('wrote', sys.argv[2])
