@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /p-
-Disallow: /site-
-Disallow: /data-
-Disallow: /kit-
 Allow: /
-Sitemap: https://fixedfront.com/sitemap.xml
+Disallow: /thanks.html
+Sitemap: https://deductback.com/sitemap.xml

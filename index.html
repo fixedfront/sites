@@ -3,113 +3,249 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fixedfront | We rebuild local business websites, then show you before you pay</title>
-<meta name="description" content="Fixedfront rebuilds websites for local service businesses in Maryland. You see the finished site first. $990 setup, $149 a month, live in 48 hours, 30-day money back.">
-<link rel="canonical" href="https://fixedfront.com/">
+<title>Deductback | We get retailer deductions back</title>
+<meta name="description" content="Retailer deduction recovery for consumer-product suppliers selling to Walmart and Target. Free 24-month scan, then 25% of what the retailer actually repays. Nothing otherwise.">
+<link rel="canonical" href="https://deductback.com/">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Fixedfront: we rebuild your website, you see it before you pay">
-<meta property="og:description" content="One-page, mobile-first sites for local service businesses, built from your own reviews and services. $990 setup, $149 a month, live in 48 hours.">
-<meta property="og:url" content="https://fixedfront.com/">
-<meta property="og:site_name" content="Fixedfront">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f3a5f'/%3E%3Cpath d='M20 16h26v9H30v7h14v9H30v11H20z' fill='%23f5b921'/%3E%3C/svg%3E">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Organization","name":"Fixedfront","url":"https://fixedfront.com/","email":"hello@fixedfront.com","address":{"@type":"PostalAddress","streetAddress":"9091 Snowden River Pkwy #1006","addressLocality":"Columbia","addressRegion":"MD","postalCode":"21046","addressCountry":"US"},"areaServed":"Maryland","description":"Website rebuilds for local service businesses: one-page, mobile-first sites built from the business's own reviews and services, shown before payment."}
-</script>
+<meta property="og:site_name" content="Deductback">
+<meta property="og:title" content="Deductback | We get retailer deductions back">
+<meta property="og:description" content="Retailer deduction recovery for consumer-product suppliers selling to Walmart and Target. Free 24-month scan, then 25% of what the retailer actually repays. Nothing otherwise.">
+<meta property="og:url" content="https://deductback.com/">
+<meta name="theme-color" content="#0b2a4a">
 <style>
-:root{--ink:#17202a;--muted:#5b6672;--line:#e3e7ec;--soft:#f4f6f8;--brand:#1f3a5f;--accent:#f5b921}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:#fff}
-.wrap{max-width:980px;margin:0 auto;padding:0 20px}
-header{border-bottom:1px solid var(--line);background:#fff}
-header .wrap{display:flex;align-items:center;justify-content:space-between;height:64px;gap:12px}
-.logo{display:flex;align-items:center;gap:9px;font-weight:800;font-size:20px;text-decoration:none;color:var(--brand);letter-spacing:-.01em}
-.logo svg{width:28px;height:28px;flex:none}
-nav{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:4px 18px}
-nav a{text-decoration:none;color:var(--muted);font-size:15px}
-nav a:hover{color:var(--ink)}
-.hero{padding:64px 0 48px;border-bottom:1px solid var(--line)}
-h1{font-size:clamp(30px,5vw,46px);line-height:1.12;margin:0 0 14px;letter-spacing:-.02em;max-width:20ch}
-.hero p{font-size:18px;color:var(--muted);max-width:56ch;margin:0 0 20px}
-.btns{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
-.btn{display:inline-block;background:var(--accent);color:#111827;font-weight:700;text-decoration:none;padding:13px 18px;border-radius:10px}
-.btn.ghost{background:#fff;color:var(--brand);border:1.5px solid var(--brand)}
-.note{font-size:14px;color:var(--muted);margin:14px 0 0}
-.note a{color:var(--brand)}
-section{padding:48px 0}
-section.alt{background:var(--soft)}
-h2{font-size:clamp(22px,3.2vw,30px);margin:0 0 8px;letter-spacing:-.015em}
-.lead{color:var(--muted);margin:0 0 22px;max-width:60ch}
-.steps{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
-.step{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px}
-.step b{display:block;font-size:17px;margin-bottom:6px}
-.step p{margin:0;color:var(--muted);font-size:15px}
-.price{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
-.plan{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px}
-.plan .amt{font-size:34px;font-weight:800;letter-spacing:-.02em}
-.plan ul{padding-left:18px;margin:10px 0 0;color:var(--muted);font-size:15px}
-.faq details{border-bottom:1px solid var(--line);padding:12px 0}
-.faq summary{cursor:pointer;font-weight:600}
-.faq p{color:var(--muted);margin:8px 0 0}
-.faq a{color:var(--brand)}
-.contact{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
-.contact .step a{color:var(--brand);text-decoration:none;font-weight:600}
-footer{padding:28px 0;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
-footer a{color:var(--muted)}
-footer .wrap{display:flex;flex-wrap:wrap;gap:6px 14px;justify-content:space-between}
-@media (max-width:640px){header .wrap{height:auto;padding:12px 20px}nav a{font-size:14px}.hero{padding:44px 0 36px}}
+:root{--navy:#0b2a4a;--navy2:#123b66;--ink:#172033;--mute:#5b6678;--line:#e2e7ee;--bg:#f7f9fc;--card:#ffffff;--green:#1f8a5b;--green2:#e6f4ec;--amber:#b7791f;--amber2:#fdf3e1;--red:#b3261e;--radius:14px;--max:1080px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.55;font-size:17px;-webkit-font-smoothing:antialiased}
+a{color:var(--navy2)}a:hover{color:var(--green)}
+img,svg{max-width:100%}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 20px}
+header.top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20}
+.nav{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:66px;flex-wrap:wrap;padding:8px 0}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--navy);font-weight:800;font-size:21px;letter-spacing:-.2px}
+.brand svg{width:30px;height:30px;flex:none}
+.links{display:flex;gap:4px 18px;flex-wrap:wrap;align-items:center}
+.links a{text-decoration:none;color:var(--ink);font-weight:500;font-size:15.5px}
+.links a.cta{background:var(--green);color:#fff;padding:9px 15px;border-radius:999px;font-weight:700}
+.links a.cta:hover{background:#17724b;color:#fff}
+.hero{background:linear-gradient(180deg,#fff 0%,var(--bg) 100%);padding:64px 0 40px}
+.hero h1{font-size:clamp(34px,5vw,54px);line-height:1.08;letter-spacing:-.8px;margin:0 0 18px;color:var(--navy)}
+.hero p.lead{font-size:clamp(18px,2.2vw,22px);color:var(--mute);max-width:720px;margin:0 0 28px}
+.btns{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.btn{display:inline-block;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:999px;border:2px solid transparent;font-size:16.5px}
+.btn.primary{background:var(--green);color:#fff}.btn.primary:hover{background:#17724b;color:#fff}
+.btn.ghost{border-color:var(--navy);color:var(--navy);background:#fff}.btn.ghost:hover{background:var(--navy);color:#fff}
+.small{font-size:14.5px;color:var(--mute)}
+.trust{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:36px 0 0}
+.trust div{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
+.trust b{display:block;color:var(--navy);font-size:17px;margin-bottom:4px}
+.trust span{color:var(--mute);font-size:15px}
+section{padding:56px 0}
+section.alt{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+h2{font-size:clamp(26px,3.4vw,36px);letter-spacing:-.5px;line-height:1.15;margin:0 0 14px;color:var(--navy)}
+h3{font-size:20px;margin:0 0 8px;color:var(--navy)}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12.5px;font-weight:700;color:var(--green);margin:0 0 10px}
+.sub{color:var(--mute);max-width:760px;margin:0 0 30px;font-size:18px}
+.grid{display:grid;gap:18px}
+.grid.c2{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+.grid.c3{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.grid.c4{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 22px 20px}
+.card p{margin:0;color:var(--mute);font-size:16px}
+.num{display:inline-flex;width:34px;height:34px;border-radius:50%;background:var(--green2);color:var(--green);font-weight:800;align-items:center;justify-content:center;margin-bottom:12px}
+.stat{font-size:clamp(30px,4vw,42px);font-weight:800;color:var(--navy);letter-spacing:-1px;line-height:1}
+.stat small{display:block;font-size:15px;font-weight:500;color:var(--mute);letter-spacing:0;margin-top:8px}
+.price{background:var(--navy);color:#fff;border-radius:20px;padding:36px 32px;display:grid;gap:22px;grid-template-columns:1.1fr 1fr}
+.price h2,.price h3{color:#fff}.price p{color:#c9d6e6;margin:0 0 10px}
+.price .big{font-size:clamp(44px,6vw,68px);font-weight:800;letter-spacing:-2px;line-height:1}
+.price ul{margin:0;padding-left:20px;color:#e6edf6}.price li{margin:6px 0}
+.price .btn.primary{margin-top:8px}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;font-size:15px}
+th,td{padding:11px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:#f0f4f9;color:var(--navy);font-weight:700}
+tr:last-child td{border-bottom:0}
+td.r,th.r{text-align:right;white-space:nowrap}
+.tablewrap{overflow-x:auto;border-radius:var(--radius)}
+.tag{display:inline-block;font-size:12px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--green2);color:var(--green)}
+.tag.med{background:var(--amber2);color:var(--amber)}.tag.low{background:#eef1f5;color:var(--mute)}
+details{background:#fff;border:1px solid var(--line);border-radius:12px;padding:0 20px;margin:0 0 10px}
+summary{cursor:pointer;font-weight:700;padding:16px 0;color:var(--navy);list-style:none;display:flex;justify-content:space-between;gap:12px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";color:var(--green);font-size:22px;line-height:1}
+details[open] summary::after{content:"\2013"}
+details p{margin:0 0 16px;color:var(--mute)}
+.note{background:var(--amber2);border:1px solid #f1dfb8;border-radius:12px;padding:14px 16px;font-size:15px;color:#6b4a0f}
+.cta-band{background:var(--green2);border-top:1px solid #cfe7d9;border-bottom:1px solid #cfe7d9}
+.cta-band .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.cta-band h2{margin:0;font-size:26px}
+footer{padding:36px 0 44px;color:var(--mute);font-size:14.5px}
+footer .wrap{display:grid;gap:18px;grid-template-columns:1.4fr 1fr 1fr}
+footer a{color:var(--mute);text-decoration:none}footer a:hover{color:var(--navy)}
+footer b{color:var(--navy);display:block;margin-bottom:6px}
+.prose{max-width:780px}.prose p{margin:0 0 16px}.prose h2{font-size:28px;margin:34px 0 10px}.prose h3{margin:26px 0 8px}
+.prose ul,.prose ol{padding-left:22px;margin:0 0 16px}.prose li{margin:5px 0}
+.policy h2{font-size:21px;margin:28px 0 6px}
+form{display:grid;gap:14px;max-width:620px}
+label{font-weight:600;font-size:15px;color:var(--navy);display:block;margin-bottom:6px}
+input,select,textarea{width:100%;font:inherit;font-size:16px;padding:12px 13px;border:1px solid #c9d2de;border-radius:10px;background:#fff;color:var(--ink)}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--green);outline-offset:1px;border-color:var(--green)}
+textarea{min-height:120px;resize:vertical}
+.row2{display:grid;gap:14px;grid-template-columns:1fr 1fr}
+.hp{position:absolute;left:-9999px;opacity:0;height:0;width:0}
+.steps{counter-reset:s}
+table{min-width:720px}td:first-child,th:first-child{min-width:250px}
+@media (max-width:760px){header.top{position:static}.price{grid-template-columns:1fr;padding:28px 22px}footer .wrap{grid-template-columns:1fr}.row2{grid-template-columns:1fr}.hero{padding:44px 0 30px}section{padding:44px 0}.links{gap:4px 14px}.links a{font-size:14.5px}}
 </style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfessionalService","name":"Deductback","url":"https://deductback.com/","email":"zeluis@deductback.com","description":"Retailer deduction recovery for consumer-product suppliers selling to Walmart and Target. Free 24-month scan; 25% of what the retailer repays.","areaServed":"US","address":{"@type":"PostalAddress","streetAddress":"9091 Snowden River Pkwy #1006","addressLocality":"Columbia","addressRegion":"MD","postalCode":"21046","addressCountry":"US"},"priceRange":"25% of recovered deductions"}</script>
 </head>
 <body>
-<header><div class="wrap"><a class="logo" href="/"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#1f3a5f"/><path d="M20 16h26v9H30v7h14v9H30v11H20z" fill="#f5b921"/></svg>Fixedfront</a><nav><a href="#how">How it works</a><a href="#pricing">Pricing</a><a href="#faq">Questions</a><a href="#contact">Contact</a></nav></div></header>
+<header class="top"><div class="wrap nav">
+  <a class="brand" href="/"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#0b2a4a"/><path d="M8 22.5 14 16l4 4 6.5-8" fill="none" stroke="#2fbf7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M19.5 12h5v5" fill="none" stroke="#2fbf7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>Deductback</a>
+  <nav class="links">
+    <a href="/#how">How it works</a>
+    <a href="/scan.html">The free scan</a>
+    <a href="/#pricing">Pricing</a>
+    <a href="/#faq">FAQ</a>
+    <a href="/contact.html">Contact</a>
+    <a class="cta" href="https://calendly.com/deductback/scan" target="_blank" rel="noopener">Book a free scan</a>
+  </nav>
+</div></header>
 
 <section class="hero"><div class="wrap">
-  <h1>We rebuild your website. You see it before you pay.</h1>
-  <p>Fixedfront builds a new, mobile-first site for local service businesses using your own reviews, services and photos, then sends you the link. Like it? It's live on your domain in 48 hours. Don't? It disappears in 30 days and we never bother you again.</p>
-  <div class="btns"><a class="btn" href="mailto:hello@fixedfront.com?subject=Rebuild%20my%20site">Ask for a preview</a><a class="btn ghost" href="https://calendly.com/deductback/website">Book a 10-minute call</a></div>
-  <p class="note">Already have a preview from us? The <b>Make it mine</b> button on it takes you straight to checkout. Lost the link? <a href="mailto:hello@fixedfront.com?subject=Resend%20my%20preview">Email us</a> and we'll resend it.</p>
-</div></section>
-
-<section id="how"><div class="wrap">
-  <h2>How it works</h2>
-  <p class="lead">No discovery calls, no proposals, no six-week build. The site comes first; the decision comes second.</p>
-  <div class="steps">
-    <div class="step"><b>1. We build it first</b><p>From your Google listing, your reviews and your current site, we build a one-page site that loads in under two seconds and puts a call button where customers look.</p></div>
-    <div class="step"><b>2. You get the link</b><p>One email with the preview. Open it on your phone; that is where most of your customers will see it.</p></div>
-    <div class="step"><b>3. You say yes</b><p>Pay the setup, tell us what to change (two questions by email, five minutes), and we take care of the rest, including connecting your domain.</p></div>
-    <div class="step"><b>4. It stays current</b><p>Hosting, edits within two business days, uptime monitoring and a monthly report of visits, calls and form submissions, all in the plan.</p></div>
+  <p class="kicker">Deduction recovery for Walmart and Target suppliers</p>
+  <h1>We get retailer deductions back.</h1>
+  <p class="lead">Walmart and Target short-pay supplier invoices for shortages, pricing differences, compliance fines and allowances. Forty to sixty percent of those deductions are disputable. We find them, file them inside the window, and track every case until the money is on your remittance.</p>
+  <div class="btns">
+    <a class="btn primary" href="https://calendly.com/deductback/scan" target="_blank" rel="noopener">Book a free 24-month scan</a>
+    <a class="btn ghost" href="/scan.html">See what the scan returns</a>
+  </div>
+  <p class="small" style="margin-top:14px">Fee: 25% of what the retailer actually repays, invoiced after it shows on your remittance. Nothing otherwise.</p>
+  <div class="trust">
+    <div><b>Free scan first</b><span>A written report within five business days of your export. No obligation.</span></div>
+    <div><b>Paid only on results</b><span>No retainer, no minimum, no fee on anything we do not recover.</span></div>
+    <div><b>We never touch your money</b><span>The retailer pays you directly on your normal remittance.</span></div>
+    <div><b>Month to month</b><span>Stop with 30 days' notice. Disputes already filed are tracked to a decision.</span></div>
   </div>
 </div></section>
 
-<section class="alt" id="pricing"><div class="wrap">
-  <h2>Pricing</h2>
-  <p class="lead">Two line items, no contracts, cancel the plan any time. Paid by card through Stripe.</p>
+<section id="problem"><div class="wrap">
+  <p class="kicker">The problem</p>
+  <h2>Deductions are 2 to 5 cents of every sales dollar. Most of them go undisputed.</h2>
+  <p class="sub">Each dispute takes a person 15 to 20 minutes inside a retailer portal, with the right evidence attached, before the clock runs out. Finance teams file the big ones and let the rest expire.</p>
+  <div class="grid c3">
+    <div class="card"><div class="stat">2&ndash;5%<small>of gross sales taken as deductions across consumer-product suppliers</small></div></div>
+    <div class="card"><div class="stat">40&ndash;60%<small>of deductions that industry audits find wrong or disputable</small></div></div>
+    <div class="card"><div class="stat">90 days<small>Target's window on compliance fines. Walmart gives 12 months on shortages. After that the money is gone.</small></div></div>
+  </div>
+</div></section>
+
+<section class="alt" id="how"><div class="wrap">
+  <p class="kicker">How it works</p>
+  <h2>Four steps, and the first one is free.</h2>
+  <div class="grid c4">
+    <div class="card"><span class="num">1</span><h3>Send one export</h3><p>A 24-month deduction export from each retailer portal (Target Partners Online allows 18). Two clicks; we can show your team where.</p></div>
+    <div class="card"><span class="num">2</span><h3>Read the scan report</h3><p>Within five business days: dollars deducted, dollars still inside a window, what we rate recoverable and why, and the items we would file first.</p></div>
+    <div class="card"><span class="num">3</span><h3>Sign and grant access</h3><p>A two-page agreement, a read-and-dispute login in each portal, and a folder of proofs of delivery. About two hours in the first week.</p></div>
+    <div class="card"><span class="num">4</span><h3>We file, track and reconcile</h3><p>Soonest deadlines first. Denials re-filed with better evidence. Approvals matched to your remittances. A log every Friday, a statement on the 5th.</p></div>
+  </div>
+  <p class="small" style="margin-top:22px">After launch it takes your team roughly 20 minutes a month to read the statement.</p>
+</div></section>
+
+<section id="recover"><div class="wrap">
+  <p class="kicker">What we recover</p>
+  <h2>Built on the dispute processes the retailers publish.</h2>
+  <p class="sub">Walmart APDP and HighRadius, Target Partners Online and Synergy. We keep the evidence checklist for every deduction code and file each case the way that code wins.</p>
+  <div class="grid c2">
+    <div class="card"><h3>Shortages</h3><p>Billed-not-shipped, no-merchandise-received, signed-short and concealed cartons, Target A030 carton and A034 unit shortages. Evidence: PODs with DC stamps, carrier-signed BOLs, packing slips.</p></div>
+    <div class="card"><h3>Duplicate billing and pricing</h3><p>Walmart code 30 duplicates, price differences and allowance disputes. Small in count, often the largest dollars, and almost always recoverable with both invoices and the PO.</p></div>
+    <div class="card"><h3>Compliance and performance fines</h3><p>OTIF, SQEP and Supplier Performance chargebacks. Short 90-day windows, so we watch the current season rather than the back book, and file in the week they land.</p></div>
+    <div class="card"><h3>Audits and auto chargebacks</h3><p>PRGX and retailer post-audit claims, Target A176 auto chargebacks. We request the backup first, then treat each one as the shortage or pricing claim it really is.</p></div>
+  </div>
+</div></section>
+
+<section class="alt" id="sample"><div class="wrap">
+  <p class="kicker">Sample scan</p>
+  <h2>What a scan report looks like.</h2>
+  <p class="sub">An illustrative report for a fictional supplier, Northline Foods, built from a 200-line, 24-month export covering Walmart and Target. Your report has the same shape with your numbers.</p>
+  <div class="grid c3" style="margin-bottom:22px">
+    <div class="card"><div class="stat">$698,090<small>deducted across 200 items in 24 months</small></div></div>
+    <div class="card"><div class="stat">$399,841<small>still inside a dispute window; $298,249 has expired</small></div></div>
+    <div class="card"><div class="stat">~$164,000<small>expected back at a 70% approval rate; Deductback's fee about $41,000</small></div></div>
+  </div>
+  <div class="tablewrap"><table>
+    <tr><th>Validity</th><th class="r">Items</th><th class="r">Deducted</th><th class="r">Still in window</th><th class="r">Weighted recoverable</th></tr>
+    <tr><td><span class="tag">Dispute: high</span> billed-not-shipped, no-merchandise-received, duplicate billing, Target carton shortage</td><td class="r">48</td><td class="r">$214,392</td><td class="r">$132,661</td><td class="r">$106,129</td></tr>
+    <tr><td><span class="tag med">Dispute: medium</span> signed-short cartons, concealed shortage, damage, pricing, compliance</td><td class="r">95</td><td class="r">$249,095</td><td class="r">$123,920</td><td class="r">$68,156</td></tr>
+    <tr><td><span class="tag med">Needs backup first</span> Walmart 10 and 87, Target auto-chargebacks, PRGX audits</td><td class="r">26</td><td class="r">$168,759</td><td class="r">$102,652</td><td class="r">$51,326</td></tr>
+    <tr><td><span class="tag low">Dispute: low</span> SL&amp;C shortage, substitutions, returns, freight</td><td class="r">17</td><td class="r">$46,418</td><td class="r">$26,402</td><td class="r">$7,920</td></tr>
+    <tr><td><span class="tag low">Likely valid</span> agreed allowances, defective returns, packaging fines</td><td class="r">14</td><td class="r">$19,426</td><td class="r">$14,205</td><td class="r">$710</td></tr>
+    <tr><th>Total</th><th class="r">200</th><th class="r">$698,090</th><th class="r">$399,841</th><th class="r">$234,242</th></tr>
+  </table></div>
+  <p class="small" style="margin-top:14px">Validity weights by code: 0.80 high, 0.55 medium, 0.30 low, 0.50 needs-backup, 0.05 likely-valid. The 70% approval rate is our conservative planning figure; platform providers report 74% to 91% on first attempts. Illustrative figures, not a client's.</p>
+  <div class="btns" style="margin-top:20px"><a class="btn ghost" href="/scan.html">How the scan works and what to send</a></div>
+</div></section>
+
+<section id="pricing"><div class="wrap">
   <div class="price">
-    <div class="plan"><div class="amt">$990</div><div>Setup, one time (launch price; $1,490 after)</div><ul><li>Your rebuilt one-page site, edits applied</li><li>Live on your domain within 48 hours</li><li>Quote form that emails you, tap-to-call, Google Business link</li><li>Basic on-page SEO: title, description, service area, hours</li><li>30-day money back</li></ul></div>
-    <div class="plan"><div class="amt">$149<span style="font-size:16px;font-weight:500"> / month</span></div><div>Plan, starts the day your site goes live</div><ul><li>Hosting and SSL</li><li>Edits within two business days: text, photos, hours, a new service</li><li>Uptime monitoring</li><li>Monthly email: visits, calls, form submissions</li><li>Cancel any time; your content is yours</li></ul></div>
+    <div>
+      <p class="kicker" style="color:#8fd9b3">Pricing</p>
+      <h2>25% of what the retailer repays.</h2>
+      <div class="big">25%</div>
+      <p style="margin-top:12px">Invoiced after the repayment shows on your remittance. No retainer, no minimum, no fee on anything we do not recover. Month to month; stop with 30 days' notice.</p>
+      <a class="btn primary" href="https://calendly.com/deductback/scan" target="_blank" rel="noopener">Book a free scan</a>
+    </div>
+    <div>
+      <h3>Why 25% and not 30 to 35%</h3>
+      <p>Recovery firms have charged 30 to 35 percent for years because the matching is done by hand. We run the matching with AI against the evidence checklist for every code, and a person files and argues each case. The saving goes to you.</p>
+      <h3 style="margin-top:16px">What you get</h3>
+      <ul>
+        <li>Every deduction pulled, matched and rated</li>
+        <li>Disputes filed inside each retailer's window, soonest first</li>
+        <li>Denials re-filed with better evidence</li>
+        <li>Approvals reconciled to your remittances</li>
+        <li>A log every Friday, a statement on the 5th</li>
+      </ul>
+    </div>
   </div>
 </div></section>
 
-<section id="faq"><div class="wrap faq">
-  <h2>Questions</h2>
-  <details><summary>Why did I get a preview I didn't ask for?</summary><p>Because showing beats telling. We only build previews for businesses whose current site is losing them calls, and we only use what you already publish: your name, services, hours, phone and public reviews. If you'd rather we didn't, reply "no" and the preview is deleted the same day.</p></details>
-  <details><summary>Do I own the site?</summary><p>Yes. The content is yours. If you cancel the plan, we hand you the files; you only lose the hosting and the edits service.</p></details>
-  <details><summary>What if I need more than one page?</summary><p>Most service businesses do better with one fast page than five slow ones. If you need a second location or a careers page, it's a $249 add-on.</p></details>
-  <details><summary>What happens after I pay?</summary><p>You get a Stripe receipt and, within the hour, an email from hello@fixedfront.com with two questions: your logo, and anything to change. We apply the edits, connect your domain with you (a five-minute step we walk you through), and the site is live within 48 hours.</p></details>
-  <details><summary>Who are you?</summary><p>Fixedfront is a small Maryland studio run by Zeluis, using AI to do in hours what used to take an agency six weeks, so the price can be a tenth of theirs.</p></details>
-  <details><summary>Can we talk first?</summary><p>Sure, ten minutes: <a href="https://calendly.com/deductback/website">book a call</a>. Most clients don't need to; the preview answers the questions.</p></details>
+<section class="alt" id="who"><div class="wrap">
+  <p class="kicker">Who it is for</p>
+  <h2>Consumer-product suppliers with Walmart or Target on the invoice.</h2>
+  <div class="grid c3">
+    <div class="card"><h3>Food, beverage and supplements</h3><p>Shortage and compliance codes run highest on fast-moving, multi-DC programs; refrigerated and frozen add damage claims.</p></div>
+    <div class="card"><h3>Beauty, personal care and household</h3><p>Target Beauty Studio and Walmart general-merchandise suppliers see auto chargebacks and audits that need backup before they can be argued.</p></div>
+    <div class="card"><h3>Toys, pet, baby and hardlines</h3><p>Seasonal programs concentrate chargebacks into a few months; the 90-day compliance windows close before most teams look.</p></div>
+  </div>
+  <p class="small" style="margin-top:18px">Typical fit: $5M to $250M in retail sales, a finance team of one to five, and a deduction line nobody owns. Brokers, 3PLs and fractional CFOs who introduce a brand that signs receive 10% of our fees from that brand for 12 months; <a href="/contact.html">ask us</a>.</p>
 </div></section>
 
-<section class="alt" id="contact"><div class="wrap">
-  <h2>Contact</h2>
-  <p class="lead">Email is fastest; we answer within one business day, usually within the hour.</p>
-  <div class="contact">
-    <div class="step"><b>Email</b><p><a href="mailto:hello@fixedfront.com">hello@fixedfront.com</a></p></div>
-    <div class="step"><b>Mail</b><p>Fixedfront<br>9091 Snowden River Pkwy #1006<br>Columbia, MD 21046</p></div>
-    <div class="step"><b>Talk</b><p><a href="https://calendly.com/deductback/website">Book a 10-minute call</a></p></div>
+<section id="faq"><div class="wrap">
+  <p class="kicker">FAQ</p>
+  <h2>Questions a CFO asks first.</h2>
+  <details><summary>Do you need access to our bank account or hold our money?</summary><p>No. The retailer repays you on your normal remittance. We invoice our 25% after the repayment shows there, and nothing otherwise.</p></details>
+  <details><summary>What do you need from us to start?</summary><p>For the free scan, one deduction export per retailer portal; that's it. If you go ahead after the report: a two-page agreement, a read-and-dispute login in each portal (Walmart Retail Link / APDP, Target Partners Online / Synergy), a folder of proofs of delivery, and a contact for pricing questions. About two hours in the first week.</p></details>
+  <details><summary>How is the scan free?</summary><p>The scan is how we size the problem and show our work. Many suppliers use it to decide whether deductions are worth anyone's time. If the open dollars are small we will say so, and you keep the report.</p></details>
+  <details><summary>Which deductions can still be recovered?</summary><p>Only those inside the retailer's window: Walmart allows roughly 12 months on shortages and up to 24 months on other accounts-payable codes; Target allows 18 months on invoice-match codes and 90 days on compliance fines. The scan separates open dollars from expired ones so the report shows only what can still be filed.</p></details>
+  <details><summary>Will disputing hurt our relationship with the buyer?</summary><p>Disputes go through the accounts-payable channels the retailers built for exactly this, not through your buyer. We file with the evidence each code requires and never file claims the evidence does not support.</p></details>
+  <details><summary>Who does the work?</summary><p>Deductback is founder-run: Zeluis handles your account from scan to remittance. Matching runs on software; filing, evidence and appeals are done by a person who reads every case.</p></details>
+  <details><summary>Can we stop?</summary><p>Yes, with 30 days' notice. Cases already filed are tracked to a decision and reconciled; the fee applies only to repayments on those cases.</p></details>
+  <details><summary>Do you work with retailers other than Walmart and Target?</summary><p>Walmart and Target first, because together they are most suppliers' largest deduction lines and their dispute processes are published. Tell us which others you sell to and we will say whether we can cover them.</p></details>
+</div></section>
+
+<section class="cta-band"><div class="wrap">
+  <h2>Find out what Walmart and Target still owe you.</h2>
+  <div class="btns">
+    <a class="btn primary" href="https://calendly.com/deductback/scan" target="_blank" rel="noopener">Book a 20-minute scan call</a>
+    <a class="btn ghost" href="/contact.html">Send the export instead</a>
   </div>
 </div></section>
 
-<footer><div class="wrap"><span>© 2026 Fixedfront · Columbia, Maryland</span><span><a href="terms.html">Terms</a> · <a href="privacy.html">Privacy</a> · <a href="refunds.html">Refunds</a> · To stop receiving email from us, reply "unsubscribe" to any message.</span></div></footer>
+<footer><div class="wrap">
+  <div><b>Deductback</b>We get retailer deductions back. Walmart and Target first.<br>A Maryland business. Mail: 9091 Snowden River Pkwy #1006, Columbia, MD 21046.<br><a href="mailto:zeluis@deductback.com">zeluis@deductback.com</a></div>
+  <div><b>Pages</b><a href="/#how">How it works</a><br><a href="/scan.html">The free scan</a><br><a href="/#pricing">Pricing</a><br><a href="/#faq">FAQ</a><br><a href="/contact.html">Contact</a></div>
+  <div><b>Legal</b><a href="/terms.html">Website terms</a><br><a href="/privacy.html">Privacy policy</a><br><span class="small">Client engagements are governed by the Deductback Services Agreement, signed before any work starts.</span><br><span class="small">&copy; 2026 Deductback. Walmart, Target, Retail Link, APDP, HighRadius, Partners Online and Synergy are trademarks of their owners; Deductback is independent of them.</span></div>
+</div></footer>
 </body>
 </html>
