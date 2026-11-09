@@ -12,13 +12,16 @@ the Payment Link". Set checkout_url to "none" to keep a mailto button instead (s
 import json, sys, html, re, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-PAYMENT_LINK = 'https://buy.stripe.com/8x24gza4UeXs84YeHa0Ba00'   # Fixedfront: $990 setup + $149/month
+# Price changed 9 Nov 2026 to $795 setup + $49/month. The old $990 + $149 link is retired; until the new
+# Stripe Payment Link exists, PAYMENT_LINK is '' and every "Make it mine" button is a mailto instead.
+# Old link (do not reuse): https://buy.stripe.com/8x24gza4UeXs84YeHa0Ba00
+PAYMENT_LINK = ''   # Fixedfront: $795 setup + $49/month (paste the new Payment Link here)
 
 def checkout_url(d, slug):
     u = (d.get('checkout_url') or '').strip()
     if u.startswith('https://'):
         return u
-    if u == 'none':
+    if u == 'none' or not PAYMENT_LINK:
         return 'mailto:hello@fixedfront.com?subject=' + html.escape('Make it mine: ' + d['name']).replace(' ', '%20')
     ref = re.sub(r'[^A-Za-z0-9_-]', '-', slug or d.get('short_name') or d['name'])[:200]
     return PAYMENT_LINK + '?client_reference_id=' + ref

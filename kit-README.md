@@ -9,3 +9,6 @@ To add a business: add data-<slug>.json, run the generator, commit p-<slug>.html
 
 ## Buy button (28 Oct 2026)
 "Make it mine" on every preview goes to the Fixedfront Stripe Payment Link ($990 setup + $149/month, PAYMENT_LINK in kit-build_preview.py) with `client_reference_id=<slug>` so the Stripe payment shows which business bought. A data file's checkout_url is used only if it is an explicit https:// URL; "#checkout", "#", a mailto: or a missing key all mean "use the Payment Link". Set checkout_url to "none" to keep a mailto button (A1 Pool Service, founding-client offer).
+
+## Price change (9 Nov 2026)
+Price is now $795 setup + $49/month. The $990 + $149 Payment Link is retired. Until a new Stripe Payment Link is pasted into PAYMENT_LINK in kit-build_preview.py, every "Make it mine" button is a mailto to hello@fixedfront.com.
