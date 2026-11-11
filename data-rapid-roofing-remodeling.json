@@ -1,0 +1,76 @@
+{
+  "name": "Rapid Roofing & Remodeling, LLC",
+  "short_name": "Rapid Roofing & Remodeling",
+  "tagline": "Roofing, gutters, windows and siding in the DMV",
+  "meta_description": "Family-owned roofing, gutters, windows and siding in the DMV area. 178 Google reviews, 4.9 stars. Call (301) 266-1393.",
+  "phone": "(301) 266-1393",
+  "email": "info@rapidrandr.com",
+  "address": "8222 Schultz Road, Suite #214, Clinton, MD 20735",
+  "headline": "Roofing and exterior remodeling in the DMV.",
+  "subhead": "A family-owned contractor specializing in roofing, gutters, windows and siding. Rated 4.9 from 178 Google reviews.",
+  "rating": "4.9",
+  "review_count": "178",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Prince George's",
+  "trust3_big": "MHIC #138313",
+  "trust3_small": "Maryland license",
+  "services_lead": "Roofing, siding, gutters, windows, and remodeling work in the DMV area.",
+  "services": [
+    {
+      "name": "Roofing",
+      "blurb": "Roofing products and roof repair, including full replacements."
+    },
+    {
+      "name": "Siding",
+      "blurb": "Vinyl siding replacement and exterior upgrades."
+    },
+    {
+      "name": "Remodeling",
+      "blurb": "Interior and exterior remodeling, as listed on the company site."
+    },
+    {
+      "name": "Commercial",
+      "blurb": "The site includes a commercial services section."
+    }
+  ],
+  "why_lead": "What customers wrote on the company gallery page.",
+  "why": [
+    {
+      "title": "Finished in a day",
+      "text": "One Clinton customer said the roof was installed in one day and the new color looked beautiful."
+    },
+    {
+      "title": "Came out right away",
+      "text": "A Bowie customer said the company came out right away for a leaking bedroom ceiling and repaired the roof and ceiling damage."
+    },
+    {
+      "title": "Professional and punctual",
+      "text": "Reviews on their own gallery page describe the team as professional and punctual."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Richard and his team were professional and punctual. My roof was installed in one day and my new color is beautiful.",
+      "author": "Vanessa",
+      "when": ""
+    },
+    {
+      "text": "My bedroom ceiling was leaking. I called Rapid Roofing & Remodeling and they came out right away. They repaired my roof and the damage to my ceiling.",
+      "author": "Denise",
+      "when": ""
+    }
+  ],
+  "area_lead": "Based in Clinton, serving the DMV area.",
+  "areas": [
+    "Clinton",
+    "Bowie",
+    "DMV"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "MHIC #138313",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

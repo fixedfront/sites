@@ -1,0 +1,84 @@
+{
+  "name": "Paramount Heating & Air Conditioning LLC",
+  "short_name": "Paramount HVAC",
+  "tagline": "Heating and air conditioning in the Baltimore area",
+  "meta_description": "Residential heating, air conditioning, heat pumps and furnace service in the Baltimore area. 284 Google reviews, 5.0 stars. Call (410) 650-4031.",
+  "phone": "(410) 650-4031",
+  "email": "admin@paramounthvac.com",
+  "address": "4 Nashua Court Bay 16, Essex, MD 21221",
+  "headline": "Heating and cooling for Baltimore-area homes.",
+  "subhead": "A locally owned HVAC company serving the Baltimore area since 2008. Rated 5.0 from 284 Google reviews.",
+  "rating": "5.0",
+  "review_count": "284",
+  "review_source": "Google",
+  "years": "18",
+  "area_short": "Baltimore Co",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Residential air conditioning, heat pumps, gas furnaces, and indoor air quality work.",
+  "services": [
+    {
+      "name": "Air conditioning",
+      "blurb": "Service and installation of residential air conditioning systems."
+    },
+    {
+      "name": "Heat pumps",
+      "blurb": "Residential heat pump service and installation."
+    },
+    {
+      "name": "Gas furnaces",
+      "blurb": "Gas furnace service and installation."
+    },
+    {
+      "name": "Indoor air quality",
+      "blurb": "Help your family breathe easy by clearing the air, as described on their site."
+    },
+    {
+      "name": "Repair and maintenance",
+      "blurb": "Repair and maintenance to keep an existing system running."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Quick response",
+      "text": "Reviewers describe same-week or faster diagnosis and repair, including after a weekend breakdown."
+    },
+    {
+      "title": "Technical follow-through",
+      "text": "Customers say the problem was diagnosed, the part was ordered, and the system was restored to full cooling."
+    },
+    {
+      "title": "Straightforward work",
+      "text": "Reviews mention trustworthy work and a customer-first approach."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "An air handler malfunctioned on a Saturday of a hot and humid Baltimore summer. After a desperate call to Paramount, the problem was diagnosed and the part ordered the next day. By Monday noon all was repaired and the system back up to full cooling. Thanks to Paramount for their quick response and technical expertise.",
+      "author": "Frank L",
+      "when": "October 2024"
+    },
+    {
+      "text": "Excellent work And trustworthy to do the job right the first time. Customer first.",
+      "author": "Michael H",
+      "when": "October 2024"
+    },
+    {
+      "text": "Very prompt service, solved the problem quickly, heat back up and running!",
+      "author": "Delane L",
+      "when": "October 2024"
+    }
+  ],
+  "area_lead": "Based in Essex, serving the Baltimore area.",
+  "areas": [
+    "Essex",
+    "Baltimore"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

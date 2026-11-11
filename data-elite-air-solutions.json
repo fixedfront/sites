@@ -1,0 +1,81 @@
+{
+  "name": "Elite Air Solutions, LLC-MD",
+  "short_name": "Elite Air Solutions",
+  "tagline": "HVAC installation and service in Baltimore and Central Maryland",
+  "meta_description": "HVAC installation and service for Baltimore and Central Maryland. 212 Google reviews, 5.0 stars. Call (410) 977-0777.",
+  "phone": "(410) 977-0777",
+  "email": "service@eliteairsolutionsmd.com",
+  "address": "1320 Innovation St, Suite J, Baltimore, MD 21220",
+  "headline": "HVAC for homes in Baltimore and Central Maryland.",
+  "subhead": "Installation and service for heating and cooling. Rated 5.0 from 212 Google reviews.",
+  "rating": "5.0",
+  "review_count": "212",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Baltimore Co",
+  "trust3_big": "Free estimates",
+  "trust3_small": "Advertised on their site",
+  "services_lead": "Quality installation and service for HVAC needs, as described on their site.",
+  "services": [
+    {
+      "name": "HVAC installation",
+      "blurb": "Installation of heating and cooling equipment, including heat pumps."
+    },
+    {
+      "name": "HVAC service",
+      "blurb": "Service and maintenance for existing HVAC systems."
+    },
+    {
+      "name": "Ductless systems",
+      "blurb": "The site lists ductless options, including Fujitsu ductless."
+    }
+  ],
+  "why_lead": "What customers wrote on the company website.",
+  "why": [
+    {
+      "title": "Explains the options",
+      "text": "Reviewers say quotes and recommendations were explained thoroughly."
+    },
+    {
+      "title": "Shows up on time",
+      "text": "One customer said the installer arrived at the exact scheduled time and cleaned up after the job."
+    },
+    {
+      "title": "Honest about repairs",
+      "text": "A long-time customer described the company as honest about what is wrong."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Elite Air Solutions is professional and courteous. He gave us great quotes for our A/C and explained the options thoroughly. He was easy to reach and quickly responded to questions. On the day of the install, he showed up at the exact time we had scheduled, he was finished quickly and made sure to wear boots in the house and clean everything up. Excellent service, would highly recommend Elite Air Solutions.",
+      "author": "Kristen",
+      "when": ""
+    },
+    {
+      "text": "Elite Air Solutions installed a new heat pump in my rental unit. Professional, great service. Explained everything thoroughly. So happy, especiallywith the heat we're having now! Thank you!",
+      "author": "Kimberly",
+      "when": ""
+    },
+    {
+      "text": "Elite Air Solutions has taken care of our HVAC needs for quite awhile He does a great job, always honest about what is wrong. Friendly and courteous. We highly recommend.",
+      "author": "Annette",
+      "when": ""
+    },
+    {
+      "text": "Elite Air Solutions has always been a consummate professional and his word is golden. He is highly knowledgeable, informative and proactive when it comes to recommending maintenance thus saving me money over the years. I highly recommend Elite Air Solutions. They are prompt, fair and a pleasure to work with. If you need any HVAC service, give them a call - you won't be sorry!",
+      "author": "Amy",
+      "when": ""
+    }
+  ],
+  "area_lead": "Serving Baltimore and Central Maryland.",
+  "areas": [
+    "Baltimore",
+    "Central Maryland"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

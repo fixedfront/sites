@@ -1,0 +1,84 @@
+{
+  "name": "Beyond Cooling LLC",
+  "short_name": "Beyond Cooling",
+  "tagline": "Heating, cooling and indoor air quality in Baltimore",
+  "meta_description": "Heating, air conditioning, water heaters and indoor air quality in Baltimore and Halethorpe. 86 Google reviews, 5.0 stars. Call (410) 973-7821.",
+  "phone": "(410) 973-7821",
+  "email": "contact@beyondcooling.net",
+  "address": "3922 Vero Rd Rear L, Halethorpe, MD 21227",
+  "headline": "Home comfort HVAC in Baltimore and Halethorpe.",
+  "subhead": "A locally owned HVAC company in Halethorpe. Rated 5.0 from 86 Google reviews.",
+  "rating": "5.0",
+  "review_count": "86",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Baltimore Co",
+  "trust3_big": "Halethorpe",
+  "trust3_small": "Based in",
+  "services_lead": "Heating, air conditioning, water heaters, service and maintenance, and indoor air quality.",
+  "services": [
+    {
+      "name": "Heating",
+      "blurb": "Residential heating service, as listed on the company site."
+    },
+    {
+      "name": "Air conditioning",
+      "blurb": "Air conditioning service and installation."
+    },
+    {
+      "name": "Water heaters",
+      "blurb": "Water heaters are listed among the company services."
+    },
+    {
+      "name": "Service and maintenance",
+      "blurb": "Service and maintenance of existing equipment."
+    },
+    {
+      "name": "Indoor air quality",
+      "blurb": "Indoor air quality is listed in the site navigation."
+    }
+  ],
+  "why_lead": "What customers wrote on the company website.",
+  "why": [
+    {
+      "title": "Professional installation",
+      "text": "Reviewers describe professional installation and a clean finished look."
+    },
+    {
+      "title": "Explains the equipment",
+      "text": "Customers mention a clear explanation of equipment choices, including Bosch."
+    },
+    {
+      "title": "Competitive and honest",
+      "text": "Reviews describe honest, competitive pricing and a willingness to work with the customer."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "I give this company 5 stars. You will not go wrong by choosing this company for your needs.",
+      "author": "Fred",
+      "when": ""
+    },
+    {
+      "text": "Marvin and his team at Beyond Cooling were FANTASTIC!!! He also explained why he liked Bosch and stood behind it.",
+      "author": "Philip",
+      "when": ""
+    },
+    {
+      "text": "Marvin and his team did an awesome job installing all 3 new complete units at my home. They were courteous, friendly, knowledgeable, and neat. The installation looks cleaner and better than the original units. I would recommend them to anyone!",
+      "author": "Kenny",
+      "when": ""
+    }
+  ],
+  "area_lead": "Based in Halethorpe, serving Baltimore, MD.",
+  "areas": [
+    "Halethorpe",
+    "Baltimore"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

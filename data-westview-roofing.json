@@ -1,0 +1,85 @@
+{
+  "name": "Westview Roofing Co",
+  "short_name": "Westview Roofing",
+  "tagline": "Residential roofing and contracting in Catonsville since 1962",
+  "meta_description": "Family-owned roofing, gutters, windows, siding and doors in Catonsville and the counties around Baltimore. 157 Google reviews, 5.0 stars. Call (410) 744-3771.",
+  "phone": "(410) 744-3771",
+  "email": "liberto@westviewroofing.com",
+  "address": "305 N Beaumont Ave, Catonsville, MD 21228",
+  "headline": "Roofing and exterior work in Catonsville, since 1962.",
+  "subhead": "A family-owned roofing and contracting company serving Catonsville and the counties around Baltimore. Rated 5.0 from 157 Google reviews.",
+  "rating": "5.0",
+  "review_count": "157",
+  "review_source": "Google",
+  "years": "64",
+  "area_short": "Baltimore Co",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Roof replacement and repair, gutters, windows, siding, doors, and general contracting.",
+  "services": [
+    {
+      "name": "Roof replacement",
+      "blurb": "Roof replacement and repair, described on the site as their specialty."
+    },
+    {
+      "name": "Gutter installation",
+      "blurb": "Gutter installation and related exterior work."
+    },
+    {
+      "name": "Windows, siding and doors",
+      "blurb": "Windows, siding and doors listed on the company services page."
+    },
+    {
+      "name": "General contracting",
+      "blurb": "General contracting is listed among their services."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Clear communication",
+      "text": "Reviewers describe a responsive, professional team that is easy to work with from start to finish."
+    },
+    {
+      "title": "Honest assessments",
+      "text": "One customer said the company checked a suspected skylight crack, found only staining, and did not upsell an unnecessary repair."
+    },
+    {
+      "title": "Clean, careful work",
+      "text": "Reviews mention efficient work, a clean job site, and a finished roof customers were happy with."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Westview Roofing, Thank you for the outstanding work you recently completed for us.Our new roof is beautiful!",
+      "author": "David",
+      "when": ""
+    },
+    {
+      "text": "We had a great experience with Westview Roofing! They did an excellent job on both our roof and deck. From start to finish, they were very responsive, professional, and easy to work with. The quality of their work was excellent, and they made the entire process smooth and stress-free. We would absolutely recommend Westview Roofing to anyone looking for a reliable and professional company!",
+      "author": "Jillian L",
+      "when": "September 2026"
+    },
+    {
+      "text": "We had an excellent experience with Westview Roofing company from start to finish! The team was professional, responsive, and very knowledgeable. They arrived on time, worked efficiently, and did a great job keeping everything clean and organized throughout the project. The quality of their work was outstanding, and they made the entire process easy and stress-free. We are extremely happy with their work and would highly recommend this company to anyone looking for reliable, professional roofing services. 5 stars all around!",
+      "author": "Laura B",
+      "when": "August 2026"
+    },
+    {
+      "text": "Westview Roofing came out to evaluate a skylight issue after a home inspection raised concerns about a possible crack. Greg was great! He was honest, professional, and took the time to thoroughly assess everything. They confirmed there was actually no crack, just staining on the glass, and explained everything clearly without trying to upsell unnecessary repairs. Really appreciated their responsiveness, transparency, and expertise. Highly recommend them if you want a roofing company you can trust.",
+      "author": "Augustin J",
+      "when": "May 2026"
+    }
+  ],
+  "area_lead": "Based in Catonsville, serving the counties around Baltimore.",
+  "areas": [
+    "Catonsville",
+    "Baltimore"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "MHIC #115832",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Titanium Restorations",
+  "short_name": "Titanium Restorations",
+  "tagline": "Roofing, siding and home exteriors in Bowie",
+  "meta_description": "Roofing, siding, windows and exterior work in Bowie, MD. Founded in 2013. 134 Google reviews, 4.6 stars. Call (301) 383-0651.",
+  "phone": "(301) 383-0651",
+  "email": "titaniumbrb@gmail.com",
+  "address": "4201 Enterprise Rd, Bowie, MD 20720",
+  "headline": "Roofing and exterior restorations in Bowie.",
+  "subhead": "A Bowie contractor founded in 2013, specializing in roofing, siding, and home exteriors. Rated 4.6 from 134 Google reviews.",
+  "rating": "4.6",
+  "review_count": "134",
+  "review_source": "Google",
+  "years": "13",
+  "area_short": "Prince George's",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Roofing, home exteriors, windows, and general contracting, including insurance-related storm work.",
+  "services": [
+    {
+      "name": "Roofing",
+      "blurb": "Roof repair and replacement, including insurance and storm-related work."
+    },
+    {
+      "name": "Home exteriors",
+      "blurb": "Siding, gutters, and related exterior work."
+    },
+    {
+      "name": "Windows",
+      "blurb": "Windows are listed among the company services."
+    },
+    {
+      "name": "General contracting",
+      "blurb": "General contracting and commercial remodeling are listed on the site."
+    }
+  ],
+  "why_lead": "What customers wrote on the company testimonials page.",
+  "why": [
+    {
+      "title": "Follow-through",
+      "text": "Customers say the company did what it promised and answered questions promptly."
+    },
+    {
+      "title": "Clean, finished work",
+      "text": "One reviewer said the roof was installed quickly and the site was cleaned of debris in one day."
+    },
+    {
+      "title": "Help with insurance",
+      "text": "Several testimonials describe help dealing with a homeowners insurance claim."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Titanium Restoration was an excellent choice! From the first consultation to the final payment I received nothing but professional treatment. The roof was installed quickly and the work site completely cleaned of debris in one day! People in my community walk by my home and stop to look at it. I get compliments on the color match which happens to be the only color on my street. Thank you Titanium Restoration for a job well done. I recommend my project manager Carlos for his company's Service Award!!",
+      "author": "Donna",
+      "when": ""
+    },
+    {
+      "text": "I'm very pleased with my roof replacement. They offered great support from beginning to end. The company did everything they promised and answered any questions I had in a timely manner. I highly recommend them to anyone needing this service.",
+      "author": "Patricia",
+      "when": ""
+    },
+    {
+      "text": "Our Representative was very professional. He stayed on top of he job and made sure everything was done as promised. We enjoyed working with him.",
+      "author": "Joann B",
+      "when": ""
+    }
+  ],
+  "area_lead": "Based in Bowie, serving Prince George’s County and nearby Maryland.",
+  "areas": [
+    "Bowie"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}
