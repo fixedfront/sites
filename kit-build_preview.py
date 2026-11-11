@@ -15,7 +15,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # Price changed 9 Nov 2026 to $795 setup + $49/month. The old $990 + $149 link is retired; until the new
 # Stripe Payment Link exists, PAYMENT_LINK is '' and every "Make it mine" button is a mailto instead.
 # Old link (do not reuse): https://buy.stripe.com/8x24gza4UeXs84YeHa0Ba00
-PAYMENT_LINK = ''   # Fixedfront: $795 setup + $49/month (paste the new Payment Link here)
+PAYMENT_LINK = 'https://buy.stripe.com/9B69ATfnXdFz0HZ3Fg5Vu00'   # Fixedfront: $795 setup + $49/month (created 11 Nov 2026)
 
 def checkout_url(d, slug):
     u = (d.get('checkout_url') or '').strip()
