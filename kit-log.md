@@ -23,4 +23,6 @@
 2026-11-10T14:36:09Z built 31 pages; skipped/failed: none; no change
 2026-11-11T14:35:56Z built 31 pages; skipped/failed: none; no change
 2026-11-11T14:55:00Z built 31 pages; skipped/failed: none; new $795+$49 Payment Link wired into 30 previews (A1 stays mailto)
+2026-11-11T17:55:00Z built 40 pages; skipped/failed: none; batch 3 added 9 previews (paramount-hvac, elite-air-solutions, rapid-roofing-remodeling, westview-roofing, 1st-choice-plumbing, titanium-restorations, drain-masters, beyond-cooling, oneill-plumbing-heating); 15 records with build_ready false were not built
+2026-11-11T17:59:22Z rebuilt 9 batch-3 pages; per-review source captions; blank review dates omit the trailing comma; existing pages not regenerated
 2026-11-12T14:35:58Z built 31 pages; skipped/failed: none; no change

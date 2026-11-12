@@ -1,0 +1,65 @@
+{
+  "name": "O'Neill Plumbing & Heating",
+  "short_name": "O'Neill Plumbing & Heating",
+  "tagline": "Plumbing and heating in Hampden, Baltimore, since 1994",
+  "meta_description": "Family-owned plumbing and heating in Hampden, Baltimore, established in 1994. 36 Google reviews, 4.8 stars. Call (410) 433-4047.",
+  "phone": "(410) 433-4047",
+  "email": "info@oneillpandh.com",
+  "address": "3927 Falls Rd, Baltimore, MD 21211",
+  "headline": "Plumbing and heating in Hampden, since 1994.",
+  "subhead": "A family-owned Baltimore plumbing and heating company established in 1994. Rated 4.8 from 36 Google reviews.",
+  "rating": "4.8",
+  "review_count": "36",
+  "review_source": "Google",
+  "years": "32",
+  "area_short": "Baltimore City",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Plumbing and heating work for Baltimore homes, including radiator and piping work described in customer testimonials.",
+  "services": [
+    {
+      "name": "Plumbing",
+      "blurb": "Plumbing service for Baltimore homes, as described on the company site."
+    },
+    {
+      "name": "Heating",
+      "blurb": "Heating service, including radiator work mentioned in customer testimonials."
+    }
+  ],
+  "why_lead": "What customers wrote on the company website.",
+  "why": [
+    {
+      "title": "Takes the job seriously",
+      "text": "One customer thanked the company for making a problem a priority job."
+    },
+    {
+      "title": "Careful finished work",
+      "text": "A reviewer described a better-looking result after radiator and piping work."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "It was a pleasure to have Pat working here -- someone who actually whistles while he works -- and then does a great job to boot! Thanks so much for rearranging our radiators, we'll think of you whenever the heat is on and even when it is not, since the place now looks so much better without all that piping.",
+      "author": "Christinia",
+      "source": "Company site",
+      "when": ""
+    },
+    {
+      "text": "Pat, Thank you for making my problem your priority job. I couldn't have a house if it were not for the three wise men.",
+      "author": "Michael and Carin",
+      "source": "Company site",
+      "when": ""
+    }
+  ],
+  "area_lead": "Based in Hampden, Northern Baltimore. This is not O’Neill Bros. in Rockville.",
+  "areas": [
+    "Hampden",
+    "Baltimore"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

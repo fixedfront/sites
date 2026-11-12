@@ -1,0 +1,78 @@
+{
+  "name": "Drain Masters (Plumbing & Drain Clearing)",
+  "short_name": "Drain Masters",
+  "tagline": "Drain cleaning and plumbing in Catonsville",
+  "meta_description": "Drain cleaning and plumbing in Catonsville, MD. 88 Google reviews, 5.0 stars. Call (410) 242-4074.",
+  "phone": "(410) 242-4074",
+  "email": "kevin.buerger@yahoo.com",
+  "address": "Catonsville, MD",
+  "headline": "Drain cleaning and plumbing in Catonsville.",
+  "subhead": "A Catonsville drain and plumbing company. Rated 5.0 from 88 Google reviews.",
+  "rating": "5.0",
+  "review_count": "88",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Baltimore Co",
+  "trust3_big": "Catonsville",
+  "trust3_small": "Based in",
+  "services_lead": "Drain cleaning, hydro jetting, and water and sewer line repair or replacement.",
+  "services": [
+    {
+      "name": "Drain cleaning",
+      "blurb": "Drain cleaning is the core service described on the company site."
+    },
+    {
+      "name": "Hydro jetting",
+      "blurb": "Hydro jetting is listed among the site services."
+    },
+    {
+      "name": "Water and sewer lines",
+      "blurb": "Water and sewer line repair or replacement, as listed on the site."
+    },
+    {
+      "name": "Emergency repairs",
+      "blurb": "The site lists emergency repairs, installations, and maintenance for residential properties."
+    }
+  ],
+  "why_lead": "What customers wrote on HomeGuide.",
+  "why": [
+    {
+      "title": "Arrives and takes care of it",
+      "text": "Reviewers describe early arrival, a clear explanation, and a quick fix."
+    },
+    {
+      "title": "Leaves no mess",
+      "text": "Customers mention a fair price and no mess left behind."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "They arrived earlier than expected. Also, asked me what the problem was, provided a solution and quickly took care of it.",
+      "author": "Kathryn Y",
+      "source": "HomeGuide",
+      "when": "January 2024"
+    },
+    {
+      "text": "Great price for the work thats was done and no mess left behind Would definitely use Drain Masters again",
+      "author": "Karl B",
+      "source": "HomeGuide",
+      "when": "October 2023"
+    },
+    {
+      "text": "On time low prices witch i was happy definitely will call him again",
+      "author": "Kimberly",
+      "source": "HomeGuide",
+      "when": "May 2019"
+    }
+  ],
+  "area_lead": "Based in Catonsville.",
+  "areas": [
+    "Catonsville"
+  ],
+  "hours": [],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

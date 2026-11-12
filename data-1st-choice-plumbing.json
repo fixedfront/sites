@@ -1,0 +1,101 @@
+{
+  "name": "1st Choice Plumbing & Backflow Prevention, LLC",
+  "short_name": "1st Choice Plumbing",
+  "tagline": "Plumbing, water heaters, drains and backflow in Pasadena",
+  "meta_description": "Water heaters, drain cleaning, water treatment and backflow testing in Pasadena, Glen Burnie and Severna Park. 154 Google reviews, 4.9 stars. Call (443) 790-9571.",
+  "phone": "(443) 790-9571",
+  "email": "jason.shehane@1stchoiceplumbingllc.com",
+  "address": "4471 Mountain Rd., Pasadena, MD 21122",
+  "headline": "Plumbing and backflow work in Pasadena and nearby Anne Arundel.",
+  "subhead": "Founded in 2014, with water heater, drain, water treatment and backflow services. Rated 4.9 from 154 Google reviews.",
+  "rating": "4.9",
+  "review_count": "154",
+  "review_source": "Google",
+  "years": "12",
+  "area_short": "Anne Arundel",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Water heaters, drain cleaning, water treatment, and backflow testing for homes in Pasadena, Glen Burnie, and Severna Park.",
+  "services": [
+    {
+      "name": "Water heaters",
+      "blurb": "Water heater service in Pasadena, Glen Burnie, and Severna Park."
+    },
+    {
+      "name": "Drain cleaning",
+      "blurb": "Drain cleaning services listed on the company site."
+    },
+    {
+      "name": "Water treatment",
+      "blurb": "Water treatment services listed on the company site."
+    },
+    {
+      "name": "Backflow testing",
+      "blurb": "Backflow testing and prevention work, including the company name."
+    }
+  ],
+  "why_lead": "What customers wrote on the company gallery and reviews page.",
+  "why": [
+    {
+      "title": "Responsive",
+      "text": "Customers describe same-day or very fast response, including a well problem diagnosed the same day."
+    },
+    {
+      "title": "Clear communication",
+      "text": "Reviews mention good communication on water heater and leak work."
+    },
+    {
+      "title": "Neat, professional work",
+      "text": "Customers say the work is neat, efficient, and professionally done."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Company is extremely responsive when you call, and their work is always neat and professionally done! Highly recommend this company!!",
+      "author": "Scott B",
+      "source": "Company site",
+      "when": ""
+    },
+    {
+      "text": "I've used this company for years and they're simply the best! I have a mortgage company and property management company and refer all of my clients to Jason and his team at 1st choice plumbing. Reasonable prices and great work!",
+      "author": "Brandon F",
+      "source": "Company site",
+      "when": ""
+    },
+    {
+      "text": "Jason and his crew has done a fantastic job every time we Use their service. From residential to commercial Projects they are always on point with price and service. I highly recommend.",
+      "author": "Rich W",
+      "source": "Company site",
+      "when": ""
+    },
+    {
+      "text": "Same day service was provided for the leak under my kitchen sink and excellent communication when they installed my water heater.",
+      "author": "Craig Z",
+      "source": "Company site",
+      "when": ""
+    },
+    {
+      "text": "Accommodating, professional, good communication and respectful. Will definitely hire again.",
+      "author": "Meghan L",
+      "source": "Company site",
+      "when": ""
+    }
+  ],
+  "area_lead": "Based in Pasadena, serving Glen Burnie, Severna Park, and nearby Anne Arundel.",
+  "areas": [
+    "Pasadena",
+    "Glen Burnie",
+    "Severna Park"
+  ],
+  "hours": [
+    [
+      "24/7",
+      "Open (as published on the company site)"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "MD Master Plumber #72140",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

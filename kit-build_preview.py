@@ -1,7 +1,9 @@
 """Render a one-page service-business preview from a JSON data file onto kit-template.html.
 
 Usage: python3 build_preview.py data.json out.html
-The data file holds the facts pulled from public listings and the current site (a review may carry its own "source" when it is not from review_source); the copy fields
+The data file holds the facts pulled from public listings and the current site. A review may carry its own
+"source" when it is not from review_source (the page-level value still labels the star rating). A blank
+"when" is left off the caption, so it does not end with a comma. The copy fields
 (headline, subhead, services_lead, why_lead, why items, area_lead) are written by Claude per business.
 
 "Make it mine" goes to the Fixedfront Stripe Payment Link (PAYMENT_LINK below) with the page slug as
@@ -38,7 +40,14 @@ def render(d, slug=''):
     cards = ''.join(f'<div class="card"><h3>{esc(s["name"])}</h3><p>{esc(s["blurb"])}</p></div>' for s in d['services'])
     options = ''.join(f'<option>{esc(s["name"])}</option>' for s in d['services']) + '<option>Something else</option>'
     why = ''.join(f'<div><b>{esc(w["title"])}</b>{esc(w["text"])}</div>' for w in d['why'])
-    reviews = ''.join(f'<div class="review"><div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;{esc(r["text"])}&rdquo;</p><small>{esc(r["author"])}, {esc(r.get("source") or d.get("review_source", "Google"))} review, {esc(r["when"])}</small></div>' for r in d['reviews'])
+    def review_meta(r):
+        source = r.get('source') or d.get('review_source') or 'Google'
+        when = str(r.get('when') or '').strip()
+        meta = f'{esc(r["author"])}, {esc(source)} review'
+        if when:
+            meta += ', ' + esc(when)
+        return meta
+    reviews = ''.join(f'<div class="review"><div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;{esc(r["text"])}&rdquo;</p><small>{review_meta(r)}</small></div>' for r in d['reviews'])
     chips = ''.join(f'<span>{esc(a)}</span>' for a in d['areas'])
     hours = ''.join(f'<tr><td>{esc(day)}</td><td>{esc(hrs)}</td></tr>' for day, hrs in d['hours'])
     trust = []
