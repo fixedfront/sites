@@ -1,0 +1,91 @@
+{
+  "name": "Rios HVAC",
+  "short_name": "Rios HVAC",
+  "tagline": "Furnace and heating installs",
+  "meta_description": "Furnace installs, new heating systems, and HVAC checks. 120 Google reviews, 5.0 stars. Call (202) 257-7658.",
+  "phone": "(202) 257-7658",
+  "email": "",
+  "address": "",
+  "headline": "Furnace and heating installs.",
+  "subhead": "New furnaces and heating systems, with the model shared and the area cleaned up. Rated 5.0 from 120 Google reviews.",
+  "rating": "5.0",
+  "review_count": "120",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Furnace installation, new heating systems, and checks on existing equipment.",
+  "services": [
+    {
+      "name": "Furnace installation",
+      "blurb": "New furnace installs, including one a reviewer needed just before winter."
+    },
+    {
+      "name": "Heating systems",
+      "blurb": "New heating units and system installs, with the work area cleaned up before the crew leaves."
+    },
+    {
+      "name": "Equipment checks",
+      "blurb": "Checks on a furnace or AC, including a failure a reviewer said another company had missed."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Quick and reachable",
+      "text": "Reviewers describe text replies, a visit within a day, and a furnace installed right away."
+    },
+    {
+      "title": "Shows the model",
+      "text": "One customer said Juan shared the item number so they could look up the furnace."
+    },
+    {
+      "title": "Straight about the problem",
+      "text": "A reviewer said the crew pointed out an AC failure another company had missed and solved it quickly."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Juan installed a new furnace for me just before the winter. He was very responsive by text, and was able to install my furnace right away. He provided the item number so I could look up the model. He and his crew were punctual, respectful and friendly.",
+      "author": "Kimberly Chang",
+      "when": "November 2025",
+      "source": "Google"
+    },
+    {
+      "text": "I had a great experience with Juan and his team. Juan was very professional and responsive — he came out within a day of me reaching out. The crew installed a new heating unit efficiently, cleaned up the work area thoroughly, and made sure everything was running perfectly before leaving. I really appreciate their professionalism and attention to detail. Highly recommend them for any HVAC work!",
+      "author": "Tony Little",
+      "when": "November 2025",
+      "source": "Google"
+    },
+    {
+      "text": "I first contacted Rios Services last year after looking at the Google reviews. I thought the furnace was making noise, but it turned out to be an unrelated issue that had nothing to do with the furnace or HVAC system. Juan was very professional, had a great attitude, and took care of the issue while also checking the furnace. More recently, I had a new system installed through Rios, and so far I’m very happy with the service and the install process.",
+      "author": "Carlos",
+      "when": "November 2025",
+      "source": "Google"
+    },
+    {
+      "text": "This company is sharp, fast and fair. Had my maintenance contract with a large company who was just here to service my unit, and missed a very obvious failure on my AC unit. These guys pointed it out to me right away and within minutes, my issues were solved. Would recommend these folks to anybody Who wants good reliable and honest service.",
+      "author": "Kevin Holmboe",
+      "when": "August 2025",
+      "source": "Google"
+    }
+  ],
+  "area_lead": "",
+  "areas": [],
+  "hours": [
+    [
+      "Monday to Saturday",
+      "7 AM to 7 PM"
+    ],
+    [
+      "Sunday",
+      "7 AM to 5 PM"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

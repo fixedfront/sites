@@ -1,0 +1,91 @@
+{
+  "name": "Full Green Landscaping LLC",
+  "short_name": "Full Green Landscaping",
+  "tagline": "Landscaping, mulch and stone work in Upper Marlboro",
+  "meta_description": "Stone work, mulching, clean-up and regular landscaping in Upper Marlboro. 37 Google reviews, 4.9 stars. Call (240) 330-3546.",
+  "phone": "(240) 330-3546",
+  "email": "",
+  "address": "3619 Edwards St suite #B, Upper Marlboro 20774",
+  "headline": "Landscaping for properties in Upper Marlboro.",
+  "subhead": "Stone work, mulching, clean-up, and week-to-week care. Rated 4.9 from 37 Google reviews.",
+  "rating": "4.9",
+  "review_count": "37",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Upper Marlboro",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Stone work, mulching, property clean-up, and regular landscaping care.",
+  "services": [
+    {
+      "name": "Stone work",
+      "blurb": "Stone work a customer named alongside mulching and a property clean-up."
+    },
+    {
+      "name": "Mulching",
+      "blurb": "Mulching called out in a review of recent property work."
+    },
+    {
+      "name": "Property clean-up",
+      "blurb": "Clean-up of a property as part of the landscaping."
+    },
+    {
+      "name": "Regular property care",
+      "blurb": "Week-to-week care of a property, which one customer has had for the last 3 years."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Stone, mulch and clean-up",
+      "text": "A reviewer was happy with the stone work, mulching, and clean-up of the property."
+    },
+    {
+      "title": "Prompt and professional",
+      "text": "Customers describe Nelson as professional and prompt."
+    },
+    {
+      "title": "Week-to-week care",
+      "text": "One customer says the crew has taken care of the property week to week for the last 3 years."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Nelson Escobar and his staff do excellent work . Could not have been happier with the stone work , mulching and clean up of my property .",
+      "author": "James D.",
+      "when": "March 2026",
+      "source": "Yelp"
+    },
+    {
+      "text": "Nelson was spot on with his service. Very professional and prompt with his work. I highly recommend him for your landscaping needs.",
+      "author": "Paul S.",
+      "when": "May 2023",
+      "source": "Yelp"
+    },
+    {
+      "text": "Full Green Landscaping is great! Week to week they take care of our property and have done it for the last 3 years! Nelson does great work!",
+      "author": "Jaimee F.",
+      "when": "July 2021",
+      "source": "Yelp"
+    }
+  ],
+  "area_lead": "Based in Upper Marlboro.",
+  "areas": [
+    "Upper Marlboro"
+  ],
+  "hours": [
+    [
+      "Monday to Saturday",
+      "7 AM to 6:30 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

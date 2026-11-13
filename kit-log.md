@@ -26,3 +26,4 @@
 2026-11-11T17:55:00Z built 40 pages; skipped/failed: none; batch 3 added 9 previews (paramount-hvac, elite-air-solutions, rapid-roofing-remodeling, westview-roofing, 1st-choice-plumbing, titanium-restorations, drain-masters, beyond-cooling, oneill-plumbing-heating); 15 records with build_ready false were not built
 2026-11-11T17:59:22Z rebuilt 9 batch-3 pages; per-review source captions; blank review dates omit the trailing comma; existing pages not regenerated
 2026-11-12T14:35:58Z built 31 pages; skipped/failed: none; no change
+2026-11-13T04:40:56Z built 46 pages; skipped/failed: none; batch 4 added 6 previews (m-escobar-landscaping, full-green-landscaping-llc, calvert-plumbing-and-backflow-services, lane-home-improvement-llc, an-roofing-company, rios-hvac)

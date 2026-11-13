@@ -1,0 +1,83 @@
+{
+  "name": "Lane Home Improvement LLC",
+  "short_name": "Lane Home Improvement",
+  "tagline": "Roof replacement and repair in Baltimore",
+  "meta_description": "Roof replacement, roof repair, and gutters in Baltimore. 40 Google reviews, 4.9 stars. Call (410) 487-5632.",
+  "phone": "(410) 487-5632",
+  "email": "",
+  "address": "1818 Tyler Road, Baltimore 21222",
+  "headline": "Roofing for homes in Baltimore.",
+  "subhead": "Roof tear-offs, repairs, and gutters, explained as the work goes. Rated 4.9 from 40 Google reviews.",
+  "rating": "4.9",
+  "review_count": "40",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Baltimore",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Roof replacement, roof repair, and gutters with leaf guards and downspouts.",
+  "services": [
+    {
+      "name": "Roof replacement",
+      "blurb": "Tear-off and replacement, including shingles, sheathing, underlayment, and ridge vents a customer walked through."
+    },
+    {
+      "name": "Roof repair",
+      "blurb": "Roof repair, the portion of the work one reviewer has had done so far."
+    },
+    {
+      "name": "Gutters and downspouts",
+      "blurb": "Gutters, leaf guards, and downspouts included in a roof project a customer described."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Walks through the scope",
+      "text": "Reviewers mention time spent on shingles, tear-off, sheathing, underlayment, ridge vents, gutters, and downspouts."
+    },
+    {
+      "title": "Knowledgeable on the roof",
+      "text": "A customer with roof and attic-ventilation problems called the team knowledgeable and professional."
+    },
+    {
+      "title": "Careful around the property",
+      "text": "One reviewer said the crew left a church parking lot clean for services and power washed the sidewalks."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "My wife and I couldn't be happier with the superior service, pricing and the completed project which Elizabeth, Mel and the team at Lane Home Improvement provided to us! From start to finish, their excellent customer service, attention to detail and quality of work was exceptional. We appreciated all of the time and effort they spent explaining the very involved project scope (shingle selection, roof tear-off, sheathing replacement, underlayment, ridge vents, gutters, leaf guards and downspouts). They continuously offered advice, listened to our concerns throughout the project and worked…",
+      "author": "Harry Meise",
+      "when": "June 2025",
+      "source": "Google"
+    },
+    {
+      "text": "I've had a few issues going on with my roof and ventilation in my attic and so far I've only completed the roof repair portion of the services they have recommended, but the team at Lane Home Improvement has been incredibly knowledgeable and professional about taking care of my problems. Looking forward to getting the rest of the work done as needed and definitely recommend this roofing company to anyone else looking to take care of their home.",
+      "author": "Hannah Johnson",
+      "when": "June 2025",
+      "source": "Google"
+    },
+    {
+      "text": "I cannot say enough good things about Lane Home Improvement. They did a fantastic job on our church’s roof. Their crew was respectful and worked fast. The owners were clear and fair in their pricing. They went above and beyond, ensuring our parking lot was clean for services and they even power washed our sidewalks! Truly, this is one of the best companies I’ve ever worked with.",
+      "author": "Ben Hyrne",
+      "when": "March 2025",
+      "source": "Google"
+    }
+  ],
+  "area_lead": "Based in Baltimore.",
+  "areas": [
+    "Baltimore"
+  ],
+  "hours": [
+    [
+      "Monday to Sunday",
+      "Open 24 hours"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

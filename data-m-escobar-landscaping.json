@@ -1,0 +1,97 @@
+{
+  "name": "M. Escobar Landscaping",
+  "short_name": "M. Escobar Landscaping",
+  "tagline": "Landscaping, lawn care and raised beds in Upper Marlboro",
+  "meta_description": "Lawn care, clearing, raised beds and planting in Upper Marlboro. 38 Google reviews, 5.0 stars. Call (240) 229-1436.",
+  "phone": "(240) 229-1436",
+  "email": "",
+  "address": "3619 Edwards St, Upper Marlboro 20774",
+  "headline": "Landscaping for homes in Upper Marlboro.",
+  "subhead": "Lawn and shrub care, clearing, and garden beds. Rated 5.0 from 38 Google reviews.",
+  "rating": "5.0",
+  "review_count": "38",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Upper Marlboro",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "Lawn and shrub care, clearing overgrown ground, raised beds, and planting.",
+  "services": [
+    {
+      "name": "Lawn and shrub care",
+      "blurb": "Keeping lawns and bushes in shape, the ongoing work customers describe."
+    },
+    {
+      "name": "Clearing overgrown areas",
+      "blurb": "Clearing difficult, overgrown parts of a property."
+    },
+    {
+      "name": "Raised garden beds",
+      "blurb": "Raised beds for an outdoor garden, including hugelkultur beds set up ready for planting."
+    },
+    {
+      "name": "Planting",
+      "blurb": "Planting for a home garden, including fruit trees a customer asked for."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Comes out quickly",
+      "text": "A reviewer said the crew came within a couple of days and cleared overgrown areas at an affordable price."
+    },
+    {
+      "title": "Garden beds and planting",
+      "text": "Customers mention raised beds, hugelkultur beds, and fruit trees planted for a home garden."
+    },
+    {
+      "title": "Stays with the yard",
+      "text": "One customer says the crew has kept the lawn and bushes for over 12 years."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "We have been working with Merwin and his crew for several years, first at our townhouse and now at our new home, for all our landscaping needs. Recently, he added some amazing raised beds for our outdoor garden and was gracious enough to plant a few fruit trees for us. We absolutely love how everything turned out, and would highly recommend his services to anyone looking for a skilled lanscaper.",
+      "author": "Lorraine N.",
+      "when": "May 2025",
+      "source": "Google"
+    },
+    {
+      "text": "I had a great experience with Escobar landscaping. Merwin was extremely responsive and came out to do a job within a couple days of me calling. His crew cleared some difficult and very overgrown areas of our property and did it efficiently and at an affordable price. I will be using his services again in the future.",
+      "author": "Clayton Marshall",
+      "when": "April 2024",
+      "source": "Google"
+    },
+    {
+      "text": "Marwine's Landscaping has kept my lawn and bushes perfectly for over 12 years. He is a warm friendly professional who will do whatever it takes to complete the job to your satisfaction. I highly recommend him and his team.",
+      "author": "Ruth Solomon",
+      "when": "April 2024",
+      "source": "Google"
+    },
+    {
+      "text": "Marwin and team did another great job setting up two more raised beds using hugelkultur as they did last year. Everything is ready for planting. Escobar landscaping continues to be my landscaper of choice.",
+      "author": "M N.",
+      "when": "April 2026",
+      "source": "Birdeye"
+    }
+  ],
+  "area_lead": "Based in Upper Marlboro.",
+  "areas": [
+    "Upper Marlboro"
+  ],
+  "hours": [
+    [
+      "Monday to Saturday",
+      "7 AM to 6 PM"
+    ],
+    [
+      "Sunday",
+      "Closed"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}

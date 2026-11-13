@@ -3,7 +3,12 @@
 Usage: python3 build_preview.py data.json out.html
 The data file holds the facts pulled from public listings and the current site. A review may carry its own
 "source" when it is not from review_source (the page-level value still labels the star rating). A blank
-"when" is left off the caption, so it does not end with a comma. The copy fields
+"when" is left off the caption, so it does not end with a comma. A blank address is left out of the
+contact block and the footer. Blank areas and a blank area_lead leave out "Where we work". A blank
+area_short makes the why heading "Why customers call {short_name}". A place name stays
+"Why {area_short} calls {short_name}". years and trust3 are omitted when blank, so an empty trust
+stat is not shown. trust3_big / trust3_small may be one string pair, or a three-item list whose
+third item is used only when it is non-empty (the rating chip already covers the first two). The copy fields
 (headline, subhead, services_lead, why_lead, why items, area_lead) are written by Claude per business.
 
 "Make it mine" goes to the Fixedfront Stripe Payment Link (PAYMENT_LINK below) with the page slug as
@@ -55,8 +60,15 @@ def render(d, slug=''):
         trust.append(f'<div><b>{esc(d["rating"])} stars</b>{esc(d["review_count"])} {esc(d.get("review_source", "Google"))} reviews</div>')
     if d.get('years'):
         trust.append(f'<div><b>{esc(d["years"])}</b>years in {esc(d["area_short"])}</div>')
-    if d.get('trust3_big'):
-        trust.append(f'<div><b>{esc(d["trust3_big"])}</b>{esc(d.get("trust3_small", ""))}</div>')
+    # A three-item trust list is the research shape (rating, review count, extra fact).
+    # The rating chip already shows the first two. Keep the third only when it is a real fact.
+    big = d.get('trust3_big')
+    small = d.get('trust3_small', '')
+    if isinstance(big, (list, tuple)):
+        big = str(big[2] if len(big) > 2 else '').strip()
+        small = str(small[2] if isinstance(small, (list, tuple)) and len(small) > 2 else '').strip()
+    if big:
+        trust.append(f'<div><b>{esc(big)}</b>{esc(small)}</div>')
     n = len(d['reviews'])
     reviews_lead = d.get('reviews_lead') or f'{d["rating"]} stars across {d["review_count"]} {d.get("review_source", "Google")} reviews. ' + ({1: 'One recent one:', 2: 'Two recent ones:', 3: 'Three recent ones:'}.get(n, 'Recent ones:'))
     fields = {
@@ -64,9 +76,14 @@ def render(d, slug=''):
         'meta_description': d['meta_description'], 'brand_color': d.get('brand_color', '#1f4e79'),
         'accent_color': d.get('accent_color', '#f5b921'), 'logo_first': first, 'logo_second': second,
         'phone': d['phone'], 'phone_digits': digits, 'headline': d['headline'], 'subhead': d['subhead'],
-        'rating': d['rating'], 'review_count': d['review_count'], 'area_short': d['area_short'],
+        'rating': d['rating'], 'review_count': d['review_count'],
+        'why_heading': (
+            f'Why {d["area_short"]} calls {d.get("short_name", first)}'
+            if str(d.get('area_short') or '').strip()
+            else f'Why customers call {d.get("short_name", first)}'
+        ),
         'reviews_lead': reviews_lead, 'services_lead': d['services_lead'],
-        'why_lead': d['why_lead'], 'area_lead': d['area_lead'], 'address': d['address'], 'email': d['email'],
+        'why_lead': d['why_lead'], 'area_lead': d['area_lead'], 'address': d.get('address') or '', 'email': d.get('email') or '',
         'year': d.get('year', '2026'), 'license_line': d.get('license_line', ''),
         'checkout_url': checkout_url(d, slug), 'call_url': d.get('call_url', '#'),
         'form_endpoint': d.get('form_endpoint', '#'), 'brand': d.get('brand', 'Fixedfront'),
@@ -84,6 +101,17 @@ def render(d, slug=''):
     if not d['why']:
         out = re.sub(r'<section class="alt" id="why">.*?</section>', '', out, flags=re.S)
         out = out.replace('<a href="#why">Why us</a>', '')
+    has_areas = any(str(a).strip() for a in (d.get('areas') or []))
+    if not has_areas and not str(d.get('area_lead') or '').strip():
+        out = re.sub(
+            r'\n<section class="alt"><div class="wrap">\n  <h2>Where we work</h2>\n  <p class="lead"></p>\n  <div class="area"></div>\n</div></section>\n',
+            '\n',
+            out,
+            count=1,
+        )
+    if not str(d.get('address') or '').strip():
+        out = out.replace('      <p></p>\n', '', 1)
+        out = out.replace('<div></div></div></footer>', '</div></footer>', 1)
     left = re.findall(r'{{\w+}}', out)
     assert not left, f'unfilled placeholders: {left}'
     return out

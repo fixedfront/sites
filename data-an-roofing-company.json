@@ -1,0 +1,79 @@
+{
+  "name": "AN Roofing Company",
+  "short_name": "AN Roofing Company",
+  "tagline": "New roofs in Annapolis",
+  "meta_description": "New roof installation in Annapolis. 27 Google reviews, 4.9 stars. Call (410) 756-8798.",
+  "phone": "(410) 756-8798",
+  "email": "",
+  "address": "West Woods, 114 Hearne Ct, Annapolis 21401",
+  "headline": "New roofs in Annapolis.",
+  "subhead": "A roofing company customers hire to put on a new roof. Rated 4.9 from 27 Google reviews.",
+  "rating": "4.9",
+  "review_count": "27",
+  "review_source": "Google",
+  "years": "",
+  "area_short": "Annapolis",
+  "trust3_big": "",
+  "trust3_small": "",
+  "services_lead": "New roof installation, which is the work customers describe in reviews.",
+  "services": [
+    {
+      "name": "New roofs",
+      "blurb": "Putting on a new roof, the job reviewers say they hired the company for."
+    },
+    {
+      "name": "Installation and fit",
+      "blurb": "Installation a reviewer said took real effort, with materials that looked like good quality and a fit that went perfectly."
+    }
+  ],
+  "why_lead": "What customers mention in public reviews.",
+  "why": [
+    {
+      "title": "Patient with questions",
+      "text": "Reviewers say the workers are nice, patient, and take the time to answer questions."
+    },
+    {
+      "title": "Quality of the fit",
+      "text": "One customer said the materials looked like good quality and the fitting went perfectly."
+    },
+    {
+      "title": "Effort on the job",
+      "text": "A reviewer said the team put in a lot of effort and was happy with the new roof."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Great service and workers that are nice. They were really patient and addressed all of my inquiries. I believe in their job.",
+      "author": "Verdell Gonzalez",
+      "when": "February 2026",
+      "source": "Google"
+    },
+    {
+      "text": "Great company for putting on roofs. The items look like they are of good quality, and the fitting went perfectly.",
+      "author": "Sabrina Eller",
+      "when": "February 2026",
+      "source": "Google"
+    },
+    {
+      "text": "Getting a new roof put on was a great experience. The team put forth a lot of effort and got amazing outcomes.",
+      "author": "Tiffany Pan",
+      "when": "January 2026",
+      "source": "Google"
+    }
+  ],
+  "area_lead": "Based in Annapolis.",
+  "areas": [
+    "Annapolis"
+  ],
+  "hours": [
+    [
+      "Monday to Sunday",
+      "Open 24 hours"
+    ]
+  ],
+  "year": "2026",
+  "license_line": "",
+  "checkout_url": "#checkout",
+  "call_url": "https://calendly.com/deductback/website",
+  "form_endpoint": "#"
+}
