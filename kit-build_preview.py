@@ -15,6 +15,11 @@ third item is used only when it is non-empty (the rating chip already covers the
 client_reference_id, so a payment says which business bought. A data file's checkout_url is honoured
 only when it is an explicit https:// URL; "#checkout", "#", a mailto: or a missing key all mean "use
 the Payment Link". Set checkout_url to "none" to keep a mailto button instead (special offers, e.g. A1).
+
+The preview bar is the only price on the page. It reads "$795 today, then $49 a month." unless the
+data file sets "pricing". "pricing.setup" and "pricing.hosting" are display strings joined as
+"{setup}. {hosting}." A non-blank "pricing.line" is that whole sentence instead. Blank or missing
+pricing leaves the default sentence, so other sites rebuild unchanged.
 """
 import json, sys, html, re, os
 
@@ -23,6 +28,31 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # Stripe Payment Link exists, PAYMENT_LINK is '' and every "Make it mine" button is a mailto instead.
 # Old link (do not reuse): https://buy.stripe.com/8x24gza4UeXs84YeHa0Ba00
 PAYMENT_LINK = 'https://buy.stripe.com/9B69ATfnXdFz0HZ3Fg5Vu00'   # Fixedfront: $795 setup + $49/month (created 11 Nov 2026)
+
+# Standard preview-bar sentence. A data file's optional "pricing" object replaces it.
+# Absent, null, or blank pricing leaves this text, so existing pages rebuild unchanged.
+DEFAULT_PRICE_LINE = '$795 today, then $49 a month.'
+
+def _price_part(value):
+    if not isinstance(value, str):
+        return ''
+    text = value.strip()
+    if text.endswith('.'):
+        text = text[:-1].rstrip()
+    return text
+
+def price_line(d):
+    """Preview-bar price sentence. No usable pricing object keeps DEFAULT_PRICE_LINE."""
+    pricing = d.get('pricing')
+    if not isinstance(pricing, dict):
+        return DEFAULT_PRICE_LINE
+    line = pricing.get('line')
+    if isinstance(line, str) and line.strip():
+        return line.strip()
+    parts = [p for p in (_price_part(pricing.get('setup')), _price_part(pricing.get('hosting'))) if p]
+    if not parts:
+        return DEFAULT_PRICE_LINE
+    return '. '.join(parts) + '.'
 
 def checkout_url(d, slug):
     u = (d.get('checkout_url') or '').strip()
@@ -86,6 +116,7 @@ def render(d, slug=''):
         'why_lead': d['why_lead'], 'area_lead': d['area_lead'], 'address': d.get('address') or '', 'email': d.get('email') or '',
         'year': d.get('year', '2026'), 'license_line': d.get('license_line', ''),
         'checkout_url': checkout_url(d, slug), 'call_url': d.get('call_url', '#'),
+        'price_line': price_line(d),
         'form_endpoint': d.get('form_endpoint', '#'), 'brand': d.get('brand', 'Fixedfront'),
     }
     out = t
