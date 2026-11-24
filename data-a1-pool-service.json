@@ -58,6 +58,10 @@
   "hours": [],
   "year": "2026",
   "license_line": "",
+  "pricing": {
+    "setup": "Setup: free (normally $795)",
+    "hosting": "Hosting: free for the first year, then $49/month"
+  },
   "checkout_url": "none",
   "call_url": "https://calendly.com/deductback/website",
   "form_endpoint": "#"

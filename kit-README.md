@@ -18,3 +18,22 @@ A blank address is omitted from the contact block and the footer. If both areas 
 
 ## Price change (9 Nov 2026)
 Price is now $795 setup + $49/month. The $990 + $149 Payment Link is retired. New Payment Link (11 Nov 2026): https://buy.stripe.com/9B69ATfnXdFz0HZ3Fg5Vu00 — wired into PAYMENT_LINK; A1 keeps its mailto (checkout_url "none").
+
+## Preview-bar price
+The generated page states Fixedfront's price in one place: the dark preview bar (`Make it yours: ...`). The hero, services, quote form, footer, meta description, and page title do not include it. The template has no pricing section and no JSON-LD. With no override the sentence is `$795 today, then $49 a month.`
+
+A data file may set an optional `pricing` object to replace that sentence. Leave `pricing` out, or leave `setup` and `hosting` blank, and the page keeps the default sentence, so a rebuild of an existing site does not change.
+
+- `setup` and `hosting` are display strings. They are joined as `{setup}. {hosting}.` A trailing period on either string is dropped so the join keeps a single period.
+- `line`, when it is a non-blank string, is the whole sentence and is used instead of `setup` and `hosting`.
+
+A1 Pool Service is a founding customer and sets:
+
+```json
+"pricing": {
+  "setup": "Setup: free (normally $795)",
+  "hosting": "Hosting: free for the first year, then $49/month"
+}
+```
+
+That renders `Setup: free (normally $795). Hosting: free for the first year, then $49/month.` The Stripe Payment Link, `checkout_url`, and the Calendly button are separate from `pricing` and are not changed by it.
